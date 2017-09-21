@@ -279,6 +279,7 @@ class CornersProblem(search.SearchProblem):
         """
         self.walls = startingGameState.getWalls()
         self.startingPosition = startingGameState.getPacmanPosition()
+
         top, right = self.walls.height-2, self.walls.width-2
         self.corners = ((1,1), (1,top), (right, 1), (right, top))
         for corner in self.corners:
@@ -288,6 +289,8 @@ class CornersProblem(search.SearchProblem):
         # Please add any code here which you would like to use
         # in initializing the problem
         "*** YOUR CODE HERE ***"
+        self.startState = tuple([(self.startingPosition),  self.corners])
+
 
     def getStartState(self):
         """
@@ -295,14 +298,16 @@ class CornersProblem(search.SearchProblem):
         space)
         """
         "*** YOUR CODE HERE ***"
-        util.raiseNotDefined()
+
+        return self.startState
 
     def isGoalState(self, state):
         """
         Returns whether this search state is a goal state of the problem.
         """
         "*** YOUR CODE HERE ***"
-        util.raiseNotDefined()
+        if len(tuple(state[1])) == 0:
+            return True
 
     def getSuccessors(self, state):
         """
@@ -325,7 +330,15 @@ class CornersProblem(search.SearchProblem):
             #   hitsWall = self.walls[nextx][nexty]
 
             "*** YOUR CODE HERE ***"
-
+            currentPosition, remain = state
+            x, y = currentPosition
+            dx, dy = Actions.directionToVector(action)
+            nextx, nexty = int(x + dx), int(y + dy)
+            hitsWall = self.walls[nextx][nexty]
+            if not hitsWall:
+                nextp = tuple([nextx, nexty])
+                remain = tuple(corner for corner in remain if corner != nextp)
+                successors.append([tuple([nextp, remain]), action, 1])
         self._expanded += 1 # DO NOT CHANGE
         return successors
 
@@ -360,7 +373,14 @@ def cornersHeuristic(state, problem):
     walls = problem.walls # These are the walls of the maze, as a Grid (game.py)
 
     "*** YOUR CODE HERE ***"
-    return 0 # Default to trivial solution
+    import util
+    euclideanFn = lambda a, b:( (a[0] - b[0]) ** 2 + (a[1] - b[1]) ** 2 ) ** 0.5
+    remain = state[1]
+    if not remain:
+        return 0
+    return max(util.manhattanDistance(state[0], corner) for corner in remain)
+    # return max(euclideanFn(state[0], corner) for corner in remain)
+
 
 class AStarCornersAgent(SearchAgent):
     "A SearchAgent for FoodSearchProblem using A* and your foodHeuristic"
