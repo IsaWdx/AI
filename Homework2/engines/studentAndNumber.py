@@ -13,10 +13,16 @@ class StudentEngine(Engine):
     ALPHA_BETA_MAX_DEPTH = 3
     MAX_VALUE = 99999
 
+    NODE_ALL_NUMBER = 0
+    NODE_ALL_HIT_NUMBER = 0
+    hash_all_dict = {}
+
+    NODE_HEURISTICS_NUMBER = 0
+    NODE_HEURISTICS_HIT_NUMBER = 0
     hash_dict = {}
 
-    NODE_VISIT_NUMBER = 0
-    NODE_HIT_NUMBER = 0
+    NODE_FACTOR_ALL_NUMBER = 0
+    NODE_FACTOR_AVE_NUMBER = 0
 
     BOARD_VALUE = [
         [120, -20, 20, 5, 5, 20, -20, 120],
@@ -31,14 +37,14 @@ class StudentEngine(Engine):
 
     def get_move(self, board, color, move_num=None,
                  time_remaining=None, time_opponent=None):
-        """ Wrapper function that chooses either vanilla minimax or
+        """ Wrapper function that chooses either vanilla minimax or 
         alpha-beta. """
         self.my_color = color
         f = self.get_ab_minimax_move if self.alpha_beta else self.get_minimax_move
         return f(board, color, move_num, time_remaining, time_opponent)
 
     def get_minimax_move(self, board, color, move_num=None,
-                         time_remaining=None, time_opponent=None):
+                 time_remaining=None, time_opponent=None):
 
         # Get a list of all legal moves.
         moves = board.get_legal_moves(color)
@@ -49,15 +55,16 @@ class StudentEngine(Engine):
         #         count -= 1
         #     if count % 8 == 0:
         #         self.STATIC_MAX_DEPTH = self.DYNAMIC_MAX_DEPTH
-
+        
         # Return the best move according to max-min decision
-        final_move = max(moves,
-                         key=lambda move: self._get_minimax_value(board, self._hash_board(board), color, move, 0))
-        print "minimax node number = ", self.NODE_VISIT_NUMBER, "hit number =", self.NODE_HIT_NUMBER
+        final_move = max(moves, key=lambda move: self._get_minimax_value(board, self._hash_board(board), color, move, 0))
+        print move_num, " -> minimax node number = ", self.NODE_ALL_NUMBER, "hit number =", self.NODE_ALL_HIT_NUMBER
+        print move_num, " -> minimax heuristics node number = ", self.NODE_HEURISTICS_NUMBER, "hit number = ", self.NODE_HEURISTICS_HIT_NUMBER
+        print move_num, " -> ave factor = ", self.NODE_FACTOR_ALL_NUMBER / (1.0 * self.NODE_FACTOR_AVE_NUMBER)
         return final_move
 
     def get_ab_minimax_move(self, board, color, move_num=None,
-                            time_remaining=None, time_opponent=None):
+                 time_remaining=None, time_opponent=None):
         """ Skeleton code from greedy.py to get you started. """
         # Get a list of all legal moves.
         moves = board.get_legal_moves(color)
@@ -69,14 +76,14 @@ class StudentEngine(Engine):
         #         count -= 1
         #     if count % 8 == 0:
         #         self.ALPHA_BETA_MAX_DEPTH = 3
-
+        
         # Return the best move according to our simple utility function:
         # which move yields the largest different in number of pieces for the
         # given color vs. the opponent?
-        final_move = max(moves,
-                         key=lambda move: self._get_minimax_alphabeta_value(board, self._hash_board(board), color, move,
-                                                                            -self.MAX_VALUE, self.MAX_VALUE, 0))
-        print "ab_minimax node number = ", self.NODE_VISIT_NUMBER, "hit number =", self.NODE_HIT_NUMBER
+        final_move = max(moves, key=lambda move: self._get_minimax_alphabeta_value(board, self._hash_board(board), color, move, -self.MAX_VALUE, self.MAX_VALUE, 0))
+        print move_num, " -> ab minimax node number = ", self.NODE_ALL_NUMBER, "hit number =", self.NODE_ALL_HIT_NUMBER
+        print move_num, " -> ab minimax heuristics node number = ", self.NODE_HEURISTICS_NUMBER, "hit number = ", self.NODE_HEURISTICS_HIT_NUMBER
+        print move_num, " -> ab ave factor = ", self.NODE_FACTOR_ALL_NUMBER / (1.0 * self.NODE_FACTOR_AVE_NUMBER)
         return final_move
 
     def _hash_board(self, board):
@@ -100,12 +107,12 @@ class StudentEngine(Engine):
               + expected_move_value_for_my_color
         """
 
-        self.NODE_VISIT_NUMBER += 1
+        self.NODE_HEURISTICS_NUMBER += 1
 
         # hash_value = self._hash_board(board)
         hash_value = next_board_hash
         if hash_value in self.hash_dict:
-            self.NODE_HIT_NUMBER += 1
+            self.NODE_HEURISTICS_HIT_NUMBER += 1
             return self.hash_dict[hash_value]
 
         my_color = self.my_color
@@ -140,37 +147,8 @@ class StudentEngine(Engine):
         #         "op_sigma_value", op_sigma_value, \
         #         "expected_move_value_for_my_color", expected_move_value_for_my_color, \
         #         my_sigma_value - op_sigma_value + expected_move_value_for_my_color
-        # parity
-        # my_count = board.count(my_color)
-        # op_count = board.count(op_color)
-        # if my_count > op_count:
-        #     p = 100 * my_count / (my_count + op_count)
-        # elif my_count < op_count:
-        #     p = -100 * op_count / (my_count + op_count)
-        # else:
-        #     p = 0
 
-        # corner:
-        scale = 25
-        c = 0
-        # print board[0][0]
-        # print board[1][2]
-        for corner in [(0, 0), (0, 7), (7, 0), (7, 7)]:
-            for move in [(0, 1), (0, -1), (1, 0), (-1, 0)]:
-                if board[corner[0]][corner[1]] == 0:
-                    if 0 <= corner[0] + move[0] <= 7 and 0 <= corner[1] + move[1] <= 7:
-                        if board[corner[0] + move[0]][corner[1] + move[1]] == my_color:
-                            c -= 12.5
-                        elif board[corner[0] + move[0]][corner[1] + move[1]] == op_color:
-                            c += 12.5
-                        else:
-                            c = 0
-                else:
-                    if board[corner[0]][corner[1]] == my_color:
-                        c += 25
-                    else:
-                        c -= 25
-        heuristics_value = my_sigma_value - op_sigma_value + expected_move_value_for_my_color#  + c
+        heuristics_value = my_sigma_value - op_sigma_value + expected_move_value_for_my_color
         self.hash_dict[hash_value] = heuristics_value
         return heuristics_value
 
@@ -206,6 +184,12 @@ class StudentEngine(Engine):
     def _get_minimax_value(self, board, board_hash, color, move, depth):
         """ Return the value of minimax for move. """
 
+        self.NODE_ALL_NUMBER += 1
+        if board_hash in self.hash_all_dict:
+            self.NODE_ALL_HIT_NUMBER += 1
+        else:
+            self.hash_all_dict[board_hash] = 1
+
         # Create a deepcopy of the board to preserve the state of the actual board
         next_board = deepcopy(board)
         next_board_hash = board_hash
@@ -232,19 +216,28 @@ class StudentEngine(Engine):
 
         max_value = -self.MAX_VALUE
 
+        node_factor = 0
         # search next turn
         for possible_next_move in next_moves:
-            next_value = -self._get_minimax_value(next_board, next_board_hash, next_color, possible_next_move,
-                                                  depth + 1)
+            node_factor += 1
+            next_value = -self._get_minimax_value(next_board, next_board_hash, next_color, possible_next_move, depth + 1)
             if next_value > max_value:
                 max_value = next_value
 
         # board.display((10, 10))
         # print "color", color, "move", move, "depth", depth, "value", max_value
+        self.NODE_FACTOR_ALL_NUMBER += node_factor
+        self.NODE_FACTOR_AVE_NUMBER += 1
         return max_value
 
     def _get_minimax_alphabeta_value(self, board, board_hash, color, move, alpha, beta, depth):
         """ minimax with alphabeta """
+
+        self.NODE_ALL_NUMBER += 1
+        if board_hash in self.hash_all_dict:
+            self.NODE_ALL_HIT_NUMBER += 1
+        else:
+            self.hash_all_dict[board_hash] = 1
 
         # Create a deepcopy of the board to preserve the state of the actual board
         next_board = deepcopy(board)
@@ -268,22 +261,27 @@ class StudentEngine(Engine):
                 # every one cannot move, game over
                 return mark * self._get_heuristics_value(board, next_board_hash, game_over=True)
             # this turn cannot move
-            return -self._get_minimax_alphabeta_value(next_board, next_board_hash, next_color, (-1, -1), -beta, -alpha,
-                                                      depth + 1)
+            return -self._get_minimax_alphabeta_value(next_board, next_board_hash, next_color, (-1, -1), -beta, -alpha, depth + 1)
 
         max_value = -self.MAX_VALUE
 
+        node_factor = 0
         # search next turn
         for possible_next_move in next_moves:
             next_value = -self._get_minimax_alphabeta_value(next_board, next_board_hash, next_color, possible_next_move,
                                                             -beta, -alpha, depth + 1)
+            node_factor += 1
             if next_value > alpha:
                 alpha = next_value
                 # meet the alpha beta pruning
                 if alpha >= beta:
+                    self.NODE_FACTOR_ALL_NUMBER += node_factor
+                    self.NODE_FACTOR_AVE_NUMBER += 1
                     return next_value
             if next_value > max_value:
                 max_value = next_value
+        self.NODE_FACTOR_ALL_NUMBER += node_factor
+        self.NODE_FACTOR_AVE_NUMBER += 1
         return max_value
 
 
