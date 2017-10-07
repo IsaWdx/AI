@@ -9,8 +9,8 @@ class StudentEngine(Engine):
     alpha_beta = False
     my_color = 0  # 1 = white, -1 = black
 
-    MINIMAX_MAX_DEPTH = 3
-    ALPHA_BETA_MAX_DEPTH = 3
+    MINIMAX_MAX_DEPTH = 1
+    ALPHA_BETA_MAX_DEPTH = 1
     MAX_VALUE = 99999
 
     hash_dict = {}

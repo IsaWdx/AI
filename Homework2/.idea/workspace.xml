@@ -31,6 +31,18 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="student.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/engines/student.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="79">
+              <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="minimax.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/minimax.txt">
           <provider selected="true" editor-type-id="text-editor">
@@ -53,12 +65,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="readme.txt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/engines/readme.txt">
+      <file leaf-file-name="README.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/engines/README.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-29">
+            <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="random3.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/engines/random3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#38#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -69,30 +93,6 @@
             <state relative-caret-position="382">
               <caret line="27" column="17" lean-forward="true" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="student-v3.1-minx-ab-hash-update.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/student-v3.1-minx-ab-hash-update.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2136">
-              <caret line="170" column="31" lean-forward="true" selection-start-line="170" selection-start-column="31" selection-end-line="170" selection-end-column="31" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="student-v2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/student-v2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="50" column="54" lean-forward="false" selection-start-line="50" selection-start-column="54" selection-end-line="50" selection-end-column="54" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -133,10 +133,10 @@
         <option value="$PROJECT_DIR$/student-v2.py" />
         <option value="$PROJECT_DIR$/student-v3.1-minx-ab-hash-update.py" />
         <option value="$PROJECT_DIR$/engines/studentAndNumber.py" />
-        <option value="$PROJECT_DIR$/engines/student.py" />
         <option value="$PROJECT_DIR$/ab.txt" />
         <option value="$PROJECT_DIR$/statistics.py" />
         <option value="$PROJECT_DIR$/readme.txt" />
+        <option value="$PROJECT_DIR$/engines/student.py" />
       </list>
     </option>
   </component>
@@ -499,16 +499,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/engines/student.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="95" column="58" lean-forward="false" selection-start-line="95" selection-start-column="58" selection-end-line="95" selection-end-column="58" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -521,9 +511,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -549,9 +537,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2136">
           <caret line="170" column="31" lean-forward="true" selection-start-line="170" selection-start-column="31" selection-end-line="170" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -559,9 +545,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
           <caret line="50" column="54" lean-forward="false" selection-start-line="50" selection-start-column="54" selection-end-line="50" selection-end-column="54" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -631,11 +615,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/engines/readme.txt">
+    <entry file="file://$PROJECT_DIR$/engines/README.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-29">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/engines/random3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/engines/student.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
