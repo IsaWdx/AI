@@ -9,8 +9,8 @@ class StudentEngine(Engine):
     alpha_beta = False
     my_color = 0  # 1 = white, -1 = black
 
-    MINIMAX_MAX_DEPTH = 1
-    ALPHA_BETA_MAX_DEPTH = 1
+    MINIMAX_MAX_DEPTH = 2
+    ALPHA_BETA_MAX_DEPTH = 2
     MAX_VALUE = 99999
 
     hash_dict = {}
@@ -43,7 +43,7 @@ class StudentEngine(Engine):
         # Get a list of all legal moves.
         moves = board.get_legal_moves(color)
 
-        # if time_remaining > 15.0:
+         # if time_remaining > 15.0:
         #     count = board.count(color) + board.count(color * -1)
         #     if count % 2 == 1:
         #         count -= 1
@@ -141,14 +141,14 @@ class StudentEngine(Engine):
         #         "expected_move_value_for_my_color", expected_move_value_for_my_color, \
         #         my_sigma_value - op_sigma_value + expected_move_value_for_my_color
         # parity
-        # my_count = board.count(my_color)
-        # op_count = board.count(op_color)
-        # if my_count > op_count:
-        #     p = 100 * my_count / (my_count + op_count)
-        # elif my_count < op_count:
-        #     p = -100 * op_count / (my_count + op_count)
-        # else:
-        #     p = 0
+        my_count = board.count(my_color)
+        op_count = board.count(op_color)
+        if my_count > op_count:
+            p = 100 * my_count / (my_count + op_count)
+        elif my_count < op_count:
+            p = -100 * op_count / (my_count + op_count)
+        else:
+            p = 0
 
         # corner:
         scale = 25
@@ -170,7 +170,7 @@ class StudentEngine(Engine):
                         c += 25
                     else:
                         c -= 25
-        heuristics_value = my_sigma_value - op_sigma_value + expected_move_value_for_my_color#  + c
+        heuristics_value = my_sigma_value - op_sigma_value + expected_move_value_for_my_color + p + c
         self.hash_dict[hash_value] = heuristics_value
         return heuristics_value
 
