@@ -1,0 +1,5082 @@
+student_c20 (black) vs. random1 (white)
+
+minimax node number =  48 hit number = 36
+minimax node number =  156 hit number = 126
+minimax node number =  1986 hit number = 1755
+minimax node number =  4938 hit number = 4443
+minimax node number =  9022 hit number = 8114
+minimax node number =  21691 hit number = 19935
+minimax node number =  30786 hit number = 28281
+minimax node number =  37652 hit number = 34569
+minimax node number =  44983 hit number = 41178
+minimax node number =  53390 hit number = 48795
+minimax node number =  55436 hit number = 50581
+minimax node number =  62814 hit number = 57374
+minimax node number =  75476 hit number = 69079
+minimax node number =  75539 hit number = 69142
+minimax node number =  75647 hit number = 69238
+minimax node number =  75713 hit number = 69293
+minimax node number =  75790 hit number = 69359
+minimax node number =  75850 hit number = 69409
+minimax node number =  75941 hit number = 69487
+minimax node number =  76051 hit number = 69587
+minimax node number =  76121 hit number = 69650
+minimax node number =  76148 hit number = 69674
+minimax node number =  76180 hit number = 69702
+minimax node number =  76207 hit number = 69726
+minimax node number =  76235 hit number = 69747
+minimax node number =  76263 hit number = 69771
+minimax node number =  76293 hit number = 69796
+minimax node number =  76313 hit number = 69811
+minimax node number =  76317 hit number = 69811
+minimax node number =  76319 hit number = 69812
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | B B B B B B B B | 8
+7 | W B B W W W B B | 7
+6 | W B B B B B B B | 6
+5 | W B W W B B B B | 5
+4 | W B W B W B W B | 4
+3 | W B W B B B W B | 3
+2 | W B W W B W W B | 2
+1 | B B B B B B B B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 44 / 12.0
+White: 20 / 30.0
+
+- student_c20 (black) wins the game! (44-20)
+random1 (black) vs. student_c20 (white)
+
+minimax node number =  42 hit number = 33
+minimax node number =  194 hit number = 163
+minimax node number =  1607 hit number = 1370
+minimax node number =  2215 hit number = 1874
+minimax node number =  2898 hit number = 2457
+minimax node number =  5141 hit number = 4423
+
+
+- You quit the game!
+student_c20 (black) vs. random1 (white)
+
+minimax node number =  48 hit number = 36
+minimax node number =  168 hit number = 137
+minimax node number =  1055 hit number = 926
+minimax node number =  1959 hit number = 1731
+minimax node number =  5246 hit number = 4722
+minimax node number =  11850 hit number = 10831
+minimax node number =  27485 hit number = 25208
+
+
+- You quit the game!
+random1 (black) vs. student_c20 (white)
+
+minimax node number =  42 hit number = 33
+minimax node number =  186 hit number = 151
+minimax node number =  3099 hit number = 2793
+minimax node number =  5777 hit number = 5249
+minimax node number =  8133 hit number = 7408
+minimax node number =  11904 hit number = 10906
+
+
+- You quit the game!
+student_c20 (black) vs. random1 (white)
+
+minimax node number =  48 hit number = 36
+minimax node number =  168 hit number = 137
+minimax node number =  2279 hit number = 2029
+minimax node number =  3453 hit number = 3071
+minimax node number =  4130 hit number = 3659
+minimax node number =  4563 hit number = 4034
+minimax node number =  8481 hit number = 7564
+minimax node number =  11890 hit number = 10572
+minimax node number =  15132 hit number = 13471
+minimax node number =  20748 hit number = 18541
+minimax node number =  34308 hit number = 31180
+minimax node number =  42540 hit number = 38809
+minimax node number =  59582 hit number = 54906
+minimax node number =  80956 hit number = 75028
+minimax node number =  81106 hit number = 75176
+minimax node number =  81288 hit number = 75344
+minimax node number =  81442 hit number = 75487
+minimax node number =  81572 hit number = 75607
+minimax node number =  81693 hit number = 75717
+minimax node number =  81803 hit number = 75816
+minimax node number =  81923 hit number = 75926
+minimax node number =  82013 hit number = 76007
+minimax node number =  82085 hit number = 76070
+minimax node number =  82149 hit number = 76126
+minimax node number =  82197 hit number = 76168
+minimax node number =  82233 hit number = 76198
+minimax node number =  82263 hit number = 76222
+minimax node number =  82283 hit number = 76237
+minimax node number =  82291 hit number = 76241
+minimax node number =  82295 hit number = 76243
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | B B B B B B B B | 8
+7 | W W B B W B W W | 7
+6 | B W B B W W W W | 6
+5 | B B W W W W B B | 5
+4 | B B W W W W B B | 4
+3 | B B W W B B W B | 3
+2 | B B B B B B W B | 2
+1 | B W W B B B B B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 40 / 11.2
+White: 24 / 30.0
+
+- student_c20 (black) wins the game! (40-24)
+random1 (black) vs. student_c20 (white)
+
+minimax node number =  42 hit number = 33
+minimax node number =  247 hit number = 210
+minimax node number =  1304 hit number = 1136
+minimax node number =  6587 hit number = 5970
+minimax node number =  9496 hit number = 8655
+minimax node number =  13314 hit number = 12197
+minimax node number =  16902 hit number = 15525
+minimax node number =  20051 hit number = 18430
+minimax node number =  28557 hit number = 26277
+minimax node number =  51455 hit number = 47794
+minimax node number =  74586 hit number = 69349
+minimax node number =  74729 hit number = 69488
+minimax node number =  74885 hit number = 69631
+minimax node number =  75041 hit number = 69774
+minimax node number =  75167 hit number = 69891
+minimax node number =  75302 hit number = 70017
+minimax node number =  75419 hit number = 70125
+minimax node number =  75523 hit number = 70221
+minimax node number =  75589 hit number = 70281
+minimax node number =  75680 hit number = 70365
+minimax node number =  75757 hit number = 70435
+minimax node number =  75805 hit number = 70477
+minimax node number =  75859 hit number = 70525
+minimax node number =  75891 hit number = 70553
+minimax node number =  75905 hit number = 70565
+minimax node number =  75933 hit number = 70589
+minimax node number =  75947 hit number = 70601
+minimax node number =  75956 hit number = 70607
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | W W W W W W B W | 8
+7 | B B W W B B B W | 7
+6 | B B W W B B B W | 6
+5 | B B W B B W B W | 5
+4 | B W B W B W B W | 4
+3 | B B W B W W B W | 3
+2 | B B B B B W B W | 2
+1 | W W W W W W W W | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 30 / 30.0
+White: 34 / 12.8
+
+- student_c20 (white) wins the game! (34-30)
+student_c20 (black) vs. random1 (white)
+
+minimax node number =  48 hit number = 36
+minimax node number =  156 hit number = 126
+minimax node number =  288 hit number = 240
+minimax node number =  480 hit number = 405
+minimax node number =  780 hit number = 671
+minimax node number =  1828 hit number = 1627
+minimax node number =  2458 hit number = 2185
+minimax node number =  3602 hit number = 3214
+minimax node number =  4292 hit number = 3832
+minimax node number =  4972 hit number = 4440
+minimax node number =  6204 hit number = 5552
+minimax node number =  7492 hit number = 6701
+minimax node number =  7528 hit number = 6728
+minimax node number =  7552 hit number = 6743
+minimax node number =  7636 hit number = 6805
+minimax node number =  8124 hit number = 7235
+minimax node number =  8664 hit number = 7698
+minimax node number =  10056 hit number = 8958
+minimax node number =  11592 hit number = 10352
+minimax node number =  13392 hit number = 12020
+minimax node number =  14175 hit number = 12713
+minimax node number =  15165 hit number = 13607
+minimax node number =  15536 hit number = 13923
+minimax node number =  15680 hit number = 14027
+minimax node number =  15760 hit number = 14075
+minimax node number =  15802 hit number = 14096
+minimax node number =  15817 hit number = 14101
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | B W W W W W W B | 8
+7 | B W W B B B W B | 7
+6 | B W B W B B W B | 6
+5 | B W B B B B W B | 5
+4 | B W B B B W B B | 4
+3 | B W B B W W W B | 3
+2 | B B W W B W W B | 2
+1 | B B B B B B W B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 39 / 24.7
+White: 25 / 30.0
+
+- student_c20 (black) wins the game! (39-25)
+random1 (black) vs. student_c20 (white)
+
+minimax node number =  42 hit number = 33
+minimax node number =  129 hit number = 105
+minimax node number =  255 hit number = 208
+minimax node number =  871 hit number = 757
+minimax node number =  1687 hit number = 1488
+minimax node number =  3059 hit number = 2729
+minimax node number =  3518 hit number = 3133
+minimax node number =  3980 hit number = 3534
+minimax node number =  5443 hit number = 4869
+minimax node number =  6433 hit number = 5753
+minimax node number =  7369 hit number = 6576
+minimax node number =  9034 hit number = 8087
+minimax node number =  11182 hit number = 10075
+minimax node number =  14327 hit number = 12993
+minimax node number =  16167 hit number = 14697
+minimax node number =  17409 hit number = 15834
+minimax node number =  18749 hit number = 17057
+minimax node number =  19979 hit number = 18198
+minimax node number =  20819 hit number = 18973
+minimax node number =  21929 hit number = 19999
+minimax node number =  22955 hit number = 20943
+minimax node number =  23465 hit number = 21412
+minimax node number =  23589 hit number = 21524
+minimax node number =  23677 hit number = 21602
+minimax node number =  23849 hit number = 21754
+minimax node number =  23905 hit number = 21802
+minimax node number =  23946 hit number = 21836
+minimax node number =  23976 hit number = 21860
+minimax node number =  23988 hit number = 21868
+minimax node number =  23990 hit number = 21868
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | W W W W B B B W | 8
+7 | B B W W W W W W | 7
+6 | W W W B W W W W | 6
+5 | W B B W W W W W | 5
+4 | W B W W W W W W | 4
+3 | W B W W B W W W | 3
+2 | W W W W W W W W | 2
+1 | W W W W W W W W | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 11 / 30.0
+White: 53 / 23.0
+
+- student_c20 (white) wins the game! (53-11)
+student_c20 (black) vs. random1 (white)
+
+minimax node number =  48 hit number = 36
+minimax node number =  156 hit number = 126
+minimax node number =  288 hit number = 240
+minimax node number =  736 hit number = 635
+minimax node number =  1162 hit number = 1009
+minimax node number =  1826 hit number = 1606
+minimax node number =  2136 hit number = 1876
+minimax node number =  2596 hit number = 2281
+minimax node number =  3155 hit number = 2752
+minimax node number =  3635 hit number = 3177
+minimax node number =  5039 hit number = 4446
+minimax node number =  6703 hit number = 5961
+minimax node number =  7912 hit number = 7037
+minimax node number =  9432 hit number = 8407
+minimax node number =  10872 hit number = 9712
+minimax node number =  11572 hit number = 10301
+minimax node number =  12209 hit number = 10835
+minimax node number =  13382 hit number = 11855
+minimax node number =  15167 hit number = 13463
+minimax node number =  16355 hit number = 14530
+minimax node number =  17347 hit number = 15427
+minimax node number =  17647 hit number = 15667
+minimax node number =  17988 hit number = 15942
+minimax node number =  18058 hit number = 15982
+minimax node number =  18103 hit number = 16000
+minimax node number =  18173 hit number = 16042
+minimax node number =  18299 hit number = 16133
+minimax node number =  18379 hit number = 16193
+minimax node number =  18415 hit number = 16217
+minimax node number =  18419 hit number = 16217
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | B B B W W W W B | 8
+7 | B W W W W W W B | 7
+6 | B W W W W W W B | 6
+5 | B B W W B W W B | 5
+4 | B B W W B W W B | 4
+3 | B B B B W W W B | 3
+2 | B B B B B W B B | 2
+1 | B B W W W W W B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 31 / 23.1
+White: 33 / 30.0
+
+- random1 (white) wins the game! (33-31)
+random1 (black) vs. student_c20 (white)
+
+minimax node number =  42 hit number = 33
+minimax node number =  202 hit number = 169
+minimax node number =  556 hit number = 483
+minimax node number =  1096 hit number = 964
+minimax node number =  1852 hit number = 1642
+minimax node number =  3042 hit number = 2725
+minimax node number =  4446 hit number = 4015
+minimax node number =  5661 hit number = 5122
+minimax node number =  7119 hit number = 6468
+minimax node number =  7951 hit number = 7223
+minimax node number =  9151 hit number = 8314
+minimax node number =  12055 hit number = 11036
+minimax node number =  13663 hit number = 12524
+minimax node number =  15533 hit number = 14253
+minimax node number =  17245 hit number = 15846
+minimax node number =  18701 hit number = 17197
+minimax node number =  19781 hit number = 18182
+minimax node number =  20606 hit number = 18942
+minimax node number =  21572 hit number = 19824
+minimax node number =  22250 hit number = 20438
+minimax node number =  22850 hit number = 20966
+minimax node number =  23333 hit number = 21386
+minimax node number =  23738 hit number = 21728
+minimax node number =  24053 hit number = 21994
+minimax node number =  24345 hit number = 22250
+minimax node number =  24558 hit number = 22436
+minimax node number =  24684 hit number = 22541
+minimax node number =  24723 hit number = 22568
+minimax node number =  24735 hit number = 22574
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | W B W W W W W W | 8
+7 | W W B B B B B B | 7
+6 | W W W W W B B W | 6
+5 | W W W B B B B W | 5
+4 | W W W B B B B W | 4
+3 | W B B W W W B W | 3
+2 | W B B W W W W W | 2
+1 | W W W W W W W W | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 22 / 30.0
+White: 42 / 23.1
+
+- student_c20 (white) wins the game! (42-22)
+student_c20 (black) vs. random1 (white)
+
+minimax node number =  48 hit number = 36
+minimax node number =  156 hit number = 126
+minimax node number =  288 hit number = 240
+minimax node number =  480 hit number = 405
+minimax node number =  858 hit number = 744
+minimax node number =  1284 hit number = 1124
+minimax node number =  1802 hit number = 1587
+minimax node number =  3404 hit number = 3072
+minimax node number =  4286 hit number = 3874
+minimax node number =  5582 hit number = 5069
+minimax node number =  6608 hit number = 6009
+minimax node number =  9260 hit number = 8483
+minimax node number =  12200 hit number = 11240
+minimax node number =  15266 hit number = 14106
+minimax node number =  18962 hit number = 17571
+minimax node number =  20711 hit number = 19178
+minimax node number =  22111 hit number = 20459
+minimax node number =  23321 hit number = 21560
+minimax node number =  24982 hit number = 23081
+minimax node number =  26357 hit number = 24325
+minimax node number =  27083 hit number = 24964
+minimax node number =  27467 hit number = 25278
+minimax node number =  28297 hit number = 26008
+minimax node number =  28794 hit number = 26442
+minimax node number =  29389 hit number = 26968
+minimax node number =  29791 hit number = 27316
+minimax node number =  29907 hit number = 27408
+minimax node number =  29955 hit number = 27441
+minimax node number =  29963 hit number = 27441
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | B B B B B B B B | 8
+7 | W W W B W W W B | 7
+6 | B W B B W B W B | 6
+5 | B B W B W W B B | 5
+4 | B B W B B B B B | 4
+3 | W W B B B W B B | 3
+2 | W W W B W B B B | 2
+1 | B B B W W W W W | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 39 / 21.3
+White: 25 / 30.0
+
+- student_c20 (black) wins the game! (39-25)
+random1 (black) vs. student_c20 (white)
+
+minimax node number =  42 hit number = 33
+minimax node number =  129 hit number = 105
+minimax node number =  337 hit number = 288
+minimax node number =  708 hit number = 615
+minimax node number =  1176 hit number = 1029
+minimax node number =  2036 hit number = 1800
+minimax node number =  2652 hit number = 2336
+minimax node number =  3156 hit number = 2777
+minimax node number =  3896 hit number = 3442
+minimax node number =  6328 hit number = 5727
+minimax node number =  8267 hit number = 7545
+minimax node number =  10724 hit number = 9817
+minimax node number =  11998 hit number = 10958
+minimax node number =  13008 hit number = 11865
+minimax node number =  14688 hit number = 13414
+minimax node number =  16469 hit number = 15045
+minimax node number =  18473 hit number = 16898
+minimax node number =  19449 hit number = 17784
+minimax node number =  20609 hit number = 18842
+minimax node number =  21481 hit number = 19626
+minimax node number =  22651 hit number = 20690
+minimax node number =  23299 hit number = 21272
+minimax node number =  23724 hit number = 21647
+minimax node number =  24445 hit number = 22291
+minimax node number =  24795 hit number = 22585
+minimax node number =  24867 hit number = 22633
+minimax node number =  24931 hit number = 22677
+minimax node number =  24956 hit number = 22687
+minimax node number =  24962 hit number = 22687
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | W B B B B W W W | 8
+7 | W B B B B B B W | 7
+6 | W B W B B B B W | 6
+5 | B B W B B W B W | 5
+4 | B B B B W W W W | 4
+3 | B B B W W W W W | 3
+2 | B B B B W W B W | 2
+1 | W W W W W W B W | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 33 / 30.0
+White: 31 / 22.2
+
+- random1 (black) wins the game! (33-31)
+student_c20 (black) vs. random1 (white)
+
+minimax node number =  48 hit number = 36
+minimax node number =  128 hit number = 98
+minimax node number =  238 hit number = 186
+minimax node number =  455 hit number = 366
+minimax node number =  791 hit number = 649
+minimax node number =  1181 hit number = 988
+minimax node number =  2204 hit number = 1906
+minimax node number =  2954 hit number = 2575
+minimax node number =  3484 hit number = 3031
+minimax node number =  3979 hit number = 3454
+minimax node number =  4629 hit number = 4018
+minimax node number =  5299 hit number = 4602
+minimax node number =  5839 hit number = 5071
+minimax node number =  6679 hit number = 5825
+minimax node number =  7799 hit number = 6836
+minimax node number =  8634 hit number = 7601
+minimax node number =  9363 hit number = 8241
+minimax node number =  10632 hit number = 9393
+minimax node number =  11604 hit number = 10249
+minimax node number =  12891 hit number = 11395
+minimax node number =  14681 hit number = 13047
+minimax node number =  15521 hit number = 13801
+minimax node number =  16610 hit number = 14784
+minimax node number =  17298 hit number = 15392
+minimax node number =  17642 hit number = 15680
+minimax node number =  17936 hit number = 15925
+minimax node number =  18083 hit number = 16037
+minimax node number =  18123 hit number = 16062
+minimax node number =  18131 hit number = 16062
+minimax node number =  18133 hit number = 16062
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | B B B B B B B B | 8
+7 | B B B B B B B B | 7
+6 | B B W W B B B B | 6
+5 | B W B W W B W B | 5
+4 | B W W B W W W B | 4
+3 | B B W W B W W B | 3
+2 | B W W W W W W W | 2
+1 | B B B B B W W B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 40 / 23.2
+White: 24 / 30.0
+
+- student_c20 (black) wins the game! (40-24)
+random1 (black) vs. student_c20 (white)
+
+minimax node number =  42 hit number = 33
+minimax node number =  202 hit number = 169
+minimax node number =  506 hit number = 430
+minimax node number =  658 hit number = 558
+minimax node number =  853 hit number = 705
+minimax node number =  1033 hit number = 846
+minimax node number =  1579 hit number = 1315
+minimax node number =  1930 hit number = 1604
+minimax node number =  2320 hit number = 1925
+minimax node number =  2836 hit number = 2359
+minimax node number =  4120 hit number = 3516
+minimax node number =  5208 hit number = 4509
+minimax node number =  6242 hit number = 5433
+minimax node number =  6983 hit number = 6073
+minimax node number =  8063 hit number = 7054
+minimax node number =  9273 hit number = 8146
+minimax node number =  10103 hit number = 8888
+minimax node number =  10991 hit number = 9688
+minimax node number =  11843 hit number = 10468
+minimax node number =  12618 hit number = 11178
+minimax node number =  13202 hit number = 11690
+minimax node number =  14201 hit number = 12590
+minimax node number =  14964 hit number = 13278
+minimax node number =  15475 hit number = 13727
+minimax node number =  15645 hit number = 13867
+minimax node number =  15792 hit number = 13990
+minimax node number =  15904 hit number = 14078
+minimax node number =  15938 hit number = 14102
+minimax node number =  15943 hit number = 14104
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | W W W W W W W W | 8
+7 | B B B W B B B W | 7
+6 | B W W W W W B W | 6
+5 | B W W B W W B W | 5
+4 | B B W W B B B W | 4
+3 | B B W W W B W W | 3
+2 | B B W B W W W W | 2
+1 | W W W W W W W W | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 22 / 30.0
+White: 42 / 24.3
+
+- student_c20 (white) wins the game! (42-22)
+student_c20 (black) vs. random1 (white)
+
+minimax node number =  48 hit number = 36
+minimax node number =  128 hit number = 98
+minimax node number =  496 hit number = 413
+minimax node number =  1000 hit number = 864
+minimax node number =  1612 hit number = 1411
+minimax node number =  2502 hit number = 2207
+minimax node number =  4530 hit number = 4073
+minimax node number =  6400 hit number = 5802
+minimax node number =  7328 hit number = 6639
+minimax node number =  10708 hit number = 9804
+minimax node number =  14684 hit number = 13538
+minimax node number =  17600 hit number = 16258
+minimax node number =  20369 hit number = 18837
+minimax node number =  22547 hit number = 20854
+minimax node number =  24027 hit number = 22206
+minimax node number =  25273 hit number = 23312
+minimax node number =  26491 hit number = 24390
+minimax node number =  27388 hit number = 25170
+minimax node number =  28243 hit number = 25935
+minimax node number =  28972 hit number = 26574
+minimax node number =  29522 hit number = 27036
+minimax node number =  29585 hit number = 27072
+minimax node number =  29666 hit number = 27126
+minimax node number =  29747 hit number = 27180
+minimax node number =  30034 hit number = 27418
+minimax node number =  30154 hit number = 27508
+minimax node number =  30214 hit number = 27548
+minimax node number =  30274 hit number = 27593
+minimax node number =  30292 hit number = 27602
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | B B B B B B W B | 8
+7 | B W W W W W W B | 7
+6 | B W W W W B W B | 6
+5 | B W W B W W W B | 5
+4 | B W B W W W W B | 4
+3 | B W B W W B W B | 3
+2 | B B W W W W W B | 2
+1 | B B B B B B B B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 33 / 21.2
+White: 31 / 30.0
+
+- student_c20 (black) wins the game! (33-31)
+random1 (black) vs. student_c20 (white)
+
+minimax node number =  42 hit number = 33
+minimax node number =  186 hit number = 151
+minimax node number =  546 hit number = 463
+minimax node number =  924 hit number = 786
+minimax node number =  1476 hit number = 1273
+minimax node number =  1989 hit number = 1722
+minimax node number =  2799 hit number = 2445
+minimax node number =  3723 hit number = 3264
+minimax node number =  4693 hit number = 4131
+minimax node number =  4848 hit number = 4251
+minimax node number =  5101 hit number = 4450
+minimax node number =  5310 hit number = 4608
+minimax node number =  5706 hit number = 4923
+minimax node number =  6342 hit number = 5456
+minimax node number =  7145 hit number = 6156
+minimax node number =  7841 hit number = 6748
+minimax node number =  8726 hit number = 7499
+minimax node number =  10234 hit number = 8865
+minimax node number =  11662 hit number = 10156
+minimax node number =  12372 hit number = 10777
+minimax node number =  12867 hit number = 11204
+minimax node number =  13637 hit number = 11875
+minimax node number =  14909 hit number = 13016
+minimax node number =  16526 hit number = 14491
+minimax node number =  17462 hit number = 15328
+minimax node number =  17882 hit number = 15694
+minimax node number =  18038 hit number = 15822
+minimax node number =  18054 hit number = 15833
+minimax node number =  18065 hit number = 15840
+minimax node number =  18070 hit number = 15842
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | W B W W W W W W | 8
+7 | B B B W W W W B | 7
+6 | B B B B B B B B | 6
+5 | B B W W W W B W | 5
+4 | B B B W W B W W | 4
+3 | B B W W W W W W | 3
+2 | B W W W W W W W | 2
+1 | W W W W W W W W | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 23 / 30.0
+White: 41 / 23.2
+
+- student_c20 (white) wins the game! (41-23)
+student_c20 (black) vs. random1 (white)
+
+minimax node number =  48 hit number = 36
+minimax node number =  128 hit number = 98
+minimax node number =  212 hit number = 169
+minimax node number =  292 hit number = 234
+minimax node number =  532 hit number = 434
+minimax node number =  802 hit number = 663
+minimax node number =  1397 hit number = 1190
+minimax node number =  2761 hit number = 2428
+minimax node number =  3839 hit number = 3383
+minimax node number =  4847 hit number = 4276
+minimax node number =  6497 hit number = 5790
+minimax node number =  9675 hit number = 8752
+minimax node number =  11211 hit number = 10146
+minimax node number =  13326 hit number = 12083
+minimax node number =  15774 hit number = 14356
+minimax node number =  17634 hit number = 16065
+minimax node number =  19552 hit number = 17819
+minimax node number =  21808 hit number = 19908
+minimax node number =  23800 hit number = 21746
+minimax node number =  25670 hit number = 23477
+minimax node number =  26614 hit number = 24357
+minimax node number =  27328 hit number = 25023
+minimax node number =  27538 hit number = 25218
+minimax node number =  27848 hit number = 25503
+minimax node number =  28175 hit number = 25797
+minimax node number =  28459 hit number = 26045
+minimax node number =  28539 hit number = 26105
+minimax node number =  28623 hit number = 26169
+minimax node number =  28647 hit number = 26185
+minimax node number =  28649 hit number = 26185
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | B W W W W W W B | 8
+7 | B B B B B B B B | 7
+6 | B B B W B W W B | 6
+5 | B W B B B W W B | 5
+4 | B W B B B W B B | 4
+3 | B B B B B B B B | 3
+2 | B B B B B B W B | 2
+1 | B W B B B B B B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 48 / 21.4
+White: 16 / 30.0
+
+- student_c20 (black) wins the game! (48-16)
+random1 (black) vs. student_c20 (white)
+
+minimax node number =  42 hit number = 33
+minimax node number =  175 hit number = 143
+minimax node number =  263 hit number = 217
+minimax node number =  473 hit number = 395
+minimax node number =  914 hit number = 782
+minimax node number =  1339 hit number = 1162
+minimax node number =  1997 hit number = 1756
+minimax node number =  2885 hit number = 2559
+minimax node number =  4118 hit number = 3686
+minimax node number =  5252 hit number = 4730
+minimax node number =  6350 hit number = 5748
+minimax node number =  7120 hit number = 6458
+minimax node number =  8728 hit number = 7973
+minimax node number =  9439 hit number = 8639
+minimax node number =  10999 hit number = 10109
+minimax node number =  11635 hit number = 10702
+minimax node number =  12986 hit number = 11957
+minimax node number =  14694 hit number = 13555
+minimax node number =  16354 hit number = 15076
+minimax node number =  17632 hit number = 16237
+minimax node number =  18217 hit number = 16741
+minimax node number =  18586 hit number = 17047
+minimax node number =  18922 hit number = 17327
+minimax node number =  19195 hit number = 17551
+minimax node number =  19580 hit number = 17880
+minimax node number =  19867 hit number = 18118
+minimax node number =  19962 hit number = 18188
+minimax node number =  19986 hit number = 18200
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | W W W W W W W W | 8
+7 | B B B B B W W B | 7
+6 | B B W W W W W W | 6
+5 | B B W W W W B W | 5
+4 | B B B B W W B W | 4
+3 | W B W W B B B W | 3
+2 | W W W W W B B W | 2
+1 | W W W W W B B W | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 24 / 30.0
+White: 40 / 23.8
+
+- student_c20 (white) wins the game! (40-24)
+student_c20 (black) vs. random1 (white)
+
+minimax node number =  48 hit number = 36
+minimax node number =  168 hit number = 137
+minimax node number =  464 hit number = 389
+minimax node number =  709 hit number = 604
+minimax node number =  1021 hit number = 877
+minimax node number =  1903 hit number = 1672
+minimax node number =  2398 hit number = 2094
+minimax node number =  2713 hit number = 2365
+minimax node number =  3219 hit number = 2801
+minimax node number =  3660 hit number = 3180
+minimax node number =  4640 hit number = 4064
+minimax node number =  5210 hit number = 4536
+minimax node number =  6090 hit number = 5318
+minimax node number =  6938 hit number = 6041
+minimax node number =  7738 hit number = 6719
+minimax node number =  10132 hit number = 8889
+minimax node number =  11424 hit number = 10016
+minimax node number =  12339 hit number = 10800
+minimax node number =  13809 hit number = 12110
+minimax node number =  14634 hit number = 12819
+minimax node number =  15030 hit number = 13144
+minimax node number =  15641 hit number = 13664
+minimax node number =  16514 hit number = 14447
+minimax node number =  17090 hit number = 14951
+minimax node number =  17461 hit number = 15266
+minimax node number =  17685 hit number = 15448
+minimax node number =  17801 hit number = 15540
+minimax node number =  17833 hit number = 15564
+minimax node number =  17845 hit number = 15572
+minimax node number =  17851 hit number = 15575
+minimax node number =  17853 hit number = 15575
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | B B B B B B B B | 8
+7 | W B B B B B B B | 7
+6 | B B W B B B B B | 6
+5 | B B W B B B B B | 5
+4 | B B B W B B B B | 4
+3 | B B B W W B B B | 3
+2 | B B B B B B B B | 2
+1 | B B B B B B W B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 57 / 23.0
+White: 7 / 30.0
+
+- student_c20 (black) wins the game! (57-7)
+random1 (black) vs. student_c20 (white)
+
+minimax node number =  42 hit number = 33
+minimax node number =  129 hit number = 105
+minimax node number =  255 hit number = 208
+minimax node number =  750 hit number = 647
+minimax node number =  1890 hit number = 1679
+minimax node number =  2760 hit number = 2460
+minimax node number =  3392 hit number = 3023
+minimax node number =  4250 hit number = 3789
+minimax node number =  4850 hit number = 4324
+minimax node number =  6320 hit number = 5666
+minimax node number =  7400 hit number = 6656
+minimax node number =  8714 hit number = 7824
+minimax node number =  10547 hit number = 9504
+minimax node number =  11987 hit number = 10814
+minimax node number =  13534 hit number = 12195
+minimax node number =  15349 hit number = 13832
+minimax node number =  16948 hit number = 15275
+minimax node number =  18520 hit number = 16705
+minimax node number =  20275 hit number = 18326
+minimax node number =  21125 hit number = 19077
+minimax node number =  21611 hit number = 19491
+minimax node number =  21939 hit number = 19763
+minimax node number =  22542 hit number = 20288
+minimax node number =  22774 hit number = 20472
+minimax node number =  23094 hit number = 20736
+minimax node number =  23418 hit number = 21012
+minimax node number =  23558 hit number = 21123
+minimax node number =  23609 hit number = 21159
+minimax node number =  23627 hit number = 21168
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | W B B B B B B B | 8
+7 | B B B B B B B W | 7
+6 | W B B B B W W W | 6
+5 | W B B B W W W W | 5
+4 | W B B B W W W W | 4
+3 | W B W W W W W W | 3
+2 | W W W B W W W W | 2
+1 | W W W B W W W W | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 27 / 30.0
+White: 37 / 21.9
+
+- student_c20 (white) wins the game! (37-27)
+student_c20 (black) vs. random1 (white)
+
+minimax node number =  48 hit number = 36
+minimax node number =  128 hit number = 98
+minimax node number =  219 hit number = 174
+minimax node number =  492 hit number = 408
+minimax node number =  844 hit number = 708
+minimax node number =  1075 hit number = 904
+minimax node number =  1998 hit number = 1707
+minimax node number =  2466 hit number = 2112
+minimax node number =  3192 hit number = 2746
+minimax node number =  3972 hit number = 3415
+minimax node number =  4504 hit number = 3853
+minimax node number =  5032 hit number = 4297
+minimax node number =  5527 hit number = 4718
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | B . . . . . . . | 8
+7 | . B . . . B . . | 7
+6 | B . B B . B . . | 6
+5 | . B B B B B B . | 5
+4 | . . B B B B B B | 4
+3 | . . B B B B B . | 3
+2 | . . . . B B B . | 2
+1 | . . . . . B . B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 29 / 28.1
+White: 0 / 30.0
+
+- student_c20 (black) wins the game! (64-0)
+random1 (black) vs. student_c20 (white)
+
+minimax node number =  42 hit number = 33
+minimax node number =  102 hit number = 84
+minimax node number =  444 hit number = 379
+minimax node number =  996 hit number = 867
+minimax node number =  1852 hit number = 1637
+minimax node number =  2942 hit number = 2624
+minimax node number =  5306 hit number = 4817
+minimax node number =  7938 hit number = 7255
+minimax node number =  9138 hit number = 8343
+minimax node number =  10053 hit number = 9144
+minimax node number =  11210 hit number = 10172
+minimax node number =  13730 hit number = 12503
+minimax node number =  15342 hit number = 13961
+minimax node number =  17032 hit number = 15515
+minimax node number =  17852 hit number = 16235
+minimax node number =  19882 hit number = 18089
+minimax node number =  21097 hit number = 19190
+minimax node number =  23212 hit number = 21118
+minimax node number =  24719 hit number = 22482
+minimax node number =  26024 hit number = 23670
+minimax node number =  27414 hit number = 24931
+minimax node number =  28143 hit number = 25570
+minimax node number =  28701 hit number = 26047
+minimax node number =  28988 hit number = 26285
+minimax node number =  29170 hit number = 26425
+minimax node number =  29254 hit number = 26481
+minimax node number =  29289 hit number = 26501
+minimax node number =  29302 hit number = 26510
+minimax node number =  29305 hit number = 26511
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | W W W W W W W W | 8
+7 | B B B W W W B W | 7
+6 | B B W W W B W W | 6
+5 | B B W W B W B W | 5
+4 | B B W B B B W W | 4
+3 | B B B W W W W W | 3
+2 | B B B B B B B W | 2
+1 | B B B B B B B W | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 33 / 30.0
+White: 31 / 20.5
+
+- random1 (black) wins the game! (33-31)
+student_c20 (black) vs. random1 (white)
+
+minimax node number =  48 hit number = 36
+minimax node number =  168 hit number = 137
+minimax node number =  464 hit number = 389
+minimax node number =  851 hit number = 723
+minimax node number =  1001 hit number = 845
+minimax node number =  1501 hit number = 1280
+minimax node number =  2137 hit number = 1836
+minimax node number =  2722 hit number = 2339
+minimax node number =  3481 hit number = 3005
+minimax node number =  4669 hit number = 4073
+minimax node number =  5021 hit number = 4380
+minimax node number =  5651 hit number = 4923
+minimax node number =  5671 hit number = 4933
+minimax node number =  6035 hit number = 5251
+minimax node number =  6926 hit number = 6051
+minimax node number =  8276 hit number = 7286
+minimax node number =  9239 hit number = 8154
+minimax node number =  9959 hit number = 8788
+minimax node number =  10729 hit number = 9470
+minimax node number =  11217 hit number = 9895
+minimax node number =  11817 hit number = 10423
+minimax node number =  12237 hit number = 10773
+minimax node number =  12533 hit number = 11013
+minimax node number =  12981 hit number = 11398
+minimax node number =  13386 hit number = 11733
+minimax node number =  13463 hit number = 11782
+minimax node number =  13477 hit number = 11782
+minimax node number =  13489 hit number = 11785
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | B W B B B B B B | 8
+7 | W W W B B B B B | 7
+6 | W W B W B B B B | 6
+5 | W B B B W B B B | 5
+4 | W B B W B W B B | 4
+3 | W B W B W B B B | 3
+2 | W B B W B W B B | 2
+1 | B B B B B B B B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 46 / 25.0
+White: 18 / 30.0
+
+- student_c20 (black) wins the game! (46-18)
+random1 (black) vs. student_c20 (white)
+
+minimax node number =  42 hit number = 33
+minimax node number =  247 hit number = 210
+minimax node number =  399 hit number = 343
+minimax node number =  729 hit number = 634
+minimax node number =  1601 hit number = 1423
+minimax node number =  2841 hit number = 2562
+minimax node number =  3657 hit number = 3300
+minimax node number =  4473 hit number = 4037
+minimax node number =  5049 hit number = 4541
+minimax node number =  5778 hit number = 5180
+minimax node number =  6462 hit number = 5768
+minimax node number =  7276 hit number = 6495
+minimax node number =  8332 hit number = 7448
+minimax node number =  9437 hit number = 8429
+minimax node number =  10571 hit number = 9427
+minimax node number =  11533 hit number = 10260
+minimax node number =  12695 hit number = 11285
+minimax node number =  13563 hit number = 12043
+minimax node number =  14564 hit number = 12936
+minimax node number =  15410 hit number = 13692
+minimax node number =  16256 hit number = 14449
+minimax node number =  16856 hit number = 14978
+minimax node number =  17222 hit number = 15297
+minimax node number =  17465 hit number = 15496
+minimax node number =  17857 hit number = 15825
+minimax node number =  18097 hit number = 16024
+minimax node number =  18209 hit number = 16112
+minimax node number =  18289 hit number = 16172
+minimax node number =  18301 hit number = 16178
+minimax node number =  18303 hit number = 16178
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | W B B B B W W W | 8
+7 | W W W W B B W W | 7
+6 | W W W W W W W W | 6
+5 | W W W W B W W W | 5
+4 | W W W W B W W W | 4
+3 | W W W B W W B W | 3
+2 | W W W W B B W W | 2
+1 | W W W W W W W W | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 12 / 30.0
+White: 52 / 23.3
+
+- student_c20 (white) wins the game! (52-12)
+student_c20 (black) vs. random1 (white)
+
+minimax node number =  16 hit number = 12
+minimax node number =  36 hit number = 27
+minimax node number =  61 hit number = 47
+minimax node number =  106 hit number = 83
+minimax node number =  196 hit number = 163
+minimax node number =  286 hit number = 244
+minimax node number =  341 hit number = 288
+minimax node number =  397 hit number = 337
+minimax node number =  487 hit number = 418
+minimax node number =  559 hit number = 482
+minimax node number =  689 hit number = 599
+minimax node number =  845 hit number = 742
+minimax node number =  1010 hit number = 892
+minimax node number =  1180 hit number = 1045
+minimax node number =  1297 hit number = 1149
+minimax node number =  1405 hit number = 1245
+minimax node number =  1537 hit number = 1366
+minimax node number =  1669 hit number = 1487
+minimax node number =  1779 hit number = 1587
+minimax node number =  1867 hit number = 1664
+minimax node number =  1944 hit number = 1734
+minimax node number =  1980 hit number = 1766
+minimax node number =  2050 hit number = 1829
+minimax node number =  2110 hit number = 1883
+minimax node number =  2126 hit number = 1897
+minimax node number =  2135 hit number = 1903
+minimax node number =  2139 hit number = 1905
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | B W B B B B B B | 8
+7 | W W B B B W W B | 7
+6 | B W B B B B W B | 6
+5 | B W W W W W W B | 5
+4 | B W B W W B W B | 4
+3 | B W B B B W W B | 3
+2 | B W W W W W W B | 2
+1 | B W W W W W W W | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 31 / 29.5
+White: 33 / 30.0
+
+- random1 (white) wins the game! (33-31)
+random1 (black) vs. student_c20 (white)
+
+minimax node number =  9 hit number = 6
+minimax node number =  25 hit number = 18
+minimax node number =  60 hit number = 48
+minimax node number =  80 hit number = 64
+minimax node number =  108 hit number = 88
+minimax node number =  143 hit number = 116
+minimax node number =  199 hit number = 165
+minimax node number =  263 hit number = 221
+minimax node number =  326 hit number = 277
+minimax node number =  406 hit number = 349
+minimax node number =  505 hit number = 439
+minimax node number =  649 hit number = 571
+minimax node number =  759 hit number = 671
+minimax node number =  858 hit number = 759
+minimax node number =  939 hit number = 831
+minimax node number =  1017 hit number = 896
+minimax node number =  1157 hit number = 1022
+minimax node number =  1220 hit number = 1076
+minimax node number =  1310 hit number = 1156
+minimax node number =  1406 hit number = 1240
+minimax node number =  1494 hit number = 1317
+minimax node number =  1566 hit number = 1380
+minimax node number =  1632 hit number = 1435
+minimax node number =  1682 hit number = 1475
+minimax node number =  1724 hit number = 1510
+minimax node number =  1748 hit number = 1530
+minimax node number =  1768 hit number = 1545
+minimax node number =  1780 hit number = 1553
+minimax node number =  1784 hit number = 1555
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | W B B B B B B W | 8
+7 | B B B B B B B B | 7
+6 | B B B W B B B B | 6
+5 | B B W B B B B B | 5
+4 | B W B W W W B B | 4
+3 | B B W W W W B B | 3
+2 | B B B B B B B B | 2
+1 | W W W W W W W W | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 44 / 30.0
+White: 20 / 30.0
+
+- random1 (black) wins the game! (44-20)
+student_c20 (black) vs. random1 (white)
+
+minimax node number =  16 hit number = 12
+minimax node number =  36 hit number = 27
+minimax node number =  61 hit number = 47
+minimax node number =  133 hit number = 110
+minimax node number =  243 hit number = 210
+minimax node number =  341 hit number = 301
+minimax node number =  473 hit number = 421
+minimax node number =  617 hit number = 553
+minimax node number =  857 hit number = 773
+minimax node number =  1044 hit number = 943
+minimax node number =  1212 hit number = 1099
+minimax node number =  1392 hit number = 1267
+minimax node number =  1490 hit number = 1358
+minimax node number =  1581 hit number = 1442
+minimax node number =  1659 hit number = 1514
+minimax node number =  1714 hit number = 1564
+minimax node number =  1764 hit number = 1609
+minimax node number =  1842 hit number = 1681
+minimax node number =  1898 hit number = 1729
+minimax node number =  1961 hit number = 1783
+minimax node number =  2024 hit number = 1839
+minimax node number =  2094 hit number = 1902
+minimax node number =  2154 hit number = 1956
+minimax node number =  2194 hit number = 1988
+minimax node number =  2243 hit number = 2030
+minimax node number =  2291 hit number = 2070
+minimax node number =  2340 hit number = 2112
+minimax node number =  2370 hit number = 2136
+minimax node number =  2386 hit number = 2148
+minimax node number =  2390 hit number = 2150
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | B B B B B B B B | 8
+7 | W W B B B W W W | 7
+6 | W B B B B B W W | 6
+5 | W W B W B B W W | 5
+4 | W B W W W B W W | 4
+3 | W W B W B W W B | 3
+2 | W W W W W W W B | 2
+1 | B W W W B B B B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 30 / 29.3
+White: 34 / 30.0
+
+- random1 (white) wins the game! (34-30)
+random1 (black) vs. student_c20 (white)
+
+minimax node number =  9 hit number = 6
+minimax node number =  18 hit number = 12
+minimax node number =  58 hit number = 44
+minimax node number =  100 hit number = 79
+minimax node number =  160 hit number = 129
+minimax node number =  209 hit number = 171
+minimax node number =  290 hit number = 243
+minimax node number =  390 hit number = 333
+minimax node number =  471 hit number = 405
+minimax node number =  535 hit number = 461
+minimax node number =  607 hit number = 525
+minimax node number =  697 hit number = 606
+minimax node number =  829 hit number = 727
+minimax node number =  955 hit number = 844
+minimax node number =  1105 hit number = 984
+minimax node number =  1225 hit number = 1094
+minimax node number =  1407 hit number = 1262
+minimax node number =  1550 hit number = 1394
+minimax node number =  1693 hit number = 1524
+minimax node number =  1803 hit number = 1624
+minimax node number =  1933 hit number = 1741
+minimax node number =  2021 hit number = 1818
+minimax node number =  2101 hit number = 1888
+minimax node number =  2173 hit number = 1952
+minimax node number =  2201 hit number = 1976
+minimax node number =  2222 hit number = 1990
+minimax node number =  2242 hit number = 2005
+minimax node number =  2257 hit number = 2015
+minimax node number =  2263 hit number = 2018
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | W W W W W W W W | 8
+7 | B B W B B B W W | 7
+6 | W W W W W W B W | 6
+5 | W W W W W W B W | 5
+4 | W W W W W B B W | 4
+3 | W B W W W W W W | 3
+2 | B B B W W W B B | 2
+1 | W W W W W W W W | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 15 / 30.0
+White: 49 / 29.7
+
+- student_c20 (white) wins the game! (49-15)
+student_c20 (black) vs. random1 (white)
+
+minimax node number =  16 hit number = 12
+minimax node number =  36 hit number = 27
+minimax node number =  61 hit number = 47
+minimax node number =  133 hit number = 110
+minimax node number =  196 hit number = 166
+minimax node number =  295 hit number = 256
+minimax node number =  376 hit number = 328
+minimax node number =  493 hit number = 436
+minimax node number =  610 hit number = 544
+minimax node number =  742 hit number = 665
+minimax node number =  885 hit number = 797
+minimax node number =  997 hit number = 902
+minimax node number =  1184 hit number = 1078
+minimax node number =  1388 hit number = 1270
+minimax node number =  1514 hit number = 1387
+minimax node number =  1649 hit number = 1513
+minimax node number =  1799 hit number = 1653
+minimax node number =  1981 hit number = 1822
+minimax node number =  2150 hit number = 1978
+minimax node number =  2293 hit number = 2110
+minimax node number =  2436 hit number = 2242
+minimax node number =  2557 hit number = 2352
+minimax node number =  2647 hit number = 2433
+minimax node number =  2719 hit number = 2497
+minimax node number =  2773 hit number = 2542
+minimax node number =  2818 hit number = 2578
+minimax node number =  2846 hit number = 2599
+minimax node number =  2858 hit number = 2605
+minimax node number =  2862 hit number = 2608
+minimax node number =  2866 hit number = 2610
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | B W W W W W W B | 8
+7 | W W W W W W W B | 7
+6 | W W W B B W B B | 6
+5 | W B W B B B W B | 5
+4 | W B B W B W W W | 4
+3 | W W B B B B W W | 3
+2 | W W W B B W W W | 2
+1 | B W W W W W W B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 23 / 29.2
+White: 41 / 30.0
+
+- random1 (white) wins the game! (41-23)
+random1 (black) vs. student_c20 (white)
+
+minimax node number =  9 hit number = 6
+minimax node number =  24 hit number = 16
+minimax node number =  48 hit number = 36
+minimax node number =  104 hit number = 84
+minimax node number =  159 hit number = 134
+minimax node number =  231 hit number = 197
+minimax node number =  321 hit number = 278
+minimax node number =  453 hit number = 398
+minimax node number =  621 hit number = 552
+minimax node number =  786 hit number = 702
+minimax node number =  956 hit number = 855
+minimax node number =  1151 hit number = 1035
+minimax node number =  1295 hit number = 1163
+minimax node number =  1445 hit number = 1298
+minimax node number =  1625 hit number = 1463
+minimax node number =  1781 hit number = 1607
+minimax node number =  1911 hit number = 1727
+minimax node number =  2067 hit number = 1871
+minimax node number =  2210 hit number = 2003
+minimax node number =  2354 hit number = 2135
+minimax node number =  2464 hit number = 2234
+minimax node number =  2584 hit number = 2344
+minimax node number =  2674 hit number = 2425
+minimax node number =  2744 hit number = 2488
+minimax node number =  2789 hit number = 2528
+minimax node number =  2810 hit number = 2546
+minimax node number =  2830 hit number = 2562
+minimax node number =  2838 hit number = 2568
+minimax node number =  2841 hit number = 2568
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | W B B B B B B W | 8
+7 | B B B W W B B W | 7
+6 | W W W B W W W W | 6
+5 | W W B B B W W W | 5
+4 | W W B B W W B W | 4
+3 | W W W W W W B W | 3
+2 | W W W B B B B W | 2
+1 | W W W W W W W W | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 23 / 30.0
+White: 41 / 29.9
+
+- student_c20 (white) wins the game! (41-23)
+student_c20 (black) vs. random1 (white)
+
+minimax node number =  16 hit number = 12
+minimax node number =  36 hit number = 27
+minimax node number =  61 hit number = 47
+minimax node number =  106 hit number = 83
+minimax node number =  196 hit number = 163
+minimax node number =  262 hit number = 218
+minimax node number =  342 hit number = 288
+minimax node number =  442 hit number = 378
+minimax node number =  502 hit number = 428
+minimax node number =  614 hit number = 532
+minimax node number =  724 hit number = 632
+minimax node number =  804 hit number = 702
+minimax node number =  904 hit number = 792
+minimax node number =  1036 hit number = 913
+minimax node number =  1153 hit number = 1021
+minimax node number =  1285 hit number = 1141
+minimax node number =  1454 hit number = 1297
+minimax node number =  1619 hit number = 1447
+minimax node number =  1773 hit number = 1587
+minimax node number =  1923 hit number = 1722
+minimax node number =  2063 hit number = 1848
+minimax node number =  2153 hit number = 1928
+minimax node number =  2263 hit number = 2027
+minimax node number =  2344 hit number = 2099
+minimax node number =  2407 hit number = 2153
+minimax node number =  2455 hit number = 2193
+minimax node number =  2497 hit number = 2228
+minimax node number =  2521 hit number = 2246
+minimax node number =  2529 hit number = 2250
+minimax node number =  2531 hit number = 2250
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | B B B B B B B B | 8
+7 | W W B W B B W B | 7
+6 | W W W W W W W B | 6
+5 | B W W B B W W B | 5
+4 | B W B W W B W B | 4
+3 | B W B W W B W B | 3
+2 | B W B B W B W B | 2
+1 | B W B B B B B B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 37 / 29.2
+White: 27 / 30.0
+
+- student_c20 (black) wins the game! (37-27)
+random1 (black) vs. student_c20 (white)
+
+minimax node number =  9 hit number = 6
+minimax node number =  24 hit number = 16
+minimax node number =  54 hit number = 40
+minimax node number =  124 hit number = 100
+minimax node number =  234 hit number = 200
+minimax node number =  288 hit number = 245
+minimax node number =  387 hit number = 335
+minimax node number =  543 hit number = 478
+minimax node number =  660 hit number = 582
+minimax node number =  842 hit number = 750
+minimax node number =  998 hit number = 894
+minimax node number =  1141 hit number = 1026
+minimax node number =  1245 hit number = 1117
+minimax node number =  1483 hit number = 1338
+minimax node number =  1623 hit number = 1458
+minimax node number =  1756 hit number = 1572
+minimax node number =  1882 hit number = 1684
+minimax node number =  2002 hit number = 1789
+minimax node number =  2072 hit number = 1845
+minimax node number =  2156 hit number = 1917
+minimax node number =  2260 hit number = 2008
+minimax node number =  2348 hit number = 2085
+minimax node number =  2438 hit number = 2166
+minimax node number =  2510 hit number = 2230
+minimax node number =  2564 hit number = 2278
+minimax node number =  2606 hit number = 2314
+minimax node number =  2631 hit number = 2334
+minimax node number =  2640 hit number = 2340
+minimax node number =  2643 hit number = 2340
+minimax node number =  2645 hit number = 2342
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | W W W W W W W W | 8
+7 | W W W W W W W W | 7
+6 | W W W W W W W W | 6
+5 | W W B W B W B W | 5
+4 | W W B B W B B W | 4
+3 | W B W B B W W W | 3
+2 | W W B B B W W W | 2
+1 | W W W W W W B W | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 14 / 30.0
+White: 50 / 29.7
+
+- student_c20 (white) wins the game! (50-14)
+student_c20 (black) vs. random1 (white)
+
+minimax node number =  16 hit number = 12
+minimax node number =  36 hit number = 27
+minimax node number =  61 hit number = 47
+minimax node number =  106 hit number = 83
+minimax node number =  196 hit number = 163
+minimax node number =  276 hit number = 233
+minimax node number =  348 hit number = 297
+minimax node number =  438 hit number = 377
+minimax node number =  555 hit number = 481
+minimax node number =  625 hit number = 537
+minimax node number =  691 hit number = 592
+minimax node number =  821 hit number = 709
+minimax node number =  885 hit number = 765
+minimax node number =  934 hit number = 807
+minimax node number =  1006 hit number = 871
+minimax node number =  1116 hit number = 971
+minimax node number =  1246 hit number = 1091
+minimax node number =  1356 hit number = 1191
+minimax node number =  1436 hit number = 1261
+minimax node number =  1526 hit number = 1342
+minimax node number =  1586 hit number = 1396
+minimax node number =  1634 hit number = 1438
+minimax node number =  1676 hit number = 1474
+minimax node number =  1708 hit number = 1502
+minimax node number =  1743 hit number = 1532
+minimax node number =  1771 hit number = 1556
+minimax node number =  1791 hit number = 1572
+minimax node number =  1807 hit number = 1584
+minimax node number =  1815 hit number = 1588
+minimax node number =  1817 hit number = 1588
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | B B B B B B W B | 8
+7 | B B B B B B B B | 7
+6 | B B B W B W B B | 6
+5 | B B B W W B W B | 5
+4 | B B W W B B W B | 4
+3 | B W B B B W W B | 3
+2 | W W B W W B W B | 2
+1 | B B B W B B B B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 46 / 30.0
+White: 18 / 30.0
+
+- student_c20 (black) wins the game! (46-18)
+random1 (black) vs. student_c20 (white)
+
+minimax node number =  9 hit number = 6
+minimax node number =  37 hit number = 30
+minimax node number =  62 hit number = 50
+minimax node number =  134 hit number = 113
+minimax node number =  197 hit number = 169
+minimax node number =  305 hit number = 268
+minimax node number =  425 hit number = 373
+minimax node number =  545 hit number = 483
+minimax node number =  615 hit number = 546
+minimax node number =  699 hit number = 623
+minimax node number =  769 hit number = 686
+minimax node number =  850 hit number = 758
+minimax node number =  920 hit number = 818
+minimax node number =  1019 hit number = 908
+minimax node number =  1123 hit number = 999
+minimax node number =  1279 hit number = 1142
+minimax node number =  1405 hit number = 1254
+minimax node number =  1555 hit number = 1389
+minimax node number =  1724 hit number = 1545
+minimax node number =  1834 hit number = 1645
+minimax node number =  1914 hit number = 1717
+minimax node number =  2004 hit number = 1798
+minimax node number =  2058 hit number = 1846
+minimax node number =  2100 hit number = 1882
+minimax node number =  2130 hit number = 1906
+minimax node number =  2154 hit number = 1924
+minimax node number =  2162 hit number = 1928
+minimax node number =  2170 hit number = 1932
+minimax node number =  2172 hit number = 1932
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | W B W W W W W W | 8
+7 | W W W W W W W W | 7
+6 | W W W W W W W W | 6
+5 | W B W W W B B W | 5
+4 | W B W W W W B W | 4
+3 | W B W B W W B W | 3
+2 | W B B W B B B W | 2
+1 | W B B B B B B W | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 20 / 30.0
+White: 44 / 29.8
+
+- student_c20 (white) wins the game! (44-20)
+student_c20 (black) vs. random1 (white)
+
+minimax node number =  16 hit number = 12
+minimax node number =  41 hit number = 32
+minimax node number =  89 hit number = 74
+minimax node number =  166 hit number = 140
+minimax node number =  202 hit number = 170
+minimax node number =  250 hit number = 212
+minimax node number =  305 hit number = 262
+minimax node number =  386 hit number = 334
+minimax node number =  496 hit number = 433
+minimax node number =  559 hit number = 487
+minimax node number =  639 hit number = 557
+minimax node number =  727 hit number = 637
+minimax node number =  837 hit number = 737
+minimax node number =  921 hit number = 814
+minimax node number =  1025 hit number = 910
+minimax node number =  1151 hit number = 1027
+minimax node number =  1255 hit number = 1123
+minimax node number =  1376 hit number = 1233
+minimax node number =  1497 hit number = 1343
+minimax node number =  1569 hit number = 1406
+minimax node number =  1641 hit number = 1469
+minimax node number =  1731 hit number = 1549
+minimax node number =  1794 hit number = 1605
+minimax node number =  1824 hit number = 1630
+minimax node number =  1854 hit number = 1655
+minimax node number =  1884 hit number = 1679
+minimax node number =  1904 hit number = 1695
+minimax node number =  1928 hit number = 1713
+minimax node number =  1940 hit number = 1721
+minimax node number =  1944 hit number = 1723
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | B W W W W W W B | 8
+7 | B B B W B W W B | 7
+6 | B B B B W B W B | 6
+5 | B W B W B W W B | 5
+4 | B W B W B B W B | 4
+3 | B B B W B W W B | 3
+2 | B B B B W W W B | 2
+1 | B B B W W W B B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 37 / 30.0
+White: 27 / 30.0
+
+- student_c20 (black) wins the game! (37-27)
+random1 (black) vs. student_c20 (white)
+
+minimax node number =  9 hit number = 6
+minimax node number =  34 hit number = 26
+minimax node number =  58 hit number = 44
+minimax node number =  100 hit number = 79
+minimax node number =  180 hit number = 149
+minimax node number =  264 hit number = 226
+minimax node number =  360 hit number = 314
+minimax node number =  486 hit number = 426
+minimax node number =  636 hit number = 561
+minimax node number =  713 hit number = 627
+minimax node number =  825 hit number = 725
+minimax node number =  1033 hit number = 917
+minimax node number =  1153 hit number = 1025
+minimax node number =  1303 hit number = 1160
+minimax node number =  1507 hit number = 1347
+minimax node number =  1651 hit number = 1475
+minimax node number =  1794 hit number = 1605
+minimax node number =  1926 hit number = 1726
+minimax node number =  2025 hit number = 1816
+minimax node number =  2124 hit number = 1904
+minimax node number =  2223 hit number = 1992
+minimax node number =  2283 hit number = 2040
+minimax node number =  2387 hit number = 2131
+minimax node number =  2453 hit number = 2186
+minimax node number =  2498 hit number = 2222
+minimax node number =  2538 hit number = 2254
+minimax node number =  2559 hit number = 2268
+minimax node number =  2569 hit number = 2273
+minimax node number =  2571 hit number = 2273
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | W W W W W W W W | 8
+7 | B B B B B B W W | 7
+6 | W B W W W B W B | 6
+5 | W W B B W W W B | 5
+4 | W B W B B B W B | 4
+3 | W W B W B B W B | 3
+2 | W B B B B B W B | 2
+1 | W W W W W W W W | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 27 / 30.0
+White: 37 / 29.6
+
+- student_c20 (white) wins the game! (37-27)
+student_c20 (black) vs. random1 (white)
+
+minimax node number =  16 hit number = 12
+minimax node number =  36 hit number = 27
+minimax node number =  60 hit number = 47
+minimax node number =  92 hit number = 75
+minimax node number =  141 hit number = 117
+minimax node number =  204 hit number = 171
+minimax node number =  304 hit number = 261
+minimax node number =  425 hit number = 371
+minimax node number =  579 hit number = 514
+minimax node number =  669 hit number = 595
+minimax node number =  774 hit number = 693
+minimax node number =  879 hit number = 791
+minimax node number =  1014 hit number = 917
+minimax node number =  1158 hit number = 1052
+minimax node number =  1256 hit number = 1143
+minimax node number =  1340 hit number = 1221
+minimax node number =  1436 hit number = 1311
+minimax node number =  1511 hit number = 1381
+minimax node number =  1623 hit number = 1485
+minimax node number =  1701 hit number = 1557
+minimax node number =  1740 hit number = 1593
+minimax node number =  1779 hit number = 1629
+minimax node number =  1812 hit number = 1659
+minimax node number =  1868 hit number = 1708
+minimax node number =  1904 hit number = 1740
+minimax node number =  1928 hit number = 1758
+minimax node number =  1948 hit number = 1774
+minimax node number =  1960 hit number = 1783
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | B W B B B B B B | 8
+7 | B B W B B W W W | 7
+6 | B B B W B W W W | 6
+5 | B B W B W W B W | 5
+4 | B B B W W W B W | 4
+3 | B B W W W B W W | 3
+2 | B B B W W W W W | 2
+1 | B B B B W W W B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 34 / 30.0
+White: 30 / 30.0
+
+- student_c20 (black) wins the game! (34-30)
+random1 (black) vs. student_c20 (white)
+
+minimax node number =  9 hit number = 6
+minimax node number =  18 hit number = 12
+minimax node number =  58 hit number = 44
+minimax node number =  100 hit number = 79
+minimax node number =  172 hit number = 139
+minimax node number =  205 hit number = 161
+minimax node number =  238 hit number = 183
+minimax node number =  280 hit number = 211
+minimax node number =  358 hit number = 276
+minimax node number =  484 hit number = 388
+minimax node number =  649 hit number = 538
+minimax node number =  845 hit number = 720
+minimax node number =  1027 hit number = 888
+minimax node number =  1157 hit number = 1005
+minimax node number =  1278 hit number = 1115
+minimax node number =  1398 hit number = 1223
+minimax node number =  1506 hit number = 1319
+minimax node number =  1616 hit number = 1419
+minimax node number =  1726 hit number = 1518
+minimax node number =  1807 hit number = 1590
+minimax node number =  1907 hit number = 1680
+minimax node number =  1971 hit number = 1736
+minimax node number =  2041 hit number = 1796
+minimax node number =  2104 hit number = 1850
+minimax node number =  2152 hit number = 1890
+minimax node number =  2194 hit number = 1925
+minimax node number =  2206 hit number = 1934
+minimax node number =  2212 hit number = 1938
+minimax node number =  2215 hit number = 1938
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | W W W W W W W W | 8
+7 | W W W W B B B B | 7
+6 | W W W B W B B B | 6
+5 | W W W W W W W W | 5
+4 | W W B W B B W W | 4
+3 | W W B B W W W W | 3
+2 | B B B W B B B W | 2
+1 | W B W W W W W W | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 20 / 30.0
+White: 44 / 30.0
+
+- student_c20 (white) wins the game! (44-20)
+student_c20 (black) vs. random1 (white)
+
+minimax node number =  16 hit number = 12
+minimax node number =  36 hit number = 27
+minimax node number =  54 hit number = 39
+minimax node number =  90 hit number = 69
+minimax node number =  146 hit number = 117
+minimax node number =  191 hit number = 157
+minimax node number =  254 hit number = 211
+minimax node number =  334 hit number = 283
+minimax node number =  454 hit number = 391
+minimax node number =  610 hit number = 534
+minimax node number =  760 hit number = 669
+minimax node number =  969 hit number = 859
+minimax node number =  1177 hit number = 1054
+minimax node number =  1359 hit number = 1222
+minimax node number =  1515 hit number = 1365
+minimax node number =  1658 hit number = 1497
+minimax node number =  1814 hit number = 1640
+minimax node number =  1970 hit number = 1783
+minimax node number =  2139 hit number = 1939
+minimax node number =  2249 hit number = 2038
+minimax node number =  2375 hit number = 2155
+minimax node number =  2496 hit number = 2265
+minimax node number =  2595 hit number = 2355
+minimax node number =  2683 hit number = 2432
+minimax node number =  2763 hit number = 2502
+minimax node number =  2808 hit number = 2538
+minimax node number =  2829 hit number = 2552
+minimax node number =  2833 hit number = 2552
+minimax node number =  2837 hit number = 2552
+minimax node number =  2839 hit number = 2552
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | B B B B B B W B | 8
+7 | B W W B B B W W | 7
+6 | B W W W B B W W | 6
+5 | B W B W B W B B | 5
+4 | B W B W W B B B | 4
+3 | B W B W B W W B | 3
+2 | B W W B B B W B | 2
+1 | B W B B B B B B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 40 / 29.1
+White: 24 / 30.0
+
+- student_c20 (black) wins the game! (40-24)
+random1 (black) vs. student_c20 (white)
+
+minimax node number =  9 hit number = 6
+minimax node number =  21 hit number = 16
+minimax node number =  70 hit number = 58
+minimax node number =  112 hit number = 93
+minimax node number =  154 hit number = 128
+minimax node number =  226 hit number = 191
+minimax node number =  322 hit number = 279
+minimax node number =  454 hit number = 400
+minimax node number =  598 hit number = 532
+minimax node number =  754 hit number = 675
+minimax node number =  864 hit number = 774
+minimax node number =  963 hit number = 864
+minimax node number =  1095 hit number = 985
+minimax node number =  1227 hit number = 1106
+minimax node number =  1337 hit number = 1205
+minimax node number =  1409 hit number = 1269
+minimax node number =  1529 hit number = 1377
+minimax node number =  1697 hit number = 1531
+minimax node number =  1851 hit number = 1674
+minimax node number =  1961 hit number = 1773
+minimax node number =  2057 hit number = 1861
+minimax node number =  2187 hit number = 1981
+minimax node number =  2295 hit number = 2080
+minimax node number =  2367 hit number = 2143
+minimax node number =  2416 hit number = 2185
+minimax node number =  2444 hit number = 2209
+minimax node number =  2464 hit number = 2224
+minimax node number =  2474 hit number = 2229
+minimax node number =  2476 hit number = 2229
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | W W W W W W B W | 8
+7 | W B B B B B B B | 7
+6 | W W B B B B B W | 6
+5 | W B W B W B B W | 5
+4 | W W B W W W B W | 4
+3 | W W W B W W W W | 3
+2 | W W B W W W B W | 2
+1 | W B W W W W B W | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 24 / 30.0
+White: 40 / 29.9
+
+- student_c20 (white) wins the game! (40-24)
+student_c20 (black) vs. random1 (white)
+
+minimax node number =  16 hit number = 12
+minimax node number =  41 hit number = 32
+minimax node number =  66 hit number = 52
+minimax node number =  108 hit number = 88
+minimax node number =  153 hit number = 128
+minimax node number =  223 hit number = 191
+minimax node number =  293 hit number = 254
+minimax node number =  419 hit number = 371
+minimax node number =  545 hit number = 488
+minimax node number =  636 hit number = 566
+minimax node number =  726 hit number = 647
+minimax node number =  858 hit number = 767
+minimax node number =  1014 hit number = 911
+minimax node number =  1238 hit number = 1121
+minimax node number =  1494 hit number = 1361
+minimax node number =  1746 hit number = 1599
+minimax node number =  1900 hit number = 1739
+minimax node number =  2069 hit number = 1895
+minimax node number =  2237 hit number = 2051
+minimax node number =  2405 hit number = 2207
+minimax node number =  2561 hit number = 2351
+minimax node number =  2704 hit number = 2481
+minimax node number =  2814 hit number = 2581
+minimax node number =  2894 hit number = 2653
+minimax node number =  2942 hit number = 2695
+minimax node number =  2984 hit number = 2731
+minimax node number =  3000 hit number = 2743
+minimax node number =  3016 hit number = 2755
+minimax node number =  3020 hit number = 2757
+minimax node number =  3022 hit number = 2757
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | B B B B B B B B | 8
+7 | B B B W W W W W | 7
+6 | B B W B W B W W | 6
+5 | B B W W B W B B | 5
+4 | B B W B W B B B | 4
+3 | B B B W W B B B | 3
+2 | B B B W B B B B | 2
+1 | B W W W W W W B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 41 / 29.0
+White: 23 / 30.0
+
+- student_c20 (black) wins the game! (41-23)
+random1 (black) vs. student_c20 (white)
+
+minimax node number =  9 hit number = 6
+minimax node number =  18 hit number = 12
+minimax node number =  42 hit number = 30
+minimax node number =  69 hit number = 48
+minimax node number =  118 hit number = 90
+minimax node number =  190 hit number = 150
+minimax node number =  270 hit number = 220
+minimax node number =  350 hit number = 290
+minimax node number =  435 hit number = 358
+minimax node number =  525 hit number = 430
+minimax node number =  597 hit number = 484
+minimax node number =  688 hit number = 562
+minimax node number =  787 hit number = 650
+minimax node number =  919 hit number = 770
+minimax node number =  1029 hit number = 869
+minimax node number =  1117 hit number = 946
+minimax node number =  1225 hit number = 1042
+minimax node number =  1324 hit number = 1130
+minimax node number =  1423 hit number = 1218
+minimax node number =  1500 hit number = 1284
+minimax node number =  1630 hit number = 1401
+minimax node number =  1735 hit number = 1491
+minimax node number =  1813 hit number = 1556
+minimax node number =  1863 hit number = 1596
+minimax node number =  1913 hit number = 1636
+minimax node number =  1958 hit number = 1672
+minimax node number =  1986 hit number = 1693
+minimax node number =  2006 hit number = 1708
+minimax node number =  2009 hit number = 1708
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | W B B B B B B W | 8
+7 | W B B B B B B B | 7
+6 | W B W W W B B B | 6
+5 | W W W W B W B B | 5
+4 | W W W B W W B B | 4
+3 | W B W W B W B W | 3
+2 | W B B W W B B W | 2
+1 | W B B B B B B W | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 36 / 30.0
+White: 28 / 29.7
+
+- random1 (black) wins the game! (36-28)
+student_c20 (black) vs. random1 (white)
+
+minimax node number =  16 hit number = 12
+minimax node number =  36 hit number = 28
+minimax node number =  81 hit number = 64
+minimax node number =  126 hit number = 100
+minimax node number =  168 hit number = 135
+minimax node number =  240 hit number = 198
+minimax node number =  348 hit number = 297
+minimax node number =  491 hit number = 427
+minimax node number =  603 hit number = 531
+minimax node number =  687 hit number = 608
+minimax node number =  807 hit number = 716
+minimax node number =  897 hit number = 796
+minimax node number =  1025 hit number = 908
+minimax node number =  1137 hit number = 1004
+minimax node number =  1257 hit number = 1109
+minimax node number =  1387 hit number = 1226
+minimax node number =  1483 hit number = 1310
+minimax node number =  1587 hit number = 1401
+minimax node number =  1671 hit number = 1471
+minimax node number =  1799 hit number = 1583
+minimax node number =  1943 hit number = 1711
+minimax node number =  2048 hit number = 1801
+minimax node number =  2108 hit number = 1849
+minimax node number =  2156 hit number = 1885
+minimax node number =  2196 hit number = 1915
+minimax node number =  2246 hit number = 1955
+minimax node number =  2286 hit number = 1987
+minimax node number =  2310 hit number = 2005
+minimax node number =  2318 hit number = 2009
+minimax node number =  2320 hit number = 2010
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | B B B B B B B B | 8
+7 | B B B B B B B B | 7
+6 | B B B B B W B B | 6
+5 | B B B W B W W B | 5
+4 | B B W B W W W B | 4
+3 | B B B W B W W B | 3
+2 | B B W B W W W B | 2
+1 | B B B B B W B B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 48 / 29.6
+White: 16 / 30.0
+
+- student_c20 (black) wins the game! (48-16)
+random1 (black) vs. student_c20 (white)
+
+minimax node number =  9 hit number = 6
+minimax node number =  24 hit number = 16
+minimax node number =  52 hit number = 37
+minimax node number =  106 hit number = 82
+minimax node number =  176 hit number = 142
+minimax node number =  260 hit number = 214
+minimax node number =  284 hit number = 230
+minimax node number =  324 hit number = 260
+minimax node number =  429 hit number = 350
+minimax node number =  559 hit number = 467
+minimax node number =  724 hit number = 621
+minimax node number =  820 hit number = 709
+minimax node number =  910 hit number = 790
+minimax node number =  982 hit number = 854
+minimax node number =  1092 hit number = 954
+minimax node number =  1164 hit number = 1018
+minimax node number =  1281 hit number = 1126
+minimax node number =  1377 hit number = 1214
+minimax node number =  1473 hit number = 1302
+minimax node number =  1553 hit number = 1374
+minimax node number =  1643 hit number = 1454
+minimax node number =  1715 hit number = 1517
+minimax node number =  1811 hit number = 1601
+minimax node number =  1901 hit number = 1681
+minimax node number =  1973 hit number = 1744
+minimax node number =  2022 hit number = 1786
+minimax node number =  2052 hit number = 1811
+minimax node number =  2064 hit number = 1820
+minimax node number =  2068 hit number = 1822
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | W B W W W W W W | 8
+7 | B B B B B B B W | 7
+6 | W B W B B B W W | 6
+5 | W W B W B W B W | 5
+4 | W W W W W B B W | 4
+3 | W W W W B B W W | 3
+2 | W W W B B W W W | 2
+1 | W W W W W W W W | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 21 / 30.0
+White: 43 / 30.0
+
+- student_c20 (white) wins the game! (43-21)
+student_c20 (black) vs. random1 (white)
+
+minimax node number =  16 hit number = 12
+minimax node number =  36 hit number = 27
+minimax node number =  54 hit number = 39
+minimax node number =  102 hit number = 81
+minimax node number =  165 hit number = 135
+minimax node number =  225 hit number = 185
+minimax node number =  279 hit number = 230
+minimax node number =  356 hit number = 300
+minimax node number =  491 hit number = 420
+minimax node number =  601 hit number = 519
+minimax node number =  733 hit number = 640
+minimax node number =  865 hit number = 760
+minimax node number =  985 hit number = 868
+minimax node number =  1115 hit number = 985
+minimax node number =  1223 hit number = 1081
+minimax node number =  1343 hit number = 1189
+minimax node number =  1525 hit number = 1358
+minimax node number =  1681 hit number = 1502
+minimax node number =  1816 hit number = 1622
+minimax node number =  1907 hit number = 1700
+minimax node number =  2024 hit number = 1804
+minimax node number =  2141 hit number = 1908
+minimax node number =  2211 hit number = 1968
+minimax node number =  2274 hit number = 2022
+minimax node number =  2334 hit number = 2072
+minimax node number =  2362 hit number = 2093
+minimax node number =  2397 hit number = 2121
+minimax node number =  2417 hit number = 2136
+minimax node number =  2426 hit number = 2142
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | B B B B B B B B | 8
+7 | W W W W W B B B | 7
+6 | B W B W W W B B | 6
+5 | B B W W W B W B | 5
+4 | B W B W B W W W | 4
+3 | B W B W W B W W | 3
+2 | B W W W W W W W | 2
+1 | B B B B B B B B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 34 / 29.9
+White: 30 / 30.0
+
+- student_c20 (black) wins the game! (34-30)
+random1 (black) vs. student_c20 (white)
+
+minimax node number =  9 hit number = 6
+minimax node number =  24 hit number = 16
+minimax node number =  52 hit number = 37
+minimax node number =  84 hit number = 61
+minimax node number =  112 hit number = 82
+minimax node number =  200 hit number = 159
+minimax node number =  300 hit number = 249
+minimax node number =  391 hit number = 327
+minimax node number =  556 hit number = 477
+minimax node number =  676 hit number = 585
+minimax node number =  826 hit number = 720
+minimax node number =  1036 hit number = 915
+minimax node number =  1228 hit number = 1091
+minimax node number =  1468 hit number = 1316
+minimax node number =  1608 hit number = 1442
+minimax node number =  1752 hit number = 1574
+minimax node number =  1895 hit number = 1704
+minimax node number =  2051 hit number = 1847
+minimax node number =  2171 hit number = 1955
+minimax node number =  2292 hit number = 2065
+minimax node number =  2412 hit number = 2173
+minimax node number =  2511 hit number = 2261
+minimax node number =  2643 hit number = 2381
+minimax node number =  2742 hit number = 2469
+minimax node number =  2822 hit number = 2539
+minimax node number =  2862 hit number = 2571
+minimax node number =  2880 hit number = 2583
+minimax node number =  2886 hit number = 2587
+minimax node number =  2889 hit number = 2587
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | W B W W W W W W | 8
+7 | B B B W B B W W | 7
+6 | B W W B W B W W | 6
+5 | W B W W B W W W | 5
+4 | W W B B B W W W | 4
+3 | W B W B W W W W | 3
+2 | W W W W W W W W | 2
+1 | W W W W W W W W | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 16 / 30.0
+White: 48 / 29.7
+
+- student_c20 (white) wins the game! (48-16)
+student_c20 (black) vs. random1 (white)
+
+minimax node number =  16 hit number = 12
+minimax node number =  41 hit number = 32
+minimax node number =  76 hit number = 62
+minimax node number =  166 hit number = 143
+minimax node number =  186 hit number = 158
+minimax node number =  228 hit number = 194
+minimax node number =  309 hit number = 266
+minimax node number =  372 hit number = 322
+minimax node number =  471 hit number = 410
+minimax node number =  548 hit number = 480
+minimax node number =  602 hit number = 528
+minimax node number =  672 hit number = 591
+minimax node number =  736 hit number = 647
+minimax node number =  868 hit number = 768
+minimax node number =  1000 hit number = 889
+minimax node number =  1168 hit number = 1043
+minimax node number =  1322 hit number = 1183
+minimax node number =  1448 hit number = 1300
+minimax node number =  1613 hit number = 1454
+minimax node number =  1679 hit number = 1514
+minimax node number =  1715 hit number = 1547
+minimax node number =  1763 hit number = 1591
+minimax node number =  1781 hit number = 1607
+minimax node number =  1811 hit number = 1634
+minimax node number =  1825 hit number = 1646
+minimax node number =  1840 hit number = 1658
+minimax node number =  1850 hit number = 1666
+minimax node number =  1859 hit number = 1672
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | B B B W W W W B | 8
+7 | B B W W W W W B | 7
+6 | B B B W B W B B | 6
+5 | B B B W W B W B | 5
+4 | B B W B B W B B | 4
+3 | B W W W B B W B | 3
+2 | B W W W W B B B | 2
+1 | B W W W B B B B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 37 / 29.8
+White: 27 / 30.0
+
+- student_c20 (black) wins the game! (37-27)
+random1 (black) vs. student_c20 (white)
+
+minimax node number =  9 hit number = 6
+minimax node number =  34 hit number = 26
+minimax node number =  69 hit number = 54
+minimax node number =  89 hit number = 64
+minimax node number =  125 hit number = 91
+minimax node number =  149 hit number = 109
+minimax node number =  191 hit number = 144
+minimax node number =  226 hit number = 172
+minimax node number =  266 hit number = 207
+minimax node number =  326 hit number = 257
+minimax node number =  398 hit number = 320
+minimax node number =  470 hit number = 383
+minimax node number =  566 hit number = 467
+minimax node number =  666 hit number = 557
+minimax node number =  786 hit number = 665
+minimax node number =  955 hit number = 821
+minimax node number =  1095 hit number = 947
+minimax node number =  1245 hit number = 1082
+minimax node number =  1343 hit number = 1166
+minimax node number =  1393 hit number = 1206
+minimax node number =  1458 hit number = 1258
+minimax node number =  1506 hit number = 1294
+minimax node number =  1572 hit number = 1349
+minimax node number =  1622 hit number = 1389
+minimax node number =  1662 hit number = 1421
+minimax node number =  1710 hit number = 1461
+minimax node number =  1734 hit number = 1479
+minimax node number =  1744 hit number = 1484
+minimax node number =  1750 hit number = 1487
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | W B W W W W W W | 8
+7 | B B B W W W W B | 7
+6 | W W B B W W W B | 6
+5 | W W B W B W W B | 5
+4 | W W B W B B W B | 4
+3 | W W B B W B W W | 3
+2 | W W B B B W W W | 2
+1 | W W W W W W W W | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 21 / 30.0
+White: 43 / 29.8
+
+- student_c20 (white) wins the game! (43-21)
+student_c20 (black) vs. random1 (white)
+
+minimax node number =  16 hit number = 12
+minimax node number =  36 hit number = 28
+minimax node number =  81 hit number = 64
+minimax node number =  105 hit number = 82
+minimax node number =  185 hit number = 154
+minimax node number =  265 hit number = 226
+minimax node number =  409 hit number = 358
+minimax node number =  499 hit number = 433
+minimax node number =  618 hit number = 535
+minimax node number =  730 hit number = 631
+minimax node number =  826 hit number = 715
+minimax node number =  1006 hit number = 880
+minimax node number =  1214 hit number = 1075
+minimax node number =  1409 hit number = 1257
+minimax node number =  1574 hit number = 1411
+minimax node number =  1684 hit number = 1510
+minimax node number =  1816 hit number = 1631
+minimax node number =  1926 hit number = 1731
+minimax node number =  2056 hit number = 1851
+minimax node number =  2146 hit number = 1932
+minimax node number =  2236 hit number = 2013
+minimax node number =  2326 hit number = 2093
+minimax node number =  2381 hit number = 2137
+minimax node number =  2465 hit number = 2209
+minimax node number =  2525 hit number = 2259
+minimax node number =  2573 hit number = 2299
+minimax node number =  2588 hit number = 2309
+minimax node number =  2604 hit number = 2321
+minimax node number =  2612 hit number = 2325
+minimax node number =  2616 hit number = 2327
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | B B B B B B B B | 8
+7 | W W W W W W B B | 7
+6 | W W B B B B W B | 6
+5 | W B W W B B W B | 5
+4 | W W B W B W W B | 4
+3 | W W W W W W W B | 3
+2 | W W B B B W W B | 2
+1 | B B B B B B W B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 34 / 28.4
+White: 30 / 30.0
+
+- student_c20 (black) wins the game! (34-30)
+random1 (black) vs. student_c20 (white)
+
+minimax node number =  9 hit number = 6
+minimax node number =  24 hit number = 16
+minimax node number =  59 hit number = 46
+minimax node number =  94 hit number = 76
+minimax node number =  182 hit number = 156
+minimax node number =  272 hit number = 237
+minimax node number =  404 hit number = 357
+minimax node number =  481 hit number = 423
+minimax node number =  649 hit number = 577
+minimax node number =  844 hit number = 757
+minimax node number =  976 hit number = 877
+minimax node number =  1168 hit number = 1053
+minimax node number =  1415 hit number = 1281
+minimax node number =  1653 hit number = 1505
+minimax node number =  1925 hit number = 1760
+minimax node number =  2120 hit number = 1940
+minimax node number =  2300 hit number = 2105
+minimax node number =  2468 hit number = 2261
+minimax node number =  2622 hit number = 2404
+minimax node number =  2778 hit number = 2548
+minimax node number =  2899 hit number = 2658
+minimax node number =  3029 hit number = 2775
+minimax node number =  3128 hit number = 2863
+minimax node number =  3218 hit number = 2943
+minimax node number =  3299 hit number = 3015
+minimax node number =  3334 hit number = 3043
+minimax node number =  3354 hit number = 3058
+minimax node number =  3369 hit number = 3068
+minimax node number =  3378 hit number = 3074
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | W W W W W W W W | 8
+7 | W W B B B W W B | 7
+6 | W W W B W W W B | 6
+5 | W W W W B B W W | 5
+4 | W W W W B B W W | 4
+3 | W W B B B B B W | 3
+2 | W B W W W B B W | 2
+1 | W B W W W W W W | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 19 / 30.0
+White: 45 / 29.1
+
+- student_c20 (white) wins the game! (45-19)
+student_c20 (black) vs. random1 (white)
+
+minimax node number =  16 hit number = 12
+minimax node number =  36 hit number = 27
+minimax node number =  60 hit number = 47
+minimax node number =  108 hit number = 89
+minimax node number =  171 hit number = 145
+minimax node number =  279 hit number = 241
+minimax node number =  354 hit number = 301
+minimax node number =  438 hit number = 371
+minimax node number =  529 hit number = 449
+minimax node number =  617 hit number = 526
+minimax node number =  725 hit number = 625
+minimax node number =  933 hit number = 817
+minimax node number =  1173 hit number = 1041
+minimax node number =  1425 hit number = 1275
+minimax node number =  1672 hit number = 1503
+minimax node number =  1893 hit number = 1707
+minimax node number =  2091 hit number = 1887
+minimax node number =  2253 hit number = 2031
+minimax node number =  2449 hit number = 2213
+minimax node number =  2659 hit number = 2408
+minimax node number =  2841 hit number = 2576
+minimax node number =  2997 hit number = 2720
+minimax node number =  3101 hit number = 2816
+minimax node number =  3167 hit number = 2876
+minimax node number =  3194 hit number = 2900
+minimax node number =  3215 hit number = 2918
+minimax node number =  3250 hit number = 2948
+minimax node number =  3270 hit number = 2964
+minimax node number =  3279 hit number = 2970
+minimax node number =  3281 hit number = 2970
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | B B B B B B B B | 8
+7 | W B B B B B B B | 7
+6 | B B B B B B B B | 6
+5 | B B W W B B B B | 5
+4 | B B B W B B W B | 4
+3 | B B B B W B B B | 3
+2 | W W B B B B B B | 2
+1 | B W W W W W W B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 50 / 28.9
+White: 14 / 30.0
+
+- student_c20 (black) wins the game! (50-14)
+random1 (black) vs. student_c20 (white)
+
+minimax node number =  9 hit number = 6
+minimax node number =  25 hit number = 18
+minimax node number =  65 hit number = 53
+minimax node number =  142 hit number = 123
+minimax node number =  198 hit number = 171
+minimax node number =  306 hit number = 270
+minimax node number =  438 hit number = 390
+minimax node number =  588 hit number = 525
+minimax node number =  718 hit number = 642
+minimax node number =  848 hit number = 759
+minimax node number =  952 hit number = 850
+minimax node number =  1069 hit number = 954
+minimax node number =  1165 hit number = 1038
+minimax node number =  1213 hit number = 1074
+minimax node number =  1237 hit number = 1086
+minimax node number =  1248 hit number = 1086
+minimax node number =  1325 hit number = 1152
+minimax node number =  1469 hit number = 1284
+minimax node number =  1579 hit number = 1384
+minimax node number =  1667 hit number = 1461
+minimax node number =  1766 hit number = 1549
+minimax node number =  1821 hit number = 1593
+minimax node number =  1876 hit number = 1637
+minimax node number =  1940 hit number = 1693
+minimax node number =  1989 hit number = 1735
+minimax node number =  2031 hit number = 1771
+minimax node number =  2047 hit number = 1783
+minimax node number =  2053 hit number = 1787
+minimax node number =  2055 hit number = 1787
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | W B W W W W W W | 8
+7 | W W W B B B B B | 7
+6 | W W W W W W B B | 6
+5 | W B W W B B B B | 5
+4 | W B W B B B B W | 4
+3 | W W W B W W W W | 3
+2 | W W W W B W W W | 2
+1 | W B W W W W W W | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 21 / 30.0
+White: 43 / 30.0
+
+- student_c20 (white) wins the game! (43-21)
+student_c20 (black) vs. random1 (white)
+
+minimax node number =  16 hit number = 12
+minimax node number =  36 hit number = 27
+minimax node number =  54 hit number = 39
+minimax node number =  90 hit number = 69
+minimax node number =  118 hit number = 90
+minimax node number =  154 hit number = 117
+minimax node number =  204 hit number = 157
+minimax node number =  240 hit number = 184
+minimax node number =  262 hit number = 195
+minimax node number =  334 hit number = 255
+minimax node number =  484 hit number = 390
+minimax node number =  540 hit number = 432
+minimax node number =  680 hit number = 558
+minimax node number =  784 hit number = 649
+minimax node number =  914 hit number = 769
+minimax node number =  1068 hit number = 909
+minimax node number =  1198 hit number = 1026
+minimax node number =  1326 hit number = 1138
+minimax node number =  1403 hit number = 1204
+minimax node number =  1457 hit number = 1249
+minimax node number =  1520 hit number = 1305
+minimax node number =  1600 hit number = 1375
+minimax node number =  1666 hit number = 1430
+minimax node number =  1710 hit number = 1463
+minimax node number =  1752 hit number = 1498
+minimax node number =  1782 hit number = 1522
+minimax node number =  1798 hit number = 1534
+minimax node number =  1806 hit number = 1540
+minimax node number =  1809 hit number = 1540
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | B W B B B B B B | 8
+7 | B B B B B B B W | 7
+6 | B B B B W W B W | 6
+5 | B W B B W W B W | 5
+4 | B W W W B B B W | 4
+3 | B W W B B B B W | 3
+2 | W W W W W W W W | 2
+1 | B B B B B B W B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 39 / 29.9
+White: 25 / 30.0
+
+- student_c20 (black) wins the game! (39-25)
+random1 (black) vs. student_c20 (white)
+
+minimax node number =  9 hit number = 6
+minimax node number =  41 hit number = 34
+minimax node number =  66 hit number = 54
+minimax node number =  146 hit number = 124
+minimax node number =  200 hit number = 169
+minimax node number =  224 hit number = 187
+minimax node number =  269 hit number = 223
+minimax node number =  353 hit number = 295
+minimax node number =  423 hit number = 355
+minimax node number =  521 hit number = 439
+minimax node number =  638 hit number = 543
+minimax node number =  736 hit number = 627
+minimax node number =  857 hit number = 737
+minimax node number =  941 hit number = 809
+minimax node number =  1067 hit number = 926
+minimax node number =  1175 hit number = 1025
+minimax node number =  1315 hit number = 1155
+minimax node number =  1455 hit number = 1285
+minimax node number =  1575 hit number = 1395
+minimax node number =  1665 hit number = 1476
+minimax node number =  1755 hit number = 1557
+minimax node number =  1827 hit number = 1621
+minimax node number =  1881 hit number = 1669
+minimax node number =  1935 hit number = 1714
+minimax node number =  1971 hit number = 1744
+minimax node number =  1996 hit number = 1764
+minimax node number =  2026 hit number = 1789
+minimax node number =  2038 hit number = 1797
+minimax node number =  2044 hit number = 1800
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | W W B W W W W W | 8
+7 | W W B B B B B B | 7
+6 | W W B B B W W W | 6
+5 | W W W B W W W W | 5
+4 | W W B W B W W W | 4
+3 | W W B W B W W W | 3
+2 | B W W B B W B W | 2
+1 | W W W W W W W W | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 19 / 30.0
+White: 45 / 30.0
+
+- student_c20 (white) wins the game! (45-19)
+student_c20 (black) vs. random1 (white)
+
+minimax node number =  16 hit number = 12
+minimax node number =  36 hit number = 27
+minimax node number =  54 hit number = 39
+minimax node number =  102 hit number = 81
+minimax node number =  156 hit number = 126
+minimax node number =  240 hit number = 198
+minimax node number =  328 hit number = 275
+minimax node number =  448 hit number = 385
+minimax node number =  578 hit number = 505
+minimax node number =  721 hit number = 635
+minimax node number =  784 hit number = 689
+minimax node number =  940 hit number = 832
+minimax node number =  1006 hit number = 887
+minimax node number =  1146 hit number = 1013
+minimax node number =  1266 hit number = 1121
+minimax node number =  1398 hit number = 1241
+minimax node number =  1567 hit number = 1397
+minimax node number =  1747 hit number = 1565
+minimax node number =  1890 hit number = 1697
+minimax node number =  1994 hit number = 1788
+minimax node number =  2150 hit number = 1932
+minimax node number =  2271 hit number = 2042
+minimax node number =  2361 hit number = 2122
+minimax node number =  2452 hit number = 2200
+minimax node number =  2506 hit number = 2245
+minimax node number =  2546 hit number = 2275
+minimax node number =  2576 hit number = 2299
+minimax node number =  2582 hit number = 2299
+minimax node number =  2586 hit number = 2299
+minimax node number =  2589 hit number = 2302
+minimax node number =  2591 hit number = 2303
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | B B B B B B B B | 8
+7 | B B B B B B B B | 7
+6 | B B B B B B B B | 6
+5 | B W W B B W B B | 5
+4 | B B B B W B B B | 4
+3 | B B B W B B B B | 3
+2 | B B B B W B B B | 2
+1 | B B B B B B B B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 58 / 29.7
+White: 6 / 30.0
+
+- student_c20 (black) wins the game! (58-6)
+random1 (black) vs. student_c20 (white)
+
+minimax node number =  9 hit number = 6
+minimax node number =  25 hit number = 18
+minimax node number =  65 hit number = 53
+minimax node number =  137 hit number = 116
+minimax node number =  191 hit number = 161
+minimax node number =  271 hit number = 231
+minimax node number =  352 hit number = 303
+minimax node number =  432 hit number = 373
+minimax node number =  575 hit number = 505
+minimax node number =  685 hit number = 604
+minimax node number =  776 hit number = 688
+minimax node number =  875 hit number = 778
+minimax node number =  1018 hit number = 908
+minimax node number =  1139 hit number = 1018
+minimax node number =  1229 hit number = 1099
+minimax node number =  1319 hit number = 1180
+minimax node number =  1419 hit number = 1270
+minimax node number =  1573 hit number = 1413
+minimax node number =  1713 hit number = 1543
+minimax node number =  1830 hit number = 1651
+minimax node number =  1973 hit number = 1783
+minimax node number =  2094 hit number = 1893
+minimax node number =  2204 hit number = 1993
+minimax node number =  2268 hit number = 2049
+minimax node number =  2313 hit number = 2085
+minimax node number =  2353 hit number = 2117
+minimax node number =  2371 hit number = 2129
+minimax node number =  2379 hit number = 2133
+minimax node number =  2381 hit number = 2133
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | W B B B B B B W | 8
+7 | W W W W W B B W | 7
+6 | W W W W B B B W | 6
+5 | W B W B W W B W | 5
+4 | W W W W B W B W | 4
+3 | W W W B W W B W | 3
+2 | W W W W B W B W | 2
+1 | W W W W W W W W | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 20 / 30.0
+White: 44 / 30.0
+
+- student_c20 (white) wins the game! (44-20)
+student_c20 (black) vs. random1 (white)
+
+minimax node number =  16 hit number = 12
+minimax node number =  41 hit number = 32
+minimax node number =  76 hit number = 62
+minimax node number =  118 hit number = 98
+minimax node number =  166 hit number = 142
+minimax node number =  254 hit number = 222
+minimax node number =  326 hit number = 286
+minimax node number =  430 hit number = 382
+minimax node number =  542 hit number = 486
+minimax node number =  668 hit number = 603
+minimax node number =  837 hit number = 759
+minimax node number =  981 hit number = 891
+minimax node number =  1113 hit number = 1012
+minimax node number =  1257 hit number = 1144
+minimax node number =  1425 hit number = 1298
+minimax node number =  1635 hit number = 1493
+minimax node number =  1765 hit number = 1613
+minimax node number =  1933 hit number = 1767
+minimax node number =  2076 hit number = 1897
+minimax node number =  2212 hit number = 2016
+minimax node number =  2348 hit number = 2135
+minimax node number =  2460 hit number = 2231
+minimax node number =  2558 hit number = 2315
+minimax node number =  2642 hit number = 2385
+minimax node number =  2702 hit number = 2435
+minimax node number =  2726 hit number = 2451
+minimax node number =  2731 hit number = 2451
+minimax node number =  2735 hit number = 2454
+minimax node number =  2739 hit number = 2456
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | B B B W W W W W | 8
+7 | W W W W B B W W | 7
+6 | B W B B B B W W | 6
+5 | B B W B W W W W | 5
+4 | B B B W B W W W | 4
+3 | B B B B W B W W | 3
+2 | B B B B B W W W | 2
+1 | B B B B B B W B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 34 / 29.4
+White: 30 / 30.0
+
+- student_c20 (black) wins the game! (34-30)
+random1 (black) vs. student_c20 (white)
+
+minimax node number =  9 hit number = 6
+minimax node number =  24 hit number = 16
+minimax node number =  49 hit number = 36
+minimax node number =  84 hit number = 64
+minimax node number =  116 hit number = 88
+minimax node number =  188 hit number = 152
+minimax node number =  242 hit number = 197
+minimax node number =  286 hit number = 230
+minimax node number =  406 hit number = 338
+minimax node number =  496 hit number = 413
+minimax node number =  600 hit number = 504
+minimax node number =  670 hit number = 560
+minimax node number =  700 hit number = 580
+minimax node number =  752 hit number = 619
+minimax node number =  808 hit number = 661
+minimax node number =  886 hit number = 726
+minimax node number =  958 hit number = 790
+minimax node number =  1048 hit number = 871
+minimax node number =  1144 hit number = 959
+minimax node number =  1252 hit number = 1058
+minimax node number =  1342 hit number = 1138
+minimax node number =  1430 hit number = 1215
+minimax node number =  1520 hit number = 1295
+minimax node number =  1590 hit number = 1358
+minimax node number =  1635 hit number = 1398
+minimax node number =  1662 hit number = 1416
+minimax node number =  1690 hit number = 1437
+minimax node number =  1705 hit number = 1447
+minimax node number =  1711 hit number = 1450
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | W W W W W W W W | 8
+7 | B W W B B B B W | 7
+6 | W W W B B W W W | 6
+5 | W W W W B W B B | 5
+4 | W W W W W B B B | 4
+3 | W W W B B B B B | 3
+2 | B B B W W B B B | 2
+1 | W B W W W W W W | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 25 / 30.0
+White: 39 / 30.0
+
+- student_c20 (white) wins the game! (39-25)
+student_c20 (black) vs. random1 (white)
+
+minimax node number =  16 hit number = 12
+minimax node number =  36 hit number = 28
+minimax node number =  81 hit number = 64
+minimax node number =  105 hit number = 82
+minimax node number =  161 hit number = 130
+minimax node number =  238 hit number = 200
+minimax node number =  336 hit number = 291
+minimax node number =  448 hit number = 396
+minimax node number =  608 hit number = 546
+minimax node number =  720 hit number = 651
+minimax node number =  860 hit number = 781
+minimax node number =  1070 hit number = 977
+minimax node number =  1257 hit number = 1147
+minimax node number =  1417 hit number = 1291
+minimax node number =  1615 hit number = 1471
+minimax node number =  1719 hit number = 1562
+minimax node number =  1840 hit number = 1672
+minimax node number =  1983 hit number = 1804
+minimax node number =  2082 hit number = 1894
+minimax node number =  2192 hit number = 1993
+minimax node number =  2324 hit number = 2114
+minimax node number =  2444 hit number = 2222
+minimax node number =  2528 hit number = 2294
+minimax node number =  2588 hit number = 2344
+minimax node number =  2600 hit number = 2344
+minimax node number =  2610 hit number = 2353
+minimax node number =  2631 hit number = 2367
+minimax node number =  2646 hit number = 2377
+minimax node number =  2655 hit number = 2383
+minimax node number =  2657 hit number = 2383
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | B B B B B B B B | 8
+7 | W W W W W B B B | 7
+6 | W W B W B B W B | 6
+5 | W B W W W W W W | 5
+4 | W W W W B W W B | 4
+3 | W W B W B W B B | 3
+2 | W W W W W W W B | 2
+1 | B B B B B W W B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 29 / 29.8
+White: 35 / 30.0
+
+- random1 (white) wins the game! (35-29)
+random1 (black) vs. student_c20 (white)
+
+minimax node number =  9 hit number = 6
+minimax node number =  21 hit number = 16
+minimax node number =  66 hit number = 56
+minimax node number =  122 hit number = 104
+minimax node number =  176 hit number = 149
+minimax node number =  239 hit number = 203
+minimax node number =  383 hit number = 331
+minimax node number =  527 hit number = 459
+minimax node number =  647 hit number = 564
+minimax node number =  737 hit number = 639
+minimax node number =  869 hit number = 759
+minimax node number =  1023 hit number = 899
+minimax node number =  1275 hit number = 1133
+minimax node number =  1499 hit number = 1341
+minimax node number =  1686 hit number = 1511
+minimax node number =  1816 hit number = 1628
+minimax node number =  1924 hit number = 1724
+minimax node number =  2012 hit number = 1801
+minimax node number =  2082 hit number = 1861
+minimax node number =  2148 hit number = 1921
+minimax node number =  2218 hit number = 1984
+minimax node number =  2288 hit number = 2047
+minimax node number =  2338 hit number = 2092
+minimax node number =  2374 hit number = 2122
+minimax node number =  2416 hit number = 2158
+minimax node number =  2440 hit number = 2176
+minimax node number =  2460 hit number = 2191
+minimax node number =  2466 hit number = 2195
+minimax node number =  2469 hit number = 2195
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | W W W W W W W W | 8
+7 | W B B B B B B W | 7
+6 | W W W B W B W W | 6
+5 | W W B W B W W W | 5
+4 | W W W B W B W W | 4
+3 | W W B W W W B W | 3
+2 | W W W B B B B W | 2
+1 | W W W W W W W W | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 18 / 30.0
+White: 46 / 29.7
+
+- student_c20 (white) wins the game! (46-18)
+student_c20 (black) vs. random1 (white)
+
+minimax node number =  16 hit number = 12
+minimax node number =  41 hit number = 32
+minimax node number =  66 hit number = 52
+minimax node number =  108 hit number = 88
+minimax node number =  153 hit number = 128
+minimax node number =  223 hit number = 191
+minimax node number =  343 hit number = 301
+minimax node number =  415 hit number = 365
+minimax node number =  455 hit number = 400
+minimax node number =  532 hit number = 470
+minimax node number =  675 hit number = 602
+minimax node number =  867 hit number = 782
+minimax node number =  1047 hit number = 950
+minimax node number =  1190 hit number = 1080
+minimax node number =  1311 hit number = 1190
+minimax node number =  1493 hit number = 1359
+minimax node number =  1688 hit number = 1539
+minimax node number =  1832 hit number = 1671
+minimax node number =  1975 hit number = 1801
+minimax node number =  2107 hit number = 1922
+minimax node number =  2206 hit number = 2012
+minimax node number =  2272 hit number = 2072
+minimax node number =  2326 hit number = 2120
+minimax node number =  2358 hit number = 2148
+minimax node number =  2379 hit number = 2166
+minimax node number =  2414 hit number = 2196
+minimax node number =  2444 hit number = 2221
+minimax node number =  2456 hit number = 2229
+minimax node number =  2460 hit number = 2229
+minimax node number =  2462 hit number = 2230
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | B W B B B B B B | 8
+7 | B W B B B B B B | 7
+6 | B W B W B B B B | 6
+5 | B W B B W B W B | 5
+4 | B B B W B B W B | 4
+3 | B B W B B W W B | 3
+2 | B B B B B B W B | 2
+1 | B B B B B B B B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 51 / 29.9
+White: 13 / 30.0
+
+- student_c20 (black) wins the game! (51-13)
+random1 (black) vs. student_c20 (white)
+
+minimax node number =  9 hit number = 6
+minimax node number =  18 hit number = 12
+minimax node number =  58 hit number = 44
+minimax node number =  98 hit number = 76
+minimax node number =  152 hit number = 121
+minimax node number =  192 hit number = 151
+minimax node number =  240 hit number = 187
+minimax node number =  315 hit number = 247
+minimax node number =  423 hit number = 343
+minimax node number =  563 hit number = 469
+minimax node number =  640 hit number = 535
+minimax node number =  745 hit number = 625
+minimax node number =  836 hit number = 703
+minimax node number =  962 hit number = 815
+minimax node number =  1106 hit number = 947
+minimax node number =  1262 hit number = 1090
+minimax node number =  1406 hit number = 1216
+minimax node number =  1559 hit number = 1352
+minimax node number =  1691 hit number = 1472
+minimax node number =  1787 hit number = 1556
+minimax node number =  1907 hit number = 1664
+minimax node number =  1977 hit number = 1724
+minimax node number =  2049 hit number = 1787
+minimax node number =  2084 hit number = 1817
+minimax node number =  2099 hit number = 1829
+minimax node number =  2124 hit number = 1849
+minimax node number =  2154 hit number = 1873
+minimax node number =  2169 hit number = 1883
+minimax node number =  2175 hit number = 1886
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | W W W W W W W W | 8
+7 | B W B B B W W W | 7
+6 | B B W W B W W W | 6
+5 | B B B W B B W W | 5
+4 | B B B W W B W W | 4
+3 | B B B B B W W W | 3
+2 | B B B W W W W W | 2
+1 | B B W W W W W W | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 26 / 30.0
+White: 38 / 29.7
+
+- student_c20 (white) wins the game! (38-26)
+student_c20 (black) vs. random1 (white)
+
+minimax node number =  16 hit number = 12
+minimax node number =  41 hit number = 32
+minimax node number =  89 hit number = 74
+minimax node number =  153 hit number = 130
+minimax node number =  243 hit number = 211
+minimax node number =  375 hit number = 331
+minimax node number =  475 hit number = 421
+minimax node number =  566 hit number = 499
+minimax node number =  734 hit number = 653
+minimax node number =  866 hit number = 773
+minimax node number =  970 hit number = 869
+minimax node number =  1068 hit number = 960
+minimax node number =  1124 hit number = 1012
+minimax node number =  1222 hit number = 1103
+minimax node number =  1330 hit number = 1202
+minimax node number =  1369 hit number = 1238
+minimax node number =  1429 hit number = 1293
+minimax node number =  1462 hit number = 1323
+minimax node number =  1478 hit number = 1337
+minimax node number =  1502 hit number = 1357
+minimax node number =  1534 hit number = 1385
+minimax node number =  1549 hit number = 1395
+minimax node number =  1557 hit number = 1399
+minimax node number =  1561 hit number = 1401
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | B W W W W W W B | 8
+7 | B W W W W W W B | 7
+6 | B B B B W B W B | 6
+5 | B B W W B B W B | 5
+4 | B B B B B B W B | 4
+3 | B B B B W B W B | 3
+2 | B W B B B B W B | 2
+1 | B W B B B B W B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 40 / 30.0
+White: 24 / 30.0
+
+- student_c20 (black) wins the game! (40-24)
+random1 (black) vs. student_c20 (white)
+
+minimax node number =  9 hit number = 6
+minimax node number =  33 hit number = 24
+minimax node number =  63 hit number = 48
+minimax node number =  105 hit number = 83
+minimax node number =  168 hit number = 137
+minimax node number =  228 hit number = 187
+minimax node number =  252 hit number = 205
+minimax node number =  300 hit number = 245
+minimax node number =  380 hit number = 315
+minimax node number =  488 hit number = 414
+minimax node number =  614 hit number = 531
+minimax node number =  742 hit number = 651
+minimax node number =  802 hit number = 707
+minimax node number =  872 hit number = 770
+minimax node number =  1028 hit number = 914
+minimax node number =  1210 hit number = 1082
+minimax node number =  1392 hit number = 1250
+minimax node number =  1522 hit number = 1370
+minimax node number =  1654 hit number = 1490
+minimax node number =  1774 hit number = 1598
+minimax node number =  1834 hit number = 1648
+minimax node number =  1897 hit number = 1702
+minimax node number =  1961 hit number = 1758
+minimax node number =  2009 hit number = 1800
+minimax node number =  2033 hit number = 1820
+minimax node number =  2063 hit number = 1845
+minimax node number =  2075 hit number = 1854
+minimax node number =  2078 hit number = 1854
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | W B B B B B B W | 8
+7 | W W W W W W W W | 7
+6 | W B B B B W W W | 6
+5 | W B B B W W W W | 5
+4 | W B W B W W W W | 4
+3 | W B B W B W W B | 3
+2 | W B B B B B B B | 2
+1 | W W W B B B B W | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 30 / 30.0
+White: 34 / 29.8
+
+- student_c20 (white) wins the game! (34-30)
+student_c20 (black) vs. random1 (white)
+
+minimax node number =  16 hit number = 12
+minimax node number =  36 hit number = 27
+minimax node number =  60 hit number = 47
+minimax node number =  96 hit number = 77
+minimax node number =  168 hit number = 137
+minimax node number =  240 hit number = 200
+minimax node number =  408 hit number = 354
+minimax node number =  528 hit number = 459
+minimax node number =  632 hit number = 550
+minimax node number =  723 hit number = 628
+minimax node number =  814 hit number = 706
+minimax node number =  904 hit number = 786
+minimax node number =  995 hit number = 864
+minimax node number =  1083 hit number = 941
+minimax node number =  1173 hit number = 1021
+minimax node number =  1233 hit number = 1075
+minimax node number =  1323 hit number = 1155
+minimax node number =  1455 hit number = 1275
+minimax node number =  1539 hit number = 1345
+minimax node number =  1616 hit number = 1411
+minimax node number =  1696 hit number = 1481
+minimax node number =  1776 hit number = 1551
+minimax node number =  1857 hit number = 1623
+minimax node number =  1917 hit number = 1677
+minimax node number =  1957 hit number = 1709
+minimax node number =  1993 hit number = 1739
+minimax node number =  2009 hit number = 1747
+minimax node number =  2039 hit number = 1771
+minimax node number =  2051 hit number = 1779
+minimax node number =  2053 hit number = 1779
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | B W B B B B B B | 8
+7 | B B B B B B B B | 7
+6 | B W B B B B B B | 6
+5 | B W B B W B W B | 5
+4 | B W B B B W B B | 4
+3 | B W B B B B B B | 3
+2 | B W W W W B B B | 2
+1 | B W W W W B B B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 48 / 30.0
+White: 16 / 30.0
+
+- student_c20 (black) wins the game! (48-16)
+random1 (black) vs. student_c20 (white)
+
+minimax node number =  9 hit number = 6
+minimax node number =  39 hit number = 30
+minimax node number =  79 hit number = 62
+minimax node number =  127 hit number = 102
+minimax node number =  226 hit number = 192
+minimax node number =  296 hit number = 252
+minimax node number =  384 hit number = 329
+minimax node number =  444 hit number = 379
+minimax node number =  510 hit number = 434
+minimax node number =  654 hit number = 562
+minimax node number =  752 hit number = 646
+minimax node number =  884 hit number = 766
+minimax node number =  1052 hit number = 920
+minimax node number =  1247 hit number = 1100
+minimax node number =  1487 hit number = 1324
+minimax node number =  1652 hit number = 1478
+minimax node number =  1808 hit number = 1622
+minimax node number =  1951 hit number = 1752
+minimax node number =  2061 hit number = 1851
+minimax node number =  2201 hit number = 1977
+minimax node number =  2333 hit number = 2097
+minimax node number =  2454 hit number = 2207
+minimax node number =  2575 hit number = 2317
+minimax node number =  2655 hit number = 2387
+minimax node number =  2680 hit number = 2407
+minimax node number =  2710 hit number = 2431
+minimax node number =  2730 hit number = 2446
+minimax node number =  2742 hit number = 2454
+minimax node number =  2748 hit number = 2457
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | W W W W W W W W | 8
+7 | B W W B W B B W | 7
+6 | W W B W W W B W | 6
+5 | W W W B W B W W | 5
+4 | W W W B W W W W | 4
+3 | W W B W W W W W | 3
+2 | W W B W W W W W | 2
+1 | W W W W W W W W | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 11 / 30.0
+White: 53 / 29.8
+
+- student_c20 (white) wins the game! (53-11)
+student_c20 (black) vs. random1 (white)
+
+minimax node number =  16 hit number = 12
+minimax node number =  41 hit number = 32
+minimax node number =  66 hit number = 52
+minimax node number =  108 hit number = 88
+minimax node number =  162 hit number = 136
+minimax node number =  261 hit number = 226
+minimax node number =  404 hit number = 358
+minimax node number =  514 hit number = 457
+minimax node number =  594 hit number = 527
+minimax node number =  704 hit number = 627
+minimax node number =  784 hit number = 697
+minimax node number =  940 hit number = 841
+minimax node number =  1060 hit number = 951
+minimax node number =  1214 hit number = 1091
+minimax node number =  1331 hit number = 1199
+minimax node number =  1474 hit number = 1331
+minimax node number =  1595 hit number = 1441
+minimax node number =  1739 hit number = 1573
+minimax node number =  1827 hit number = 1653
+minimax node number =  1899 hit number = 1719
+minimax node number =  1935 hit number = 1752
+minimax node number =  1975 hit number = 1788
+minimax node number =  1997 hit number = 1808
+minimax node number =  2027 hit number = 1835
+minimax node number =  2048 hit number = 1853
+minimax node number =  2084 hit number = 1883
+minimax node number =  2109 hit number = 1903
+minimax node number =  2129 hit number = 1918
+minimax node number =  2138 hit number = 1924
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | B B B B B B W B | 8
+7 | B B B B B W W B | 7
+6 | B B W W W W W B | 6
+5 | B W B W B B W B | 5
+4 | B W W B B B W B | 4
+3 | B B W B B W W B | 3
+2 | B B B W W W W B | 2
+1 | B B B W W W W B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 39 / 30.0
+White: 25 / 30.0
+
+- student_c20 (black) wins the game! (39-25)
+random1 (black) vs. student_c20 (white)
+
+minimax node number =  9 hit number = 6
+minimax node number =  33 hit number = 24
+minimax node number =  63 hit number = 48
+minimax node number =  93 hit number = 72
+minimax node number =  165 hit number = 136
+minimax node number =  243 hit number = 201
+minimax node number =  303 hit number = 251
+minimax node number =  391 hit number = 328
+minimax node number =  534 hit number = 460
+minimax node number =  677 hit number = 592
+minimax node number =  833 hit number = 735
+minimax node number =  1029 hit number = 917
+minimax node number =  1221 hit number = 1093
+minimax node number =  1429 hit number = 1285
+minimax node number =  1573 hit number = 1413
+minimax node number =  1727 hit number = 1553
+minimax node number =  1892 hit number = 1703
+minimax node number =  2028 hit number = 1822
+minimax node number =  2154 hit number = 1934
+minimax node number =  2271 hit number = 2038
+minimax node number =  2359 hit number = 2115
+minimax node number =  2431 hit number = 2178
+minimax node number =  2501 hit number = 2241
+minimax node number =  2541 hit number = 2276
+minimax node number =  2571 hit number = 2301
+minimax node number =  2591 hit number = 2317
+minimax node number =  2609 hit number = 2329
+minimax node number =  2621 hit number = 2337
+minimax node number =  2624 hit number = 2337
+minimax node number =  2626 hit number = 2339
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | W B B B B B B W | 8
+7 | W W B W W W W W | 7
+6 | W W W W B W W W | 6
+5 | W W W B W W B W | 5
+4 | W W B W W B W W | 4
+3 | W W W W W W W W | 3
+2 | B W W B B B W W | 2
+1 | W W W W W W W W | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 16 / 30.0
+White: 48 / 29.6
+
+- student_c20 (white) wins the game! (48-16)
+student_c20 (black) vs. random1 (white)
+
+minimax node number =  16 hit number = 12
+minimax node number =  41 hit number = 32
+minimax node number =  89 hit number = 74
+minimax node number =  149 hit number = 124
+minimax node number =  212 hit number = 180
+minimax node number =  268 hit number = 228
+minimax node number =  340 hit number = 291
+minimax node number =  412 hit number = 355
+minimax node number =  484 hit number = 419
+minimax node number =  604 hit number = 527
+minimax node number =  724 hit number = 637
+minimax node number =  845 hit number = 747
+minimax node number =  1025 hit number = 915
+minimax node number =  1229 hit number = 1107
+minimax node number =  1421 hit number = 1287
+minimax node number =  1564 hit number = 1419
+minimax node number =  1694 hit number = 1539
+minimax node number =  1886 hit number = 1719
+minimax node number =  2012 hit number = 1836
+minimax node number =  2116 hit number = 1932
+minimax node number =  2216 hit number = 2022
+minimax node number =  2306 hit number = 2102
+minimax node number =  2390 hit number = 2174
+minimax node number =  2440 hit number = 2214
+minimax node number =  2480 hit number = 2244
+minimax node number =  2520 hit number = 2276
+minimax node number =  2550 hit number = 2300
+minimax node number =  2565 hit number = 2310
+minimax node number =  2568 hit number = 2310
+minimax node number =  2570 hit number = 2310
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | W W W W W W B W | 8
+7 | B W W W W W W W | 7
+6 | B B W B B B W W | 6
+5 | B B B W W W B W | 5
+4 | B B B W W W B W | 4
+3 | B W B B B B W W | 3
+2 | B W W W B W W W | 2
+1 | B B B B B B B B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 30 / 30.0
+White: 34 / 30.0
+
+- random1 (white) wins the game! (34-30)
+random1 (black) vs. student_c20 (white)
+
+minimax node number =  9 hit number = 6
+minimax node number =  27 hit number = 21
+minimax node number =  63 hit number = 51
+minimax node number =  95 hit number = 79
+minimax node number =  137 hit number = 114
+minimax node number =  197 hit number = 168
+minimax node number =  252 hit number = 218
+minimax node number =  292 hit number = 253
+minimax node number =  340 hit number = 295
+minimax node number =  410 hit number = 358
+minimax node number =  460 hit number = 403
+minimax node number =  523 hit number = 457
+minimax node number =  603 hit number = 529
+minimax node number =  759 hit number = 672
+minimax node number =  915 hit number = 815
+minimax node number =  1071 hit number = 958
+minimax node number =  1214 hit number = 1088
+minimax node number =  1364 hit number = 1223
+minimax node number =  1441 hit number = 1293
+minimax node number =  1513 hit number = 1357
+minimax node number =  1568 hit number = 1407
+minimax node number =  1645 hit number = 1477
+minimax node number =  1722 hit number = 1547
+minimax node number =  1794 hit number = 1611
+minimax node number =  1843 hit number = 1653
+minimax node number =  1883 hit number = 1688
+minimax node number =  1908 hit number = 1708
+minimax node number =  1920 hit number = 1717
+minimax node number =  1924 hit number = 1719
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | W B B B B B B W | 8
+7 | B B B B B B B W | 7
+6 | W B W B B W B W | 6
+5 | W W B W B B B W | 5
+4 | W W W B B W B W | 4
+3 | W W W W B B W W | 3
+2 | W W W W W W W W | 2
+1 | W W W W W W W W | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 26 / 30.0
+White: 38 / 29.8
+
+- student_c20 (white) wins the game! (38-26)
+student_c20 (black) vs. random1 (white)
+
+minimax node number =  16 hit number = 12
+minimax node number =  41 hit number = 32
+minimax node number =  76 hit number = 62
+minimax node number =  166 hit number = 143
+minimax node number =  220 hit number = 191
+minimax node number =  260 hit number = 223
+minimax node number =  332 hit number = 287
+minimax node number =  431 hit number = 375
+minimax node number =  519 hit number = 455
+minimax node number =  711 hit number = 635
+minimax node number =  907 hit number = 817
+minimax node number =  1011 hit number = 913
+minimax node number =  1131 hit number = 1025
+minimax node number =  1203 hit number = 1091
+minimax node number =  1307 hit number = 1182
+minimax node number =  1427 hit number = 1287
+minimax node number =  1553 hit number = 1399
+minimax node number =  1721 hit number = 1553
+minimax node number =  1865 hit number = 1685
+minimax node number =  2033 hit number = 1839
+minimax node number =  2163 hit number = 1959
+minimax node number =  2280 hit number = 2067
+minimax node number =  2380 hit number = 2157
+minimax node number =  2452 hit number = 2220
+minimax node number =  2522 hit number = 2280
+minimax node number =  2562 hit number = 2312
+minimax node number =  2576 hit number = 2319
+minimax node number =  2591 hit number = 2329
+minimax node number =  2595 hit number = 2329
+minimax node number =  2597 hit number = 2330
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | B B B B B B B B | 8
+7 | B B B B W B W B | 7
+6 | B W B W B B W B | 6
+5 | B W W B B B W B | 5
+4 | B W B W B B W B | 4
+3 | B W B B W B W B | 3
+2 | B W W B B W W B | 2
+1 | B W W W W W W B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 40 / 29.8
+White: 24 / 30.0
+
+- student_c20 (black) wins the game! (40-24)
+random1 (black) vs. student_c20 (white)
+
+minimax node number =  9 hit number = 6
+minimax node number =  25 hit number = 18
+minimax node number =  60 hit number = 48
+minimax node number =  102 hit number = 83
+minimax node number =  182 hit number = 155
+minimax node number =  230 hit number = 195
+minimax node number =  245 hit number = 205
+minimax node number =  261 hit number = 217
+minimax node number =  296 hit number = 247
+minimax node number =  331 hit number = 277
+minimax node number =  346 hit number = 289
+minimax node number =  358 hit number = 299
+minimax node number =  424 hit number = 359
+minimax node number =  484 hit number = 413
+minimax node number =  592 hit number = 512
+minimax node number =  640 hit number = 554
+minimax node number =  731 hit number = 638
+minimax node number =  819 hit number = 718
+minimax node number =  918 hit number = 806
+minimax node number =  1048 hit number = 923
+minimax node number =  1136 hit number = 1003
+minimax node number =  1266 hit number = 1120
+minimax node number =  1336 hit number = 1180
+minimax node number =  1385 hit number = 1222
+minimax node number =  1401 hit number = 1234
+minimax node number =  1429 hit number = 1255
+minimax node number =  1453 hit number = 1275
+minimax node number =  1465 hit number = 1283
+minimax node number =  1468 hit number = 1283
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | W W W W W W W W | 8
+7 | W W B B B W W B | 7
+6 | W W W W W B W B | 6
+5 | W W W W W B W W | 5
+4 | W W B W W B W B | 4
+3 | W B W B W W B B | 3
+2 | B B B W W B B B | 2
+1 | W B B B B B B B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 27 / 30.0
+White: 37 / 29.8
+
+- student_c20 (white) wins the game! (37-27)
+student_c20 (black) vs. random1 (white)
+
+minimax node number =  16 hit number = 12
+minimax node number =  36 hit number = 27
+minimax node number =  61 hit number = 47
+minimax node number =  115 hit number = 92
+minimax node number =  178 hit number = 146
+minimax node number =  268 hit number = 227
+minimax node number =  376 hit number = 323
+minimax node number =  520 hit number = 455
+minimax node number =  610 hit number = 535
+minimax node number =  682 hit number = 599
+minimax node number =  790 hit number = 695
+minimax node number =  888 hit number = 779
+minimax node number =  1000 hit number = 877
+minimax node number =  1168 hit number = 1031
+minimax node number =  1312 hit number = 1163
+minimax node number =  1442 hit number = 1283
+minimax node number =  1562 hit number = 1391
+minimax node number =  1634 hit number = 1454
+minimax node number =  1734 hit number = 1544
+minimax node number =  1822 hit number = 1624
+minimax node number =  1939 hit number = 1732
+minimax node number =  2009 hit number = 1795
+minimax node number =  2054 hit number = 1835
+minimax node number =  2098 hit number = 1875
+minimax node number =  2148 hit number = 1920
+minimax node number =  2183 hit number = 1950
+minimax node number =  2201 hit number = 1965
+minimax node number =  2213 hit number = 1974
+minimax node number =  2215 hit number = 1974
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | B B B B B B B B | 8
+7 | W W W B W B B W | 7
+6 | W W W W B B W B | 6
+5 | W W W W W W B B | 5
+4 | W W B B W B B B | 4
+3 | W W W W W B B B | 3
+2 | W W W W B B B B | 2
+1 | W W B B B B B B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 34 / 30.0
+White: 30 / 30.0
+
+- student_c20 (black) wins the game! (34-30)
+random1 (black) vs. student_c20 (white)
+
+minimax node number =  9 hit number = 6
+minimax node number =  25 hit number = 18
+minimax node number =  60 hit number = 48
+minimax node number =  126 hit number = 108
+minimax node number =  186 hit number = 162
+minimax node number =  330 hit number = 294
+minimax node number =  462 hit number = 415
+minimax node number =  542 hit number = 487
+minimax node number =  597 hit number = 537
+minimax node number =  701 hit number = 633
+minimax node number =  841 hit number = 763
+minimax node number =  937 hit number = 851
+minimax node number =  1027 hit number = 932
+minimax node number =  1139 hit number = 1036
+minimax node number =  1235 hit number = 1124
+minimax node number =  1391 hit number = 1268
+minimax node number =  1559 hit number = 1424
+minimax node number =  1724 hit number = 1574
+minimax node number =  1834 hit number = 1674
+minimax node number =  1944 hit number = 1774
+minimax node number =  2040 hit number = 1862
+minimax node number =  2112 hit number = 1925
+minimax node number =  2202 hit number = 2005
+minimax node number =  2258 hit number = 2053
+minimax node number =  2314 hit number = 2102
+minimax node number =  2363 hit number = 2144
+minimax node number =  2391 hit number = 2165
+minimax node number =  2399 hit number = 2169
+minimax node number =  2403 hit number = 2171
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | W W W W W W W W | 8
+7 | B B W B W W W B | 7
+6 | W B B W W W W W | 6
+5 | W W B W W B W W | 5
+4 | W W W B B W W W | 4
+3 | W W W B B W B W | 3
+2 | W W W W W B B W | 2
+1 | W B B B B B B W | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 21 / 30.0
+White: 43 / 29.9
+
+- student_c20 (white) wins the game! (43-21)
+student_c20 (black) vs. random1 (white)
+
+minimax node number =  16 hit number = 12
+minimax node number =  41 hit number = 32
+minimax node number =  89 hit number = 74
+minimax node number =  169 hit number = 146
+minimax node number =  239 hit number = 206
+minimax node number =  309 hit number = 266
+minimax node number =  409 hit number = 356
+minimax node number =  559 hit number = 496
+minimax node number =  739 hit number = 664
+minimax node number =  849 hit number = 764
+minimax node number =  957 hit number = 860
+minimax node number =  1067 hit number = 959
+minimax node number =  1147 hit number = 1029
+minimax node number =  1255 hit number = 1125
+minimax node number =  1365 hit number = 1225
+minimax node number =  1519 hit number = 1368
+minimax node number =  1651 hit number = 1489
+minimax node number =  1833 hit number = 1658
+minimax node number =  1976 hit number = 1790
+minimax node number =  2031 hit number = 1840
+minimax node number =  2095 hit number = 1900
+minimax node number =  2173 hit number = 1972
+minimax node number =  2269 hit number = 2060
+minimax node number =  2368 hit number = 2150
+minimax node number =  2440 hit number = 2214
+minimax node number =  2488 hit number = 2256
+minimax node number =  2524 hit number = 2286
+minimax node number =  2540 hit number = 2298
+minimax node number =  2552 hit number = 2306
+minimax node number =  2554 hit number = 2306
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | B W W W W W W B | 8
+7 | B W W W W W W W | 7
+6 | B W B W W B B B | 6
+5 | B W B W W B B B | 5
+4 | B B B B B B B B | 4
+3 | B B B W B B B B | 3
+2 | B B B W W B B B | 2
+1 | B B B B B B B B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 42 / 29.9
+White: 22 / 30.0
+
+- student_c20 (black) wins the game! (42-22)
+random1 (black) vs. student_c20 (white)
+
+minimax node number =  9 hit number = 6
+minimax node number =  41 hit number = 34
+minimax node number =  77 hit number = 64
+minimax node number =  165 hit number = 144
+minimax node number =  253 hit number = 221
+minimax node number =  316 hit number = 275
+minimax node number =  393 hit number = 341
+minimax node number =  483 hit number = 421
+minimax node number =  583 hit number = 511
+minimax node number =  727 hit number = 643
+minimax node number =  922 hit number = 825
+minimax node number =  1098 hit number = 990
+minimax node number =  1242 hit number = 1126
+minimax node number =  1362 hit number = 1238
+minimax node number =  1490 hit number = 1358
+minimax node number =  1616 hit number = 1475
+minimax node number =  1756 hit number = 1601
+minimax node number =  1866 hit number = 1701
+minimax node number =  1986 hit number = 1809
+minimax node number =  2076 hit number = 1890
+minimax node number =  2193 hit number = 1994
+minimax node number =  2247 hit number = 2042
+minimax node number =  2289 hit number = 2077
+minimax node number =  2313 hit number = 2098
+minimax node number =  2334 hit number = 2116
+minimax node number =  2343 hit number = 2122
+minimax node number =  2355 hit number = 2131
+minimax node number =  2359 hit number = 2133
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | W W W W W W W W | 8
+7 | W W W W B B W W | 7
+6 | W W W W W B W W | 6
+5 | W B W B B B B W | 5
+4 | W W W W B W B W | 4
+3 | W W W B W B B W | 3
+2 | W W W W W W B W | 2
+1 | W B W W W W W W | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 15 / 30.0
+White: 49 / 30.0
+
+- student_c20 (white) wins the game! (49-15)
+student_c20 (black) vs. random1 (white)
+
+minimax node number =  16 hit number = 12
+minimax node number =  41 hit number = 32
+minimax node number =  76 hit number = 62
+minimax node number =  121 hit number = 102
+minimax node number =  171 hit number = 147
+minimax node number =  241 hit number = 210
+minimax node number =  371 hit number = 330
+minimax node number =  483 hit number = 434
+minimax node number =  525 hit number = 470
+minimax node number =  629 hit number = 566
+minimax node number =  741 hit number = 670
+minimax node number =  829 hit number = 750
+minimax node number =  983 hit number = 890
+minimax node number =  1082 hit number = 980
+minimax node number =  1192 hit number = 1080
+minimax node number =  1292 hit number = 1170
+minimax node number =  1358 hit number = 1230
+minimax node number =  1413 hit number = 1280
+minimax node number =  1433 hit number = 1296
+minimax node number =  1469 hit number = 1328
+minimax node number =  1524 hit number = 1378
+minimax node number =  1564 hit number = 1414
+minimax node number =  1592 hit number = 1438
+minimax node number =  1628 hit number = 1468
+minimax node number =  1640 hit number = 1477
+minimax node number =  1664 hit number = 1498
+minimax node number =  1688 hit number = 1518
+minimax node number =  1708 hit number = 1534
+minimax node number =  1720 hit number = 1542
+minimax node number =  1722 hit number = 1542
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | B W B B B B B B | 8
+7 | W W B W W B B B | 7
+6 | W B B B B B B B | 6
+5 | B W B B B W W B | 5
+4 | B B W B W B B B | 4
+3 | B B B W W B B B | 3
+2 | B B W W B B B B | 2
+1 | B W W W W W W B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 43 / 30.0
+White: 21 / 30.0
+
+- student_c20 (black) wins the game! (43-21)
+random1 (black) vs. student_c20 (white)
+
+minimax node number =  9 hit number = 6
+minimax node number =  37 hit number = 30
+minimax node number =  53 hit number = 42
+minimax node number =  101 hit number = 84
+minimax node number =  189 hit number = 164
+minimax node number =  249 hit number = 219
+minimax node number =  312 hit number = 275
+minimax node number =  387 hit number = 345
+minimax node number =  467 hit number = 420
+minimax node number =  532 hit number = 480
+minimax node number =  684 hit number = 624
+minimax node number =  874 hit number = 804
+minimax node number =  1078 hit number = 996
+minimax node number =  1260 hit number = 1165
+minimax node number =  1414 hit number = 1305
+minimax node number =  1568 hit number = 1448
+minimax node number =  1688 hit number = 1556
+minimax node number =  1787 hit number = 1644
+minimax node number =  1897 hit number = 1743
+minimax node number =  1977 hit number = 1815
+minimax node number =  2057 hit number = 1885
+minimax node number =  2147 hit number = 1965
+minimax node number =  2203 hit number = 2014
+minimax node number =  2243 hit number = 2049
+minimax node number =  2283 hit number = 2081
+minimax node number =  2325 hit number = 2117
+minimax node number =  2349 hit number = 2135
+minimax node number =  2359 hit number = 2140
+minimax node number =  2365 hit number = 2143
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | W W W W W W W W | 8
+7 | W W W W B B B B | 7
+6 | W B W B W W B W | 6
+5 | W B W B B W W W | 5
+4 | W W W B W W W W | 4
+3 | W B W W W W W W | 3
+2 | B B B B B B W W | 2
+1 | W W W W W W W W | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 18 / 30.0
+White: 46 / 30.0
+
+- student_c20 (white) wins the game! (46-18)
+student_c20 (black) vs. random1 (white)
+
+minimax node number =  16 hit number = 12
+minimax node number =  41 hit number = 32
+minimax node number =  66 hit number = 52
+minimax node number =  138 hit number = 115
+minimax node number =  210 hit number = 178
+minimax node number =  275 hit number = 238
+minimax node number =  353 hit number = 310
+minimax node number =  496 hit number = 440
+minimax node number =  688 hit number = 616
+minimax node number =  858 hit number = 769
+minimax node number =  991 hit number = 883
+minimax node number =  1126 hit number = 1003
+minimax node number =  1364 hit number = 1224
+minimax node number =  1499 hit number = 1344
+minimax node number =  1642 hit number = 1474
+minimax node number =  1750 hit number = 1570
+minimax node number =  1860 hit number = 1670
+minimax node number =  2020 hit number = 1814
+minimax node number =  2164 hit number = 1946
+minimax node number =  2272 hit number = 2042
+minimax node number =  2362 hit number = 2122
+minimax node number =  2450 hit number = 2199
+minimax node number =  2500 hit number = 2239
+minimax node number =  2572 hit number = 2303
+minimax node number =  2602 hit number = 2327
+minimax node number =  2632 hit number = 2351
+minimax node number =  2660 hit number = 2372
+minimax node number =  2675 hit number = 2382
+minimax node number =  2679 hit number = 2385
+minimax node number =  2681 hit number = 2386
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | B B B B B B B B | 8
+7 | B B B B B B W B | 7
+6 | B B B B B B W B | 6
+5 | B B B B W W B B | 5
+4 | B B B W W B B B | 4
+3 | B B W W W W W B | 3
+2 | B B B B B B B B | 2
+1 | B B B B W W W B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 50 / 29.8
+White: 14 / 30.0
+
+- student_c20 (black) wins the game! (50-14)
+random1 (black) vs. student_c20 (white)
+
+minimax node number =  9 hit number = 6
+minimax node number =  24 hit number = 16
+minimax node number =  48 hit number = 36
+minimax node number =  88 hit number = 71
+minimax node number =  136 hit number = 107
+minimax node number =  202 hit number = 162
+minimax node number =  266 hit number = 218
+minimax node number =  362 hit number = 306
+minimax node number =  494 hit number = 426
+minimax node number =  698 hit number = 618
+minimax node number =  866 hit number = 774
+minimax node number =  1076 hit number = 970
+minimax node number =  1256 hit number = 1138
+minimax node number =  1391 hit number = 1264
+minimax node number =  1523 hit number = 1385
+minimax node number =  1623 hit number = 1475
+minimax node number =  1731 hit number = 1574
+minimax node number =  1831 hit number = 1664
+minimax node number =  1935 hit number = 1755
+minimax node number =  2019 hit number = 1827
+minimax node number =  2091 hit number = 1887
+minimax node number =  2163 hit number = 1947
+minimax node number =  2213 hit number = 1987
+minimax node number =  2235 hit number = 1998
+minimax node number =  2267 hit number = 2022
+minimax node number =  2283 hit number = 2030
+minimax node number =  2301 hit number = 2042
+minimax node number =  2313 hit number = 2050
+minimax node number =  2315 hit number = 2050
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | W W W W W W W W | 8
+7 | W W B B B B B B | 7
+6 | W B W B B W B W | 6
+5 | W W B W B B W W | 5
+4 | W B B W W W W W | 4
+3 | B B B B W W W W | 3
+2 | B B B B B W W W | 2
+1 | W W W W W W W W | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 24 / 30.0
+White: 40 / 30.0
+
+- student_c20 (white) wins the game! (40-24)
+student_c20 (black) vs. random1 (white)
+
+minimax node number =  16 hit number = 12
+minimax node number =  41 hit number = 32
+minimax node number =  66 hit number = 52
+minimax node number =  108 hit number = 88
+minimax node number =  208 hit number = 178
+minimax node number =  232 hit number = 196
+minimax node number =  274 hit number = 232
+minimax node number =  346 hit number = 298
+minimax node number =  442 hit number = 386
+minimax node number =  532 hit number = 467
+minimax node number =  640 hit number = 566
+minimax node number =  822 hit number = 735
+minimax node number =  990 hit number = 891
+minimax node number =  1200 hit number = 1087
+minimax node number =  1280 hit number = 1157
+minimax node number =  1376 hit number = 1245
+minimax node number =  1516 hit number = 1375
+minimax node number =  1646 hit number = 1495
+minimax node number =  1790 hit number = 1630
+minimax node number =  1874 hit number = 1707
+minimax node number =  1962 hit number = 1787
+minimax node number =  2052 hit number = 1868
+minimax node number =  2112 hit number = 1922
+minimax node number =  2136 hit number = 1943
+minimax node number =  2160 hit number = 1964
+minimax node number =  2184 hit number = 1985
+minimax node number =  2214 hit number = 2010
+minimax node number =  2234 hit number = 2026
+minimax node number =  2240 hit number = 2030
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | B W W W W B B B | 8
+7 | B B B B W W W B | 7
+6 | B B B W W W W B | 6
+5 | B B W B W W W B | 5
+4 | B B W W W B W B | 4
+3 | B B W W B W B B | 3
+2 | B B B B B B B B | 2
+1 | B B B W W W W B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 38 / 29.3
+White: 26 / 30.0
+
+- student_c20 (black) wins the game! (38-26)
+random1 (black) vs. student_c20 (white)
+
+minimax node number =  9 hit number = 6
+minimax node number =  33 hit number = 24
+minimax node number =  61 hit number = 45
+minimax node number =  69 hit number = 45
+minimax node number =  105 hit number = 69
+minimax node number =  149 hit number = 102
+minimax node number =  209 hit number = 152
+minimax node number =  253 hit number = 185
+minimax node number =  323 hit number = 245
+minimax node number =  395 hit number = 309
+minimax node number =  495 hit number = 399
+minimax node number =  583 hit number = 476
+minimax node number =  713 hit number = 593
+minimax node number =  923 hit number = 788
+minimax node number =  1163 hit number = 1013
+minimax node number =  1345 hit number = 1182
+minimax node number =  1489 hit number = 1314
+minimax node number =  1610 hit number = 1424
+minimax node number =  1753 hit number = 1554
+minimax node number =  1865 hit number = 1652
+minimax node number =  1953 hit number = 1729
+minimax node number =  2043 hit number = 1810
+minimax node number =  2147 hit number = 1901
+minimax node number =  2235 hit number = 1978
+minimax node number =  2298 hit number = 2032
+minimax node number =  2340 hit number = 2067
+minimax node number =  2360 hit number = 2082
+minimax node number =  2368 hit number = 2086
+minimax node number =  2372 hit number = 2088
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | W W W B B B B W | 8
+7 | B B B B B B B B | 7
+6 | W W W W W W B B | 6
+5 | W W W W W W W W | 5
+4 | W W B W W W W W | 4
+3 | W W W B W W W W | 3
+2 | W W B W W W B W | 2
+1 | W W W W W W W W | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 18 / 30.0
+White: 46 / 29.4
+
+- student_c20 (white) wins the game! (46-18)
+student_c20 (black) vs. random1 (white)
+
+minimax node number =  16 hit number = 12
+minimax node number =  36 hit number = 27
+minimax node number =  60 hit number = 47
+minimax node number =  110 hit number = 92
+minimax node number =  182 hit number = 156
+minimax node number =  286 hit number = 252
+minimax node number =  358 hit number = 315
+minimax node number =  448 hit number = 396
+minimax node number =  568 hit number = 504
+minimax node number =  645 hit number = 570
+minimax node number =  715 hit number = 630
+minimax node number =  823 hit number = 726
+minimax node number =  933 hit number = 825
+minimax node number =  1045 hit number = 923
+minimax node number =  1165 hit number = 1028
+minimax node number =  1325 hit number = 1172
+minimax node number =  1535 hit number = 1367
+minimax node number =  1717 hit number = 1536
+minimax node number =  1871 hit number = 1679
+minimax node number =  2027 hit number = 1822
+minimax node number =  2135 hit number = 1918
+minimax node number =  2226 hit number = 2002
+minimax node number =  2334 hit number = 2101
+minimax node number =  2415 hit number = 2173
+minimax node number =  2496 hit number = 2245
+minimax node number =  2550 hit number = 2290
+minimax node number =  2578 hit number = 2311
+minimax node number =  2593 hit number = 2321
+minimax node number =  2602 hit number = 2327
+minimax node number =  2606 hit number = 2329
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | B B B B W B B B | 8
+7 | B B B W W W B B | 7
+6 | B W W B W B W B | 6
+5 | B W W B B W B B | 5
+4 | W W B W W B W B | 4
+3 | W W B W W W W W | 3
+2 | W W W W B W W W | 2
+1 | B W W W W W W B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 28 / 29.6
+White: 36 / 30.0
+
+- random1 (white) wins the game! (36-28)
+random1 (black) vs. student_c20 (white)
+
+minimax node number =  9 hit number = 6
+minimax node number =  33 hit number = 24
+minimax node number =  54 hit number = 38
+minimax node number =  86 hit number = 62
+minimax node number =  116 hit number = 86
+minimax node number =  161 hit number = 122
+minimax node number =  209 hit number = 158
+minimax node number =  257 hit number = 194
+minimax node number =  322 hit number = 246
+minimax node number =  367 hit number = 282
+minimax node number =  451 hit number = 354
+minimax node number =  528 hit number = 420
+minimax node number =  612 hit number = 490
+minimax node number =  677 hit number = 542
+minimax node number =  789 hit number = 640
+minimax node number =  906 hit number = 744
+minimax node number =  1034 hit number = 856
+minimax node number =  1125 hit number = 934
+minimax node number =  1223 hit number = 1018
+minimax node number =  1298 hit number = 1078
+minimax node number =  1370 hit number = 1138
+minimax node number =  1440 hit number = 1198
+minimax node number =  1482 hit number = 1233
+minimax node number =  1530 hit number = 1273
+minimax node number =  1554 hit number = 1291
+minimax node number =  1574 hit number = 1306
+minimax node number =  1599 hit number = 1326
+minimax node number =  1615 hit number = 1338
+minimax node number =  1619 hit number = 1340
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | W W W W W W B W | 8
+7 | W W W W B W B B | 7
+6 | W B W B W B B B | 6
+5 | W W W B W B B B | 5
+4 | W W W W W W W B | 4
+3 | W W W B W W B B | 3
+2 | W W B W W B B B | 2
+1 | W B B B B B B W | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 27 / 30.0
+White: 37 / 29.9
+
+- student_c20 (white) wins the game! (37-27)
+student_c20 (black) vs. random1 (white)
+
+minimax node number =  16 hit number = 12
+minimax node number =  36 hit number = 27
+minimax node number =  61 hit number = 47
+minimax node number =  115 hit number = 92
+minimax node number =  159 hit number = 125
+minimax node number =  229 hit number = 185
+minimax node number =  361 hit number = 306
+minimax node number =  471 hit number = 406
+minimax node number =  663 hit number = 582
+minimax node number =  789 hit number = 694
+minimax node number =  910 hit number = 804
+minimax node number =  1020 hit number = 903
+minimax node number =  1132 hit number = 999
+minimax node number =  1297 hit number = 1149
+minimax node number =  1507 hit number = 1344
+minimax node number =  1717 hit number = 1540
+minimax node number =  1885 hit number = 1694
+minimax node number =  2083 hit number = 1874
+minimax node number =  2218 hit number = 1994
+minimax node number =  2338 hit number = 2102
+minimax node number =  2422 hit number = 2179
+minimax node number =  2492 hit number = 2242
+minimax node number =  2573 hit number = 2314
+minimax node number =  2636 hit number = 2368
+minimax node number =  2685 hit number = 2410
+minimax node number =  2720 hit number = 2440
+minimax node number =  2738 hit number = 2455
+minimax node number =  2748 hit number = 2463
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | B B B B B B W B | 8
+7 | B W W W W W W W | 7
+6 | B W W B W B W B | 6
+5 | B W B W B W W B | 5
+4 | B W W W W B W B | 4
+3 | B W B W B W B B | 3
+2 | B B B B B B B B | 2
+1 | B W W W W W W W | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 33 / 29.5
+White: 31 / 30.0
+
+- student_c20 (black) wins the game! (33-31)
+random1 (black) vs. student_c20 (white)
+
+minimax node number =  9 hit number = 6
+minimax node number =  41 hit number = 34
+minimax node number =  66 hit number = 54
+minimax node number =  120 hit number = 102
+minimax node number =  150 hit number = 126
+minimax node number =  258 hit number = 222
+minimax node number =  450 hit number = 398
+minimax node number =  630 hit number = 563
+minimax node number =  795 hit number = 713
+minimax node number =  963 hit number = 867
+minimax node number =  1071 hit number = 963
+minimax node number =  1215 hit number = 1095
+minimax node number =  1383 hit number = 1249
+minimax node number =  1518 hit number = 1369
+minimax node number =  1743 hit number = 1579
+minimax node number =  1887 hit number = 1711
+minimax node number =  2031 hit number = 1843
+minimax node number =  2131 hit number = 1933
+minimax node number =  2285 hit number = 2076
+minimax node number =  2450 hit number = 2230
+minimax node number =  2549 hit number = 2318
+minimax node number =  2649 hit number = 2408
+minimax node number =  2729 hit number = 2478
+minimax node number =  2771 hit number = 2513
+minimax node number =  2813 hit number = 2548
+minimax node number =  2829 hit number = 2560
+minimax node number =  2838 hit number = 2566
+minimax node number =  2847 hit number = 2572
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | W W W W W W W W | 8
+7 | B B W W B W B B | 7
+6 | B B W W W B B W | 6
+5 | B B W W W B B W | 5
+4 | B B W W W W B W | 4
+3 | B B W B W W B W | 3
+2 | B B B B B B W W | 2
+1 | W W W W W W W W | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 26 / 30.0
+White: 38 / 29.9
+
+- student_c20 (white) wins the game! (38-26)
+student_c20 (black) vs. random1 (white)
+
+minimax node number =  16 hit number = 12
+minimax node number =  36 hit number = 28
+minimax node number =  81 hit number = 64
+minimax node number =  121 hit number = 99
+minimax node number =  185 hit number = 155
+minimax node number =  275 hit number = 235
+minimax node number =  396 hit number = 345
+minimax node number =  492 hit number = 429
+minimax node number =  635 hit number = 559
+minimax node number =  779 hit number = 687
+minimax node number =  971 hit number = 863
+minimax node number =  1153 hit number = 1031
+minimax node number =  1297 hit number = 1159
+minimax node number =  1453 hit number = 1303
+minimax node number =  1633 hit number = 1468
+minimax node number =  1804 hit number = 1620
+minimax node number =  1940 hit number = 1739
+minimax node number =  2025 hit number = 1807
+minimax node number =  2151 hit number = 1919
+minimax node number =  2256 hit number = 2009
+minimax node number =  2334 hit number = 2074
+minimax node number =  2433 hit number = 2162
+minimax node number =  2499 hit number = 2217
+minimax node number =  2547 hit number = 2253
+minimax node number =  2577 hit number = 2273
+minimax node number =  2607 hit number = 2293
+minimax node number =  2631 hit number = 2309
+minimax node number =  2643 hit number = 2315
+minimax node number =  2647 hit number = 2318
+minimax node number =  2649 hit number = 2319
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | B B B B B B W B | 8
+7 | B W W W W W W B | 7
+6 | B B B B W B W B | 6
+5 | B W B W W W W B | 5
+4 | B W B B B B W B | 4
+3 | B W W W B W W B | 3
+2 | B W W W W W B B | 2
+1 | B B B W B B B B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 37 / 29.5
+White: 27 / 30.0
+
+- student_c20 (black) wins the game! (37-27)
+random1 (black) vs. student_c20 (white)
+
+minimax node number =  9 hit number = 6
+minimax node number =  18 hit number = 12
+minimax node number =  72 hit number = 60
+minimax node number =  114 hit number = 96
+minimax node number =  202 hit number = 176
+minimax node number =  345 hit number = 308
+minimax node number =  422 hit number = 378
+minimax node number =  476 hit number = 426
+minimax node number =  626 hit number = 566
+minimax node number =  769 hit number = 698
+minimax node number =  877 hit number = 797
+minimax node number =  981 hit number = 893
+minimax node number =  1125 hit number = 1028
+minimax node number =  1229 hit number = 1124
+minimax node number =  1385 hit number = 1268
+minimax node number =  1505 hit number = 1376
+minimax node number =  1601 hit number = 1460
+minimax node number =  1713 hit number = 1558
+minimax node number =  1867 hit number = 1698
+minimax node number =  2021 hit number = 1838
+minimax node number =  2161 hit number = 1964
+minimax node number =  2278 hit number = 2068
+minimax node number =  2366 hit number = 2145
+minimax node number =  2443 hit number = 2211
+minimax node number =  2491 hit number = 2251
+minimax node number =  2536 hit number = 2287
+minimax node number =  2550 hit number = 2294
+minimax node number =  2555 hit number = 2294
+minimax node number =  2558 hit number = 2294
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | W W W W W W W W | 8
+7 | W B W B B W W W | 7
+6 | W W B B W B W W | 6
+5 | W W W B B W B W | 5
+4 | W W W W W B B W | 4
+3 | W B W W W B B W | 3
+2 | W B W W B B B W | 2
+1 | W W W W W W W W | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 18 / 30.0
+White: 46 / 28.7
+
+- student_c20 (white) wins the game! (46-18)
+student_c20 (black) vs. random1 (white)
+
+minimax node number =  16 hit number = 12
+minimax node number =  41 hit number = 32
+minimax node number =  89 hit number = 74
+minimax node number =  166 hit number = 140
+minimax node number =  202 hit number = 170
+minimax node number =  258 hit number = 219
+minimax node number =  339 hit number = 291
+minimax node number =  469 hit number = 408
+minimax node number =  589 hit number = 516
+minimax node number =  638 hit number = 558
+minimax node number =  710 hit number = 621
+minimax node number =  773 hit number = 677
+minimax node number =  836 hit number = 733
+minimax node number =  971 hit number = 859
+minimax node number =  1103 hit number = 980
+minimax node number =  1173 hit number = 1043
+minimax node number =  1253 hit number = 1115
+minimax node number =  1352 hit number = 1205
+minimax node number =  1422 hit number = 1268
+minimax node number =  1543 hit number = 1378
+minimax node number =  1633 hit number = 1459
+minimax node number =  1714 hit number = 1531
+minimax node number =  1763 hit number = 1573
+minimax node number =  1812 hit number = 1615
+minimax node number =  1884 hit number = 1678
+minimax node number =  1938 hit number = 1723
+minimax node number =  1946 hit number = 1727
+minimax node number =  1966 hit number = 1743
+minimax node number =  1978 hit number = 1751
+minimax node number =  1980 hit number = 1751
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | B W B B B B B B | 8
+7 | B B B B W W B W | 7
+6 | B B B W W W B W | 6
+5 | B W B B W B B W | 5
+4 | B W B B B W B W | 4
+3 | B W B B B W B W | 3
+2 | B B B B B B B W | 2
+1 | B B B B B B B B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 46 / 30.0
+White: 18 / 30.0
+
+- student_c20 (black) wins the game! (46-18)
+random1 (black) vs. student_c20 (white)
+
+minimax node number =  9 hit number = 6
+minimax node number =  25 hit number = 18
+minimax node number =  73 hit number = 60
+minimax node number =  150 hit number = 130
+minimax node number =  238 hit number = 210
+minimax node number =  328 hit number = 291
+minimax node number =  419 hit number = 375
+minimax node number =  562 hit number = 505
+minimax node number =  672 hit number = 605
+minimax node number =  789 hit number = 713
+minimax node number =  909 hit number = 823
+minimax node number =  1062 hit number = 967
+minimax node number =  1182 hit number = 1079
+minimax node number =  1312 hit number = 1199
+minimax node number =  1400 hit number = 1279
+minimax node number =  1543 hit number = 1411
+minimax node number =  1699 hit number = 1554
+minimax node number =  1868 hit number = 1710
+minimax node number =  2050 hit number = 1879
+minimax node number =  2182 hit number = 2000
+minimax node number =  2292 hit number = 2100
+minimax node number =  2372 hit number = 2172
+minimax node number =  2442 hit number = 2235
+minimax node number =  2498 hit number = 2283
+minimax node number =  2534 hit number = 2313
+minimax node number =  2549 hit number = 2323
+minimax node number =  2559 hit number = 2328
+minimax node number =  2565 hit number = 2332
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | W B B B B B B W | 8
+7 | W B B B B B B W | 7
+6 | W B W B W W W W | 6
+5 | W B W W B W W W | 5
+4 | W W B W B W W W | 4
+3 | W W W B W W W W | 3
+2 | B W W W B W W W | 2
+1 | B B B B B B W W | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 27 / 30.0
+White: 37 / 29.9
+
+- student_c20 (white) wins the game! (37-27)
+student_c20 (black) vs. random1 (white)
+
+minimax node number =  16 hit number = 12
+minimax node number =  41 hit number = 32
+minimax node number =  89 hit number = 74
+minimax node number =  134 hit number = 110
+minimax node number =  190 hit number = 158
+minimax node number =  267 hit number = 224
+minimax node number =  307 hit number = 254
+minimax node number =  367 hit number = 304
+minimax node number =  451 hit number = 374
+minimax node number =  591 hit number = 500
+minimax node number =  773 hit number = 669
+minimax node number =  933 hit number = 813
+minimax node number =  1073 hit number = 939
+minimax node number =  1253 hit number = 1104
+minimax node number =  1407 hit number = 1244
+minimax node number =  1503 hit number = 1328
+minimax node number =  1573 hit number = 1388
+minimax node number =  1645 hit number = 1451
+minimax node number =  1726 hit number = 1523
+minimax node number =  1814 hit number = 1600
+minimax node number =  1868 hit number = 1645
+minimax node number =  1949 hit number = 1717
+minimax node number =  2012 hit number = 1773
+minimax node number =  2048 hit number = 1803
+minimax node number =  2073 hit number = 1823
+minimax node number =  2108 hit number = 1851
+minimax node number =  2132 hit number = 1869
+minimax node number =  2152 hit number = 1884
+minimax node number =  2164 hit number = 1892
+minimax node number =  2166 hit number = 1892
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | B W W W W W W B | 8
+7 | B B B B B B B B | 7
+6 | B B B W B B B B | 6
+5 | B W B W W B B B | 5
+4 | B W W B B W B B | 4
+3 | B W B B B B B B | 3
+2 | W W W W B B B B | 2
+1 | B B B B B B B B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 46 / 30.0
+White: 18 / 30.0
+
+- student_c20 (black) wins the game! (46-18)
+random1 (black) vs. student_c20 (white)
+
+minimax node number =  9 hit number = 6
+minimax node number =  33 hit number = 24
+minimax node number =  63 hit number = 48
+minimax node number =  83 hit number = 63
+minimax node number =  125 hit number = 98
+minimax node number =  215 hit number = 178
+minimax node number =  311 hit number = 262
+minimax node number =  431 hit number = 367
+minimax node number =  521 hit number = 447
+minimax node number =  611 hit number = 527
+minimax node number =  754 hit number = 659
+minimax node number =  910 hit number = 802
+minimax node number =  1040 hit number = 919
+minimax node number =  1128 hit number = 996
+minimax node number =  1238 hit number = 1096
+minimax node number =  1338 hit number = 1186
+minimax node number =  1415 hit number = 1252
+minimax node number =  1523 hit number = 1348
+minimax node number =  1640 hit number = 1452
+minimax node number =  1766 hit number = 1564
+minimax node number =  1883 hit number = 1668
+minimax node number =  1955 hit number = 1728
+minimax node number =  2032 hit number = 1794
+minimax node number =  2080 hit number = 1834
+minimax node number =  2122 hit number = 1869
+minimax node number =  2147 hit number = 1889
+minimax node number =  2159 hit number = 1895
+minimax node number =  2174 hit number = 1905
+minimax node number =  2180 hit number = 1908
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | W B W W W W W W | 8
+7 | W W B W W W W W | 7
+6 | W W W B W W W W | 6
+5 | W W W W B W B W | 5
+4 | W B W W W B W W | 4
+3 | W B W W B W B W | 3
+2 | B B B B B B B W | 2
+1 | W W W W W W W W | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 17 / 30.0
+White: 47 / 29.9
+
+- student_c20 (white) wins the game! (47-17)
+student_c20 (black) vs. random1 (white)
+
+minimax node number =  16 hit number = 12
+minimax node number =  36 hit number = 27
+minimax node number =  54 hit number = 39
+minimax node number =  90 hit number = 69
+minimax node number =  160 hit number = 132
+minimax node number =  250 hit number = 213
+minimax node number =  358 hit number = 312
+minimax node number =  582 hit number = 520
+minimax node number =  738 hit number = 663
+minimax node number =  818 hit number = 733
+minimax node number =  908 hit number = 813
+minimax node number =  1029 hit number = 923
+minimax node number =  1179 hit number = 1058
+minimax node number =  1359 hit number = 1223
+minimax node number =  1489 hit number = 1340
+minimax node number =  1609 hit number = 1448
+minimax node number =  1708 hit number = 1538
+minimax node number =  1876 hit number = 1692
+minimax node number =  1984 hit number = 1788
+minimax node number =  2094 hit number = 1887
+minimax node number =  2224 hit number = 2004
+minimax node number =  2336 hit number = 2102
+minimax node number =  2413 hit number = 2168
+minimax node number =  2483 hit number = 2228
+minimax node number =  2539 hit number = 2276
+minimax node number =  2574 hit number = 2304
+minimax node number =  2610 hit number = 2334
+minimax node number =  2622 hit number = 2343
+minimax node number =  2628 hit number = 2347
+minimax node number =  2630 hit number = 2347
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | B B B B B B B B | 8
+7 | B W W W W W W W | 7
+6 | B W W W B W W W | 6
+5 | B W W W B W B B | 5
+4 | B W W B W W B B | 4
+3 | B W B W W B B B | 3
+2 | B W W W B B B B | 2
+1 | B W W B B B B B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 35 / 29.9
+White: 29 / 30.0
+
+- student_c20 (black) wins the game! (35-29)
+random1 (black) vs. student_c20 (white)
+
+minimax node number =  9 hit number = 6
+minimax node number =  24 hit number = 16
+minimax node number =  1038 hit number = 882
+minimax node number =  4268 hit number = 3718
+minimax node number =  7561 hit number = 6653
+minimax node number =  11069 hit number = 9671
+minimax node number =  13355 hit number = 11679
+minimax node number =  20498 hit number = 18059
+minimax node number =  27104 hit number = 24012
+minimax node number =  35920 hit number = 32082
+minimax node number =  46599 hit number = 42034
+minimax node number =  64194 hit number = 58579
+minimax node number =  64348 hit number = 58730
+minimax node number =  64491 hit number = 58860
+minimax node number =  64611 hit number = 58970
+minimax node number =  64754 hit number = 59100
+minimax node number =  64898 hit number = 59232
+minimax node number =  65018 hit number = 59340
+minimax node number =  65108 hit number = 59415
+minimax node number =  65192 hit number = 59485
+minimax node number =  65262 hit number = 59541
+minimax node number =  65327 hit number = 59593
+minimax node number =  65381 hit number = 59638
+minimax node number =  65437 hit number = 59686
+minimax node number =  65473 hit number = 59716
+minimax node number =  65498 hit number = 59736
+minimax node number =  65510 hit number = 59744
+minimax node number =  65526 hit number = 59756
+minimax node number =  65529 hit number = 59758
+minimax node number =  65531 hit number = 59759
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | W B B B B B B W | 8
+7 | W B B W W B B W | 7
+6 | W B B B B W B W | 6
+5 | W W W B B W B W | 5
+4 | W W W B B W B W | 4
+3 | W W W W W W B W | 3
+2 | B B B B B B B B | 2
+1 | W W W W W W W W | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 30 / 30.0
+White: 34 / 13.6
+
+- student_c20 (white) wins the game! (34-30)
+student_c20 (black) vs. random1 (white)
+
+minimax node number =  16 hit number = 12
+minimax node number =  36 hit number = 27
+minimax node number =  790 hit number = 685
+minimax node number =  2036 hit number = 1798
+minimax node number =  8658 hit number = 7878
+minimax node number =  20620 hit number = 18954
+minimax node number =  26086 hit number = 23963
+minimax node number =  32053 hit number = 29416
+minimax node number =  36176 hit number = 33037
+minimax node number =  46603 hit number = 42538
+minimax node number =  59390 hit number = 54047
+minimax node number =  59509 hit number = 54163
+minimax node number =  59600 hit number = 54241
+minimax node number =  59691 hit number = 54319
+minimax node number =  59803 hit number = 54417
+minimax node number =  59995 hit number = 54593
+minimax node number =  60177 hit number = 54761
+minimax node number =  60359 hit number = 54930
+minimax node number =  60513 hit number = 55070
+minimax node number =  60667 hit number = 55210
+minimax node number =  60797 hit number = 55327
+minimax node number =  60937 hit number = 55457
+minimax node number =  61045 hit number = 55556
+minimax node number =  61153 hit number = 55655
+minimax node number =  61216 hit number = 55711
+minimax node number =  61256 hit number = 55746
+minimax node number =  61280 hit number = 55766
+minimax node number =  61295 hit number = 55776
+minimax node number =  61304 hit number = 55782
+minimax node number =  61306 hit number = 55782
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | B W B B B B B B | 8
+7 | B W W B W W W B | 7
+6 | B W B W B W W B | 6
+5 | B W B B W B W B | 5
+4 | B W B B W W B B | 4
+3 | B W B W B B B B | 3
+2 | B W W B W W W B | 2
+1 | B W W W W W W B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 35 / 13.8
+White: 29 / 30.0
+
+- student_c20 (black) wins the game! (35-29)
+random1 (black) vs. student_c20 (white)
+
+minimax node number =  9 hit number = 6
+minimax node number =  33 hit number = 24
+minimax node number =  1161 hit number = 980
+minimax node number =  2264 hit number = 1928
+minimax node number =  3986 hit number = 3446
+minimax node number =  7746 hit number = 6883
+minimax node number =  14321 hit number = 12935
+minimax node number =  24911 hit number = 22636
+minimax node number =  32916 hit number = 29962
+minimax node number =  38603 hit number = 35062
+minimax node number =  52658 hit number = 48075
+minimax node number =  68445 hit number = 62812
+minimax node number =  68580 hit number = 62932
+minimax node number =  68688 hit number = 63031
+minimax node number =  68808 hit number = 63145
+minimax node number =  68906 hit number = 63236
+minimax node number =  68946 hit number = 63271
+minimax node number =  68970 hit number = 63292
+minimax node number =  69025 hit number = 63342
+minimax node number =  69103 hit number = 63414
+minimax node number =  69193 hit number = 63495
+minimax node number =  69247 hit number = 63543
+minimax node number =  69295 hit number = 63585
+minimax node number =  69330 hit number = 63613
+minimax node number =  69360 hit number = 63637
+minimax node number =  69395 hit number = 63667
+minimax node number =  69413 hit number = 63682
+minimax node number =  69417 hit number = 63684
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | W B B B W W W W | 8
+7 | W W W W W W W W | 7
+6 | W W B B W W W W | 6
+5 | W W B W W B W W | 5
+4 | W B W B B B W W | 4
+3 | B B B B W B W W | 3
+2 | W W W W W W W W | 2
+1 | W W W W W W W W | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 16 / 30.0
+White: 48 / 12.2
+
+- student_c20 (white) wins the game! (48-16)
+student_c20 (black) vs. random1 (white)
+
+minimax node number =  16 hit number = 12
+minimax node number =  41 hit number = 32
+minimax node number =  1041 hit number = 923
+minimax node number =  5864 hit number = 5361
+minimax node number =  8429 hit number = 7703
+minimax node number =  15545 hit number = 14320
+minimax node number =  19841 hit number = 18284
+minimax node number =  23120 hit number = 21327
+minimax node number =  29451 hit number = 27152
+minimax node number =  48700 hit number = 45194
+minimax node number =  65021 hit number = 60467
+minimax node number =  65129 hit number = 60572
+minimax node number =  65273 hit number = 60704
+minimax node number =  65369 hit number = 60788
+minimax node number =  65537 hit number = 60944
+minimax node number =  65667 hit number = 61061
+minimax node number =  65775 hit number = 61157
+minimax node number =  65874 hit number = 61245
+minimax node number =  65951 hit number = 61311
+minimax node number =  66050 hit number = 61399
+minimax node number =  66122 hit number = 61462
+minimax node number =  66182 hit number = 61512
+minimax node number =  66222 hit number = 61544
+minimax node number =  66250 hit number = 61565
+minimax node number =  66274 hit number = 61583
+minimax node number =  66288 hit number = 61590
+minimax node number =  66306 hit number = 61602
+minimax node number =  66318 hit number = 61608
+minimax node number =  66326 hit number = 61612
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | B B B B B B B B | 8
+7 | W W W B B W W W | 7
+6 | B W B B W W W B | 6
+5 | B B W W B W W B | 5
+4 | B B B W W B W B | 4
+3 | B W W W W W B B | 3
+2 | B B B B B B B B | 2
+1 | B W W W W W W B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 36 / 14.8
+White: 28 / 30.0
+
+- student_c20 (black) wins the game! (36-28)
+random1 (black) vs. student_c20 (white)
+
+minimax node number =  9 hit number = 6
+minimax node number =  24 hit number = 16
+minimax node number =  1088 hit number = 929
+minimax node number =  3513 hit number = 3055
+minimax node number =  6283 hit number = 5499
+minimax node number =  8187 hit number = 7204
+minimax node number =  17975 hit number = 16306
+minimax node number =  28530 hit number = 26163
+minimax node number =  46722 hit number = 43390
+minimax node number =  68282 hit number = 63615
+minimax node number =  68399 hit number = 63732
+minimax node number =  68525 hit number = 63844
+minimax node number =  68720 hit number = 64024
+minimax node number =  68889 hit number = 64180
+minimax node number =  69043 hit number = 64320
+minimax node number =  69199 hit number = 64463
+minimax node number =  69319 hit number = 64568
+minimax node number =  69439 hit number = 64673
+minimax node number =  69537 hit number = 64757
+minimax node number =  69667 hit number = 64874
+minimax node number =  69784 hit number = 64978
+minimax node number =  69875 hit number = 65056
+minimax node number =  69952 hit number = 65122
+minimax node number =  70006 hit number = 65167
+minimax node number =  70046 hit number = 65199
+minimax node number =  70081 hit number = 65227
+minimax node number =  70096 hit number = 65237
+minimax node number =  70105 hit number = 65243
+minimax node number =  70109 hit number = 65245
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | W B B B B B B B | 8
+7 | W W W W W W W W | 7
+6 | B W W W B W B W | 6
+5 | B B W B W B B W | 5
+4 | B B W W W W B W | 4
+3 | B W B W W B B W | 3
+2 | B B W W B B B B | 2
+1 | B B B B B B B W | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 35 / 30.0
+White: 29 / 13.8
+
+- random1 (black) wins the game! (35-29)
+student_c20 (black) vs. random1 (white)
+
+minimax node number =  16 hit number = 12
+minimax node number =  36 hit number = 27
+minimax node number =  601 hit number = 513
+minimax node number =  2022 hit number = 1771
+minimax node number =  2888 hit number = 2524
+minimax node number =  4983 hit number = 4434
+minimax node number =  5717 hit number = 5091
+minimax node number =  8355 hit number = 7509
+minimax node number =  10524 hit number = 9512
+minimax node number =  13147 hit number = 11952
+minimax node number =  22468 hit number = 20619
+minimax node number =  27769 hit number = 25516
+minimax node number =  34719 hit number = 31921
+minimax node number =  48761 hit number = 44961
+minimax node number =  59863 hit number = 55119
+minimax node number =  59962 hit number = 55217
+minimax node number =  60042 hit number = 55287
+minimax node number =  60122 hit number = 55357
+minimax node number =  60212 hit number = 55438
+minimax node number =  60296 hit number = 55515
+minimax node number =  60366 hit number = 55578
+minimax node number =  60457 hit number = 55662
+minimax node number =  60527 hit number = 55725
+minimax node number =  60567 hit number = 55761
+minimax node number =  60599 hit number = 55789
+minimax node number =  60634 hit number = 55819
+minimax node number =  60658 hit number = 55839
+minimax node number =  60664 hit number = 55842
+minimax node number =  60667 hit number = 55842
+minimax node number =  60669 hit number = 55844
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | W B B B W B B B | 8
+7 | W B B B B B W B | 7
+6 | W B W B B B W B | 6
+5 | W B W W W B W B | 5
+4 | W B B W W W W B | 4
+3 | W B B B B W W B | 3
+2 | W B B W W W W B | 2
+1 | W W W W W W W B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 32 / 13.7
+White: 32 / 30.0
+
+- student_c20 (black) and random1 (white) are tied! (32-32)
+random1 (black) vs. student_c20 (white)
+
+minimax node number =  9 hit number = 6
+minimax node number =  24 hit number = 16
+minimax node number =  1088 hit number = 932
+minimax node number =  7433 hit number = 6750
+minimax node number =  11008 hit number = 9981
+minimax node number =  18431 hit number = 16851
+minimax node number =  28244 hit number = 25996
+minimax node number =  38125 hit number = 35294
+minimax node number =  46179 hit number = 42855
+minimax node number =  58828 hit number = 54823
+minimax node number =  77289 hit number = 72213
+minimax node number =  77439 hit number = 72361
+minimax node number =  77559 hit number = 72473
+minimax node number =  77589 hit number = 72498
+minimax node number =  77643 hit number = 72546
+minimax node number =  77731 hit number = 72626
+minimax node number =  77815 hit number = 72703
+minimax node number =  77950 hit number = 72829
+minimax node number =  78086 hit number = 72957
+minimax node number =  78170 hit number = 73034
+minimax node number =  78240 hit number = 73099
+minimax node number =  78318 hit number = 73171
+minimax node number =  78395 hit number = 73241
+minimax node number =  78449 hit number = 73289
+minimax node number =  78505 hit number = 73337
+minimax node number =  78533 hit number = 73358
+minimax node number =  78568 hit number = 73386
+minimax node number =  78588 hit number = 73401
+minimax node number =  78594 hit number = 73404
+FINAL BOARD
+--
+
+    A B C D E F G H
+    ---------------
+8 | W W W B B B B W | 8
+7 | W W W B W B B W | 7
+6 | W W B W B W B W | 6
+5 | W B W W W B W W | 5
+4 | B B B B W W B W | 4
+3 | W B B B B B W W | 3
+2 | W B B W W W W W | 2
+1 | W B B B B B B W | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 30 / 30.0
+White: 34 / 13.0
+
+- student_c20 (white) wins the game! (34-30)

@@ -1,0 +1,3130 @@
+studentAndNumber (black) vs. random1 (white)
+
+0  -> ab minimax node number =  54 hit number = 41
+0  -> ab minimax heuristics node number =  34 hit number =  10
+0  -> ab ave factor =  2.5
+1  -> ab minimax node number =  151 hit number = 117
+1  -> ab minimax heuristics node number =  101 hit number =  24
+1  -> ab ave factor =  2.84
+2  -> ab minimax node number =  381 hit number = 301
+2  -> ab minimax heuristics node number =  277 hit number =  59
+2  -> ab ave factor =  3.51923076923
+3  -> ab minimax node number =  548 hit number = 425
+3  -> ab minimax heuristics node number =  394 hit number =  78
+3  -> ab ave factor =  3.42857142857
+4  -> ab minimax node number =  787 hit number = 601
+4  -> ab minimax heuristics node number =  556 hit number =  108
+4  -> ab ave factor =  3.29004329004
+5  -> ab minimax node number =  868 hit number = 654
+5  -> ab minimax heuristics node number =  602 hit number =  110
+5  -> ab ave factor =  3.14285714286
+6  -> ab minimax node number =  1061 hit number = 804
+6  -> ab minimax heuristics node number =  746 hit number =  131
+6  -> ab ave factor =  3.24444444444
+7  -> ab minimax node number =  1265 hit number = 965
+7  -> ab minimax heuristics node number =  901 hit number =  148
+7  -> ab ave factor =  3.3489010989
+8  -> ab minimax node number =  1611 hit number = 1248
+8  -> ab minimax heuristics node number =  1175 hit number =  194
+8  -> ab ave factor =  3.56880733945
+9  -> ab minimax node number =  2069 hit number = 1615
+9  -> ab minimax heuristics node number =  1533 hit number =  231
+9  -> ab ave factor =  3.73880597015
+10  -> ab minimax node number =  2785 hit number = 2207
+10  -> ab minimax heuristics node number =  2119 hit number =  303
+10  -> ab ave factor =  4.06456456456
+11  -> ab minimax node number =  3527 hit number = 2820
+11  -> ab minimax heuristics node number =  2729 hit number =  404
+11  -> ab ave factor =  4.30827067669
+12  -> ab minimax node number =  4081 hit number = 3290
+12  -> ab minimax heuristics node number =  3193 hit number =  498
+12  -> ab ave factor =  4.48423423423
+13  -> ab minimax node number =  4618 hit number = 3742
+13  -> ab minimax heuristics node number =  3640 hit number =  592
+13  -> ab ave factor =  4.61145194274
+14  -> ab minimax node number =  4836 hit number = 3895
+14  -> ab minimax heuristics node number =  3788 hit number =  614
+14  -> ab ave factor =  4.50667938931
+15  -> ab minimax node number =  5268 hit number = 4225
+15  -> ab minimax heuristics node number =  4116 hit number =  677
+15  -> ab ave factor =  4.46788194444
+16  -> ab minimax node number =  5669 hit number = 4543
+16  -> ab minimax heuristics node number =  4433 hit number =  746
+16  -> ab ave factor =  4.48300970874
+17  -> ab minimax node number =  6083 hit number = 4881
+17  -> ab minimax heuristics node number =  4767 hit number =  793
+17  -> ab ave factor =  4.51899696049
+18  -> ab minimax node number =  6303 hit number = 5040
+18  -> ab minimax heuristics node number =  4921 hit number =  827
+18  -> ab ave factor =  4.45803183792
+19  -> ab minimax node number =  6765 hit number = 5389
+19  -> ab minimax heuristics node number =  5263 hit number =  877
+19  -> ab ave factor =  4.40412782956
+20  -> ab minimax node number =  7218 hit number = 5742
+20  -> ab minimax heuristics node number =  5612 hit number =  939
+20  -> ab ave factor =  4.39601494396
+21  -> ab minimax node number =  7503 hit number = 5953
+21  -> ab minimax heuristics node number =  5819 hit number =  979
+21  -> ab ave factor =  4.3580760095
+22  -> ab minimax node number =  7774 hit number = 6149
+22  -> ab minimax heuristics node number =  6013 hit number =  990
+22  -> ab ave factor =  4.31743327655
+23  -> ab minimax node number =  7934 hit number = 6261
+23  -> ab minimax heuristics node number =  6123 hit number =  998
+23  -> ab ave factor =  4.28382109332
+24  -> ab minimax node number =  8055 hit number = 6339
+24  -> ab minimax heuristics node number =  6199 hit number =  1002
+24  -> ab ave factor =  4.24245689655
+25  -> ab minimax node number =  8145 hit number = 6400
+25  -> ab minimax heuristics node number =  6259 hit number =  1004
+25  -> ab ave factor =  4.2211028632
+26  -> ab minimax node number =  8213 hit number = 6441
+26  -> ab minimax heuristics node number =  6300 hit number =  1009
+26  -> ab ave factor =  4.19550444328
+27  -> ab minimax node number =  8254 hit number = 6464
+27  -> ab minimax heuristics node number =  6323 hit number =  1011
+27  -> ab ave factor =  4.17607457276
+28  -> ab minimax node number =  8283 hit number = 6481
+28  -> ab minimax heuristics node number =  6340 hit number =  1011
+28  -> ab ave factor =  4.16366443644
+FINAL BOARD
+--
+
+***31
+    A B C D E F G H
+    ---------------
+8 | B W B B B B B B | 8
+7 | W W W W W W W W | 7
+6 | W W B W B W W W | 6
+5 | W W B B W W B W | 5
+4 | W W B B B W B W | 4
+3 | B B B B B W B W | 3
+2 | B B B B W B B W | 2
+1 | B B B B B B B B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 36 / 20.5
+White: 28 / 30.0
+
+- studentAndNumber (black) wins the game! (36-28)
+studentAndNumber (black) vs. random1 (white)
+
+0  -> ab minimax node number =  54 hit number = 41
+0  -> ab minimax heuristics node number =  34 hit number =  10
+0  -> ab ave factor =  2.5
+1  -> ab minimax node number =  123 hit number = 90
+1  -> ab minimax heuristics node number =  79 hit number =  15
+1  -> ab ave factor =  2.61363636364
+2  -> ab minimax node number =  386 hit number = 300
+2  -> ab minimax heuristics node number =  270 hit number =  65
+2  -> ab ave factor =  3.18965517241
+3  -> ab minimax node number =  561 hit number = 442
+3  -> ab minimax heuristics node number =  405 hit number =  89
+3  -> ab ave factor =  3.46153846154
+4  -> ab minimax node number =  1029 hit number = 834
+4  -> ab minimax heuristics node number =  783 hit number =  158
+4  -> ab ave factor =  4.05691056911
+5  -> ab minimax node number =  1326 hit number = 1072
+5  -> ab minimax heuristics node number =  1016 hit number =  197
+5  -> ab ave factor =  4.15161290323
+6  -> ab minimax node number =  1451 hit number = 1165
+6  -> ab minimax heuristics node number =  1101 hit number =  214
+6  -> ab ave factor =  4.02
+7  -> ab minimax node number =  1706 hit number = 1366
+7  -> ab minimax heuristics node number =  1293 hit number =  252
+7  -> ab ave factor =  4.00726392252
+8  -> ab minimax node number =  2034 hit number = 1624
+8  -> ab minimax heuristics node number =  1537 hit number =  284
+8  -> ab ave factor =  3.97585513078
+9  -> ab minimax node number =  2651 hit number = 2126
+9  -> ab minimax heuristics node number =  2024 hit number =  366
+9  -> ab ave factor =  4.11961722488
+10  -> ab minimax node number =  3842 hit number = 3156
+10  -> ab minimax heuristics node number =  3033 hit number =  596
+10  -> ab ave factor =  4.64894932015
+11  -> ab minimax node number =  4696 hit number = 3892
+11  -> ab minimax heuristics node number =  3755 hit number =  701
+11  -> ab ave factor =  4.89160467588
+12  -> ab minimax node number =  6546 hit number = 5554
+12  -> ab minimax heuristics node number =  5397 hit number =  1048
+12  -> ab ave factor =  5.60226283725
+13  -> ab minimax node number =  8451 hit number = 7293
+13  -> ab minimax heuristics node number =  7122 hit number =  1428
+13  -> ab ave factor =  6.26561324304
+14  -> ab minimax node number =  9581 hit number = 8266
+14  -> ab minimax heuristics node number =  8084 hit number =  1605
+14  -> ab ave factor =  6.30928523714
+15  -> ab minimax node number =  10225 hit number = 8768
+15  -> ab minimax heuristics node number =  8572 hit number =  1676
+15  -> ab ave factor =  6.09558378705
+16  -> ab minimax node number =  10849 hit number = 9279
+16  -> ab minimax heuristics node number =  9079 hit number =  1702
+16  -> ab ave factor =  6.03785310734
+17  -> ab minimax node number =  11511 hit number = 9810
+17  -> ab minimax heuristics node number =  9598 hit number =  1816
+17  -> ab ave factor =  5.92577104025
+18  -> ab minimax node number =  12159 hit number = 10332
+18  -> ab minimax heuristics node number =  10114 hit number =  1947
+18  -> ab ave factor =  5.85427872861
+19  -> ab minimax node number =  12775 hit number = 10848
+19  -> ab minimax heuristics node number =  10620 hit number =  2044
+19  -> ab ave factor =  5.83665893271
+20  -> ab minimax node number =  13362 hit number = 11332
+20  -> ab minimax heuristics node number =  11099 hit number =  2113
+20  -> ab ave factor =  5.81352187362
+21  -> ab minimax node number =  13953 hit number = 11812
+21  -> ab minimax heuristics node number =  11573 hit number =  2177
+21  -> ab ave factor =  5.77226890756
+22  -> ab minimax node number =  14220 hit number = 12006
+22  -> ab minimax heuristics node number =  11763 hit number =  2197
+22  -> ab ave factor =  5.69719169719
+23  -> ab minimax node number =  14634 hit number = 12342
+23  -> ab minimax heuristics node number =  12096 hit number =  2234
+23  -> ab ave factor =  5.67494089835
+24  -> ab minimax node number =  14888 hit number = 12536
+24  -> ab minimax heuristics node number =  12287 hit number =  2250
+24  -> ab ave factor =  5.63244905805
+25  -> ab minimax node number =  15101 hit number = 12690
+25  -> ab minimax heuristics node number =  12440 hit number =  2264
+25  -> ab ave factor =  5.58323938369
+26  -> ab minimax node number =  15210 hit number = 12763
+26  -> ab minimax heuristics node number =  12513 hit number =  2271
+26  -> ab ave factor =  5.54764553207
+27  -> ab minimax node number =  15236 hit number = 12775
+27  -> ab minimax heuristics node number =  12525 hit number =  2272
+27  -> ab ave factor =  5.52784950203
+29  -> ab minimax node number =  15242 hit number = 12778
+29  -> ab minimax heuristics node number =  12527 hit number =  2273
+29  -> ab ave factor =  5.52451161076
+FINAL BOARD
+--
+
+***31
+    A B C D E F G H
+    ---------------
+8 | B W W W W W W B | 8
+7 | W W W W W W W B | 7
+6 | W W W W W W W W | 6
+5 | W W B B B B W B | 5
+4 | W W B B B B W B | 4
+3 | W W B B B B W B | 3
+2 | W W W B B B W B | 2
+1 | B W W W W W W B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 24 / 12.6
+White: 40 / 30.0
+
+- random1 (white) wins the game! (40-24)
+studentAndNumber (black) vs. random1 (white)
+
+0  -> ab minimax node number =  54 hit number = 41
+0  -> ab minimax heuristics node number =  34 hit number =  10
+0  -> ab ave factor =  2.5
+1  -> ab minimax node number =  151 hit number = 117
+1  -> ab minimax heuristics node number =  101 hit number =  24
+1  -> ab ave factor =  2.84
+2  -> ab minimax node number =  294 hit number = 233
+2  -> ab minimax heuristics node number =  204 hit number =  53
+2  -> ab ave factor =  3.11111111111
+3  -> ab minimax node number =  448 hit number = 358
+3  -> ab minimax heuristics node number =  316 hit number =  74
+3  -> ab ave factor =  3.24242424242
+4  -> ab minimax node number =  751 hit number = 603
+4  -> ab minimax heuristics node number =  549 hit number =  119
+4  -> ab ave factor =  3.58415841584
+5  -> ab minimax node number =  1017 hit number = 814
+5  -> ab minimax heuristics node number =  749 hit number =  169
+5  -> ab ave factor =  3.67164179104
+6  -> ab minimax node number =  1213 hit number = 957
+6  -> ab minimax heuristics node number =  885 hit number =  192
+6  -> ab ave factor =  3.58231707317
+7  -> ab minimax node number =  1597 hit number = 1269
+7  -> ab minimax heuristics node number =  1189 hit number =  230
+7  -> ab ave factor =  3.80147058824
+8  -> ab minimax node number =  1951 hit number = 1569
+8  -> ab minimax heuristics node number =  1480 hit number =  293
+8  -> ab ave factor =  4.02547770701
+9  -> ab minimax node number =  2078 hit number = 1667
+9  -> ab minimax heuristics node number =  1562 hit number =  313
+9  -> ab ave factor =  3.91085271318
+10  -> ab minimax node number =  2107 hit number = 1686
+10  -> ab minimax heuristics node number =  1579 hit number =  315
+10  -> ab ave factor =  3.87121212121
+11  -> ab minimax node number =  2133 hit number = 1703
+11  -> ab minimax heuristics node number =  1593 hit number =  317
+11  -> ab ave factor =  3.82777777778
+12  -> ab minimax node number =  2160 hit number = 1719
+12  -> ab minimax heuristics node number =  1608 hit number =  318
+12  -> ab ave factor =  3.78804347826
+13  -> ab minimax node number =  2184 hit number = 1732
+13  -> ab minimax heuristics node number =  1620 hit number =  320
+13  -> ab ave factor =  3.74645390071
+14  -> ab minimax node number =  2456 hit number = 1936
+14  -> ab minimax heuristics node number =  1814 hit number =  355
+14  -> ab ave factor =  3.70560747664
+15  -> ab minimax node number =  2916 hit number = 2296
+15  -> ab minimax heuristics node number =  2164 hit number =  397
+15  -> ab ave factor =  3.76196808511
+16  -> ab minimax node number =  3420 hit number = 2716
+16  -> ab minimax heuristics node number =  2578 hit number =  436
+16  -> ab ave factor =  3.94774346793
+17  -> ab minimax node number =  3944 hit number = 3148
+17  -> ab minimax heuristics node number =  3003 hit number =  478
+17  -> ab ave factor =  4.07970244421
+18  -> ab minimax node number =  4170 hit number = 3328
+18  -> ab minimax heuristics node number =  3181 hit number =  485
+18  -> ab ave factor =  4.10212335693
+19  -> ab minimax node number =  4463 hit number = 3566
+19  -> ab minimax heuristics node number =  3418 hit number =  503
+19  -> ab ave factor =  4.15502392344
+20  -> ab minimax node number =  4574 hit number = 3654
+20  -> ab minimax heuristics node number =  3505 hit number =  515
+20  -> ab ave factor =  4.15996258185
+21  -> ab minimax node number =  4773 hit number = 3815
+21  -> ab minimax heuristics node number =  3662 hit number =  537
+21  -> ab ave factor =  4.17551755176
+22  -> ab minimax node number =  4841 hit number = 3855
+22  -> ab minimax heuristics node number =  3700 hit number =  542
+22  -> ab ave factor =  4.1226993865
+23  -> ab minimax node number =  4887 hit number = 3879
+23  -> ab minimax heuristics node number =  3722 hit number =  546
+23  -> ab ave factor =  4.07553648069
+24  -> ab minimax node number =  4925 hit number = 3897
+24  -> ab minimax heuristics node number =  3740 hit number =  550
+24  -> ab ave factor =  4.03713080169
+26  -> ab minimax node number =  4949 hit number = 3908
+26  -> ab minimax heuristics node number =  3752 hit number =  550
+26  -> ab ave factor =  4.02768456376
+FINAL BOARD
+--
+
+***32
+    A B C D E F G H
+    ---------------
+8 | B W W W W W W B | 8
+7 | B B B B B W W W | 7
+6 | B B B W W W W W | 6
+5 | W W B W W W B W | 5
+4 | W B B W W W B W | 4
+3 | W B W W B B W W | 3
+2 | W W W W B B B W | 2
+1 | B B B B B B B B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 29 / 24.4
+White: 35 / 30.0
+
+- random1 (white) wins the game! (35-29)
+studentAndNumber (black) vs. random1 (white)
+
+0  -> ab minimax node number =  54 hit number = 41
+0  -> ab minimax heuristics node number =  34 hit number =  10
+0  -> ab ave factor =  2.5
+1  -> ab minimax node number =  123 hit number = 90
+1  -> ab minimax heuristics node number =  79 hit number =  15
+1  -> ab ave factor =  2.61363636364
+2  -> ab minimax node number =  227 hit number = 172
+2  -> ab minimax heuristics node number =  153 hit number =  27
+2  -> ab ave factor =  2.89189189189
+3  -> ab minimax node number =  421 hit number = 327
+3  -> ab minimax heuristics node number =  293 hit number =  62
+3  -> ab ave factor =  3.140625
+4  -> ab minimax node number =  703 hit number = 554
+4  -> ab minimax heuristics node number =  505 hit number =  121
+4  -> ab ave factor =  3.41919191919
+5  -> ab minimax node number =  948 hit number = 755
+5  -> ab minimax heuristics node number =  696 hit number =  162
+5  -> ab ave factor =  3.63492063492
+6  -> ab minimax node number =  1244 hit number = 1001
+6  -> ab minimax heuristics node number =  932 hit number =  187
+6  -> ab ave factor =  3.86538461538
+7  -> ab minimax node number =  1577 hit number = 1261
+7  -> ab minimax heuristics node number =  1177 hit number =  231
+7  -> ab ave factor =  3.8275
+8  -> ab minimax node number =  1830 hit number = 1463
+8  -> ab minimax heuristics node number =  1370 hit number =  258
+8  -> ab ave factor =  3.8652173913
+9  -> ab minimax node number =  2320 hit number = 1860
+9  -> ab minimax heuristics node number =  1756 hit number =  306
+9  -> ab ave factor =  4.00709219858
+10  -> ab minimax node number =  2679 hit number = 2137
+10  -> ab minimax heuristics node number =  2019 hit number =  339
+10  -> ab ave factor =  3.95606060606
+11  -> ab minimax node number =  3218 hit number = 2561
+11  -> ab minimax heuristics node number =  2428 hit number =  429
+11  -> ab ave factor =  3.9746835443
+12  -> ab minimax node number =  3697 hit number = 2928
+12  -> ab minimax heuristics node number =  2781 hit number =  502
+12  -> ab ave factor =  3.94104803493
+13  -> ab minimax node number =  4106 hit number = 3239
+13  -> ab minimax heuristics node number =  3080 hit number =  560
+13  -> ab ave factor =  3.90643274854
+14  -> ab minimax node number =  4588 hit number = 3652
+14  -> ab minimax heuristics node number =  3485 hit number =  614
+14  -> ab ave factor =  4.06074342702
+15  -> ab minimax node number =  4995 hit number = 3969
+15  -> ab minimax heuristics node number =  3792 hit number =  663
+15  -> ab ave factor =  4.0532003325
+16  -> ab minimax node number =  5374 hit number = 4256
+16  -> ab minimax heuristics node number =  4072 hit number =  689
+16  -> ab ave factor =  4.0291858679
+17  -> ab minimax node number =  5798 hit number = 4589
+17  -> ab minimax heuristics node number =  4388 hit number =  733
+17  -> ab ave factor =  4.01489361702
+18  -> ab minimax node number =  6096 hit number = 4805
+18  -> ab minimax heuristics node number =  4595 hit number =  761
+18  -> ab ave factor =  3.96535642905
+19  -> ab minimax node number =  6393 hit number = 5012
+19  -> ab minimax heuristics node number =  4801 hit number =  785
+19  -> ab ave factor =  3.92085427136
+20  -> ab minimax node number =  6588 hit number = 5151
+20  -> ab minimax heuristics node number =  4936 hit number =  801
+20  -> ab ave factor =  3.89346246973
+21  -> ab minimax node number =  6753 hit number = 5264
+21  -> ab minimax heuristics node number =  5046 hit number =  809
+21  -> ab ave factor =  3.86174575278
+22  -> ab minimax node number =  6925 hit number = 5390
+22  -> ab minimax heuristics node number =  5170 hit number =  823
+22  -> ab ave factor =  3.85071225071
+23  -> ab minimax node number =  7112 hit number = 5527
+23  -> ab minimax heuristics node number =  5303 hit number =  836
+23  -> ab ave factor =  3.83582089552
+24  -> ab minimax node number =  7183 hit number = 5575
+24  -> ab minimax heuristics node number =  5347 hit number =  839
+24  -> ab ave factor =  3.81644880174
+25  -> ab minimax node number =  7238 hit number = 5608
+25  -> ab minimax heuristics node number =  5378 hit number =  843
+25  -> ab ave factor =  3.79516129032
+26  -> ab minimax node number =  7273 hit number = 5628
+26  -> ab minimax heuristics node number =  5397 hit number =  846
+26  -> ab ave factor =  3.78038379531
+27  -> ab minimax node number =  7320 hit number = 5657
+27  -> ab minimax heuristics node number =  5426 hit number =  849
+27  -> ab ave factor =  3.767687434
+FINAL BOARD
+--
+
+***31
+    A B C D E F G H
+    ---------------
+8 | B B B B B B B B | 8
+7 | W W W W W W B B | 7
+6 | W W W W W B W B | 6
+5 | W W W W B B W B | 5
+4 | W W W B B W W B | 4
+3 | W W B B B B B B | 3
+2 | W W B B B B W B | 2
+1 | B W W W W W W B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 31 / 21.8
+White: 33 / 30.0
+
+- random1 (white) wins the game! (33-31)
+studentAndNumber (black) vs. random1 (white)
+
+0  -> ab minimax node number =  54 hit number = 41
+0  -> ab minimax heuristics node number =  34 hit number =  10
+0  -> ab ave factor =  2.5
+1  -> ab minimax node number =  154 hit number = 122
+1  -> ab minimax heuristics node number =  109 hit number =  20
+1  -> ab ave factor =  3.22222222222
+2  -> ab minimax node number =  259 hit number = 206
+2  -> ab minimax heuristics node number =  190 hit number =  28
+2  -> ab ave factor =  3.53623188406
+3  -> ab minimax node number =  449 hit number = 356
+3  -> ab minimax heuristics node number =  326 hit number =  56
+3  -> ab ave factor =  3.47967479675
+4  -> ab minimax node number =  745 hit number = 592
+4  -> ab minimax heuristics node number =  550 hit number =  104
+4  -> ab ave factor =  3.66666666667
+5  -> ab minimax node number =  1038 hit number = 836
+5  -> ab minimax heuristics node number =  783 hit number =  150
+5  -> ab ave factor =  3.92941176471
+6  -> ab minimax node number =  1688 hit number = 1382
+6  -> ab minimax heuristics node number =  1313 hit number =  276
+6  -> ab ave factor =  4.37866666667
+7  -> ab minimax node number =  2218 hit number = 1816
+7  -> ab minimax heuristics node number =  1733 hit number =  344
+7  -> ab ave factor =  4.45773195876
+8  -> ab minimax node number =  2961 hit number = 2442
+8  -> ab minimax heuristics node number =  2346 hit number =  457
+8  -> ab ave factor =  4.70243902439
+9  -> ab minimax node number =  3932 hit number = 3279
+9  -> ab minimax heuristics node number =  3163 hit number =  625
+9  -> ab ave factor =  5.00520156047
+10  -> ab minimax node number =  4819 hit number = 4066
+10  -> ab minimax heuristics node number =  3938 hit number =  781
+10  -> ab ave factor =  5.3598183882
+11  -> ab minimax node number =  5719 hit number = 4861
+11  -> ab minimax heuristics node number =  4721 hit number =  935
+11  -> ab ave factor =  5.62024048096
+12  -> ab minimax node number =  6002 hit number = 5108
+12  -> ab minimax heuristics node number =  4964 hit number =  969
+12  -> ab ave factor =  5.66666666667
+13  -> ab minimax node number =  6175 hit number = 5250
+13  -> ab minimax heuristics node number =  5105 hit number =  984
+13  -> ab ave factor =  5.65140186916
+14  -> ab minimax node number =  6991 hit number = 5977
+14  -> ab minimax heuristics node number =  5825 hit number =  1083
+14  -> ab ave factor =  5.8756432247
+15  -> ab minimax node number =  7462 hit number = 6387
+15  -> ab minimax heuristics node number =  6224 hit number =  1139
+15  -> ab ave factor =  5.9071082391
+16  -> ab minimax node number =  7856 hit number = 6718
+16  -> ab minimax heuristics node number =  6546 hit number =  1167
+16  -> ab ave factor =  5.87709923664
+17  -> ab minimax node number =  8027 hit number = 6833
+17  -> ab minimax heuristics node number =  6647 hit number =  1188
+17  -> ab ave factor =  5.69927536232
+18  -> ab minimax node number =  8185 hit number = 6942
+18  -> ab minimax heuristics node number =  6749 hit number =  1205
+18  -> ab ave factor =  5.58426183844
+19  -> ab minimax node number =  8378 hit number = 7071
+19  -> ab minimax heuristics node number =  6867 hit number =  1229
+19  -> ab ave factor =  5.43150231635
+20  -> ab minimax node number =  8520 hit number = 7164
+20  -> ab minimax heuristics node number =  6953 hit number =  1249
+20  -> ab ave factor =  5.32546266752
+21  -> ab minimax node number =  8723 hit number = 7303
+21  -> ab minimax heuristics node number =  7078 hit number =  1269
+21  -> ab ave factor =  5.19270516717
+22  -> ab minimax node number =  8847 hit number = 7392
+22  -> ab minimax heuristics node number =  7162 hit number =  1282
+22  -> ab ave factor =  5.14065281899
+23  -> ab minimax node number =  9073 hit number = 7570
+23  -> ab minimax heuristics node number =  7334 hit number =  1314
+23  -> ab ave factor =  5.10753306498
+24  -> ab minimax node number =  9411 hit number = 7843
+24  -> ab minimax heuristics node number =  7602 hit number =  1344
+24  -> ab ave factor =  5.09286898839
+25  -> ab minimax node number =  9509 hit number = 7907
+25  -> ab minimax heuristics node number =  7664 hit number =  1344
+25  -> ab ave factor =  5.04444444444
+26  -> ab minimax node number =  9568 hit number = 7942
+26  -> ab minimax heuristics node number =  7699 hit number =  1347
+26  -> ab ave factor =  5.00963081862
+27  -> ab minimax node number =  9590 hit number = 7952
+27  -> ab minimax heuristics node number =  7709 hit number =  1348
+27  -> ab ave factor =  4.98830409357
+28  -> ab minimax node number =  9608 hit number = 7962
+28  -> ab minimax heuristics node number =  7718 hit number =  1349
+28  -> ab ave factor =  4.97248677249
+FINAL BOARD
+--
+
+***31
+    A B C D E F G H
+    ---------------
+8 | B B B B W W W B | 8
+7 | B B B B W W W B | 7
+6 | B B B W W B W B | 6
+5 | B B B B W B W B | 5
+4 | B B B B B B W B | 4
+3 | B W W B B B W B | 3
+2 | B W W W B B W B | 2
+1 | B W W W W W W B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 39 / 20.6
+White: 25 / 30.0
+
+- studentAndNumber (black) wins the game! (39-25)
+studentAndNumber (black) vs. random1 (white)
+
+0  -> ab minimax node number =  54 hit number = 41
+0  -> ab minimax heuristics node number =  34 hit number =  10
+0  -> ab ave factor =  2.5
+1  -> ab minimax node number =  154 hit number = 122
+1  -> ab minimax heuristics node number =  109 hit number =  20
+1  -> ab ave factor =  3.22222222222
+2  -> ab minimax node number =  259 hit number = 201
+2  -> ab minimax heuristics node number =  184 hit number =  25
+2  -> ab ave factor =  3.26666666667
+3  -> ab minimax node number =  418 hit number = 330
+3  -> ab minimax heuristics node number =  301 hit number =  49
+3  -> ab ave factor =  3.40170940171
+4  -> ab minimax node number =  636 hit number = 509
+4  -> ab minimax heuristics node number =  471 hit number =  65
+4  -> ab ave factor =  3.69696969697
+5  -> ab minimax node number =  1002 hit number = 803
+5  -> ab minimax heuristics node number =  753 hit number =  109
+5  -> ab ave factor =  3.89156626506
+6  -> ab minimax node number =  1533 hit number = 1246
+6  -> ab minimax heuristics node number =  1172 hit number =  160
+6  -> ab ave factor =  4.13296398892
+7  -> ab minimax node number =  2339 hit number = 1905
+7  -> ab minimax heuristics node number =  1818 hit number =  241
+7  -> ab ave factor =  4.3915547025
+8  -> ab minimax node number =  3219 hit number = 2652
+8  -> ab minimax heuristics node number =  2554 hit number =  377
+8  -> ab ave factor =  4.74586466165
+9  -> ab minimax node number =  4192 hit number = 3455
+9  -> ab minimax heuristics node number =  3347 hit number =  473
+9  -> ab ave factor =  4.87218934911
+10  -> ab minimax node number =  4540 hit number = 3693
+10  -> ab minimax heuristics node number =  3567 hit number =  510
+10  -> ab ave factor =  4.58067831449
+11  -> ab minimax node number =  4780 hit number = 3845
+11  -> ab minimax heuristics node number =  3711 hit number =  527
+11  -> ab ave factor =  4.38821328344
+12  -> ab minimax node number =  5368 hit number = 4303
+12  -> ab minimax heuristics node number =  4164 hit number =  560
+12  -> ab ave factor =  4.37707641196
+13  -> ab minimax node number =  5738 hit number = 4586
+13  -> ab minimax heuristics node number =  4436 hit number =  591
+13  -> ab ave factor =  4.32642089094
+14  -> ab minimax node number =  6012 hit number = 4803
+14  -> ab minimax heuristics node number =  4644 hit number =  612
+14  -> ab ave factor =  4.31359649123
+15  -> ab minimax node number =  6253 hit number = 4983
+15  -> ab minimax heuristics node number =  4819 hit number =  633
+15  -> ab ave factor =  4.27894002789
+16  -> ab minimax node number =  6608 hit number = 5266
+16  -> ab minimax heuristics node number =  5097 hit number =  683
+16  -> ab ave factor =  4.2911978822
+17  -> ab minimax node number =  6863 hit number = 5465
+17  -> ab minimax heuristics node number =  5292 hit number =  710
+17  -> ab ave factor =  4.28580521961
+18  -> ab minimax node number =  7032 hit number = 5584
+18  -> ab minimax heuristics node number =  5411 hit number =  730
+18  -> ab ave factor =  4.25478099938
+19  -> ab minimax node number =  7371 hit number = 5854
+19  -> ab minimax heuristics node number =  5680 hit number =  769
+19  -> ab ave factor =  4.27498521585
+20  -> ab minimax node number =  7530 hit number = 5964
+20  -> ab minimax heuristics node number =  5789 hit number =  780
+20  -> ab ave factor =  4.24066628374
+21  -> ab minimax node number =  7645 hit number = 6044
+21  -> ab minimax heuristics node number =  5864 hit number =  790
+21  -> ab ave factor =  4.20774845592
+22  -> ab minimax node number =  7772 hit number = 6137
+22  -> ab minimax heuristics node number =  5955 hit number =  798
+22  -> ab ave factor =  4.19097413319
+23  -> ab minimax node number =  7849 hit number = 6187
+23  -> ab minimax heuristics node number =  6005 hit number =  798
+23  -> ab ave factor =  4.16973969631
+24  -> ab minimax node number =  8042 hit number = 6327
+24  -> ab minimax heuristics node number =  6142 hit number =  807
+24  -> ab ave factor =  4.14473684211
+25  -> ab minimax node number =  8175 hit number = 6419
+25  -> ab minimax heuristics node number =  6233 hit number =  812
+25  -> ab ave factor =  4.12049433574
+26  -> ab minimax node number =  8272 hit number = 6488
+26  -> ab minimax heuristics node number =  6300 hit number =  815
+26  -> ab ave factor =  4.10446247465
+27  -> ab minimax node number =  8310 hit number = 6508
+27  -> ab minimax heuristics node number =  6320 hit number =  815
+27  -> ab ave factor =  4.08492462312
+28  -> ab minimax node number =  8332 hit number = 6519
+28  -> ab minimax heuristics node number =  6330 hit number =  815
+28  -> ab ave factor =  4.06993006993
+FINAL BOARD
+--
+
+***32
+    A B C D E F G H
+    ---------------
+8 | B B B W W W W B | 8
+7 | W W W B B W W B | 7
+6 | B W B B B B B B | 6
+5 | B W W B W B W B | 5
+4 | B W B W W W W B | 4
+3 | B W B W W B W B | 3
+2 | B W W B B W W W | 2
+1 | B W B B B B B B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 35 / 20.9
+White: 29 / 30.0
+
+- studentAndNumber (black) wins the game! (35-29)
+studentAndNumber (black) vs. random1 (white)
+
+0  -> ab minimax node number =  54 hit number = 41
+0  -> ab minimax heuristics node number =  34 hit number =  10
+0  -> ab ave factor =  2.5
+1  -> ab minimax node number =  123 hit number = 90
+1  -> ab minimax heuristics node number =  79 hit number =  15
+1  -> ab ave factor =  2.61363636364
+2  -> ab minimax node number =  236 hit number = 181
+2  -> ab minimax heuristics node number =  162 hit number =  29
+2  -> ab ave factor =  3.01351351351
+3  -> ab minimax node number =  365 hit number = 279
+3  -> ab minimax heuristics node number =  251 hit number =  48
+3  -> ab ave factor =  3.04385964912
+4  -> ab minimax node number =  585 hit number = 445
+4  -> ab minimax heuristics node number =  405 hit number =  70
+4  -> ab ave factor =  3.11666666667
+5  -> ab minimax node number =  1173 hit number = 924
+5  -> ab minimax heuristics node number =  861 hit number =  149
+5  -> ab ave factor =  3.64743589744
+6  -> ab minimax node number =  1885 hit number = 1537
+6  -> ab minimax heuristics node number =  1453 hit number =  268
+6  -> ab ave factor =  4.25462962963
+7  -> ab minimax node number =  2633 hit number = 2190
+7  -> ab minimax heuristics node number =  2093 hit number =  362
+7  -> ab ave factor =  4.76666666667
+8  -> ab minimax node number =  3452 hit number = 2901
+8  -> ab minimax heuristics node number =  2792 hit number =  460
+8  -> ab ave factor =  5.12272727273
+9  -> ab minimax node number =  4420 hit number = 3747
+9  -> ab minimax heuristics node number =  3630 hit number =  626
+9  -> ab ave factor =  5.48860759494
+10  -> ab minimax node number =  5885 hit number = 5044
+10  -> ab minimax heuristics node number =  4913 hit number =  857
+10  -> ab ave factor =  5.95473251029
+11  -> ab minimax node number =  7120 hit number = 6052
+11  -> ab minimax heuristics node number =  5901 hit number =  1097
+11  -> ab ave factor =  5.75061525841
+12  -> ab minimax node number =  7945 hit number = 6743
+12  -> ab minimax heuristics node number =  6573 hit number =  1186
+12  -> ab ave factor =  5.70408163265
+13  -> ab minimax node number =  9075 hit number = 7673
+13  -> ab minimax heuristics node number =  7487 hit number =  1333
+13  -> ab ave factor =  5.6322418136
+14  -> ab minimax node number =  10035 hit number = 8457
+14  -> ab minimax heuristics node number =  8260 hit number =  1436
+14  -> ab ave factor =  5.57352112676
+15  -> ab minimax node number =  10610 hit number = 8925
+15  -> ab minimax heuristics node number =  8718 hit number =  1488
+15  -> ab ave factor =  5.52801268499
+16  -> ab minimax node number =  11277 hit number = 9447
+16  -> ab minimax heuristics node number =  9235 hit number =  1532
+16  -> ab ave factor =  5.44368266405
+17  -> ab minimax node number =  12220 hit number = 10207
+17  -> ab minimax heuristics node number =  9983 hit number =  1632
+17  -> ab ave factor =  5.38489047832
+18  -> ab minimax node number =  13363 hit number = 11153
+18  -> ab minimax heuristics node number =  10918 hit number =  1765
+18  -> ab ave factor =  5.38773006135
+19  -> ab minimax node number =  14035 hit number = 11696
+19  -> ab minimax heuristics node number =  11447 hit number =  1833
+19  -> ab ave factor =  5.34544049459
+20  -> ab minimax node number =  14501 hit number = 12057
+20  -> ab minimax heuristics node number =  11796 hit number =  1889
+20  -> ab ave factor =  5.2831792976
+21  -> ab minimax node number =  14996 hit number = 12438
+21  -> ab minimax heuristics node number =  12171 hit number =  1932
+21  -> ab ave factor =  5.23044247788
+22  -> ab minimax node number =  15366 hit number = 12722
+22  -> ab minimax heuristics node number =  12453 hit number =  1952
+22  -> ab ave factor =  5.19567456231
+23  -> ab minimax node number =  15623 hit number = 12917
+23  -> ab minimax heuristics node number =  12647 hit number =  1965
+23  -> ab ave factor =  5.1690188172
+24  -> ab minimax node number =  15744 hit number = 12995
+24  -> ab minimax heuristics node number =  12723 hit number =  1970
+24  -> ab ave factor =  5.1304203906
+25  -> ab minimax node number =  15795 hit number = 13022
+25  -> ab minimax heuristics node number =  12750 hit number =  1974
+25  -> ab ave factor =  5.10574712644
+26  -> ab minimax node number =  15848 hit number = 13055
+26  -> ab minimax heuristics node number =  12782 hit number =  1974
+26  -> ab ave factor =  5.08708414873
+27  -> ab minimax node number =  15890 hit number = 13079
+27  -> ab minimax heuristics node number =  12806 hit number =  1978
+27  -> ab ave factor =  5.07003891051
+FINAL BOARD
+--
+
+***32
+    A B C D E F G H
+    ---------------
+8 | B B B B B B W B | 8
+7 | W W W W W W W B | 7
+6 | W W W B W W B B | 6
+5 | W W B B W W B B | 5
+4 | W W B W W B B B | 4
+3 | B B B W B B B B | 3
+2 | B B B B W B B B | 2
+1 | B W B B B B B B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 40 / 12.1
+White: 24 / 30.0
+
+- studentAndNumber (black) wins the game! (40-24)
+studentAndNumber (black) vs. random1 (white)
+
+0  -> ab minimax node number =  54 hit number = 41
+0  -> ab minimax heuristics node number =  34 hit number =  10
+0  -> ab ave factor =  2.5
+1  -> ab minimax node number =  151 hit number = 117
+1  -> ab minimax heuristics node number =  101 hit number =  24
+1  -> ab ave factor =  2.84
+2  -> ab minimax node number =  381 hit number = 301
+2  -> ab minimax heuristics node number =  277 hit number =  59
+2  -> ab ave factor =  3.51923076923
+3  -> ab minimax node number =  637 hit number = 511
+3  -> ab minimax heuristics node number =  470 hit number =  111
+3  -> ab ave factor =  3.68263473054
+4  -> ab minimax node number =  906 hit number = 724
+4  -> ab minimax heuristics node number =  675 hit number =  137
+4  -> ab ave factor =  3.79220779221
+5  -> ab minimax node number =  1246 hit number = 1006
+5  -> ab minimax heuristics node number =  943 hit number =  184
+5  -> ab ave factor =  3.98679867987
+6  -> ab minimax node number =  1801 hit number = 1500
+6  -> ab minimax heuristics node number =  1428 hit number =  280
+6  -> ab ave factor =  4.6890080429
+7  -> ab minimax node number =  2230 hit number = 1844
+7  -> ab minimax heuristics node number =  1767 hit number =  310
+7  -> ab ave factor =  4.68250539957
+8  -> ab minimax node number =  2584 hit number = 2110
+8  -> ab minimax heuristics node number =  2016 hit number =  356
+8  -> ab ave factor =  4.42781690141
+9  -> ab minimax node number =  2930 hit number = 2346
+9  -> ab minimax heuristics node number =  2242 hit number =  383
+9  -> ab ave factor =  4.14680232558
+10  -> ab minimax node number =  3374 hit number = 2656
+10  -> ab minimax heuristics node number =  2542 hit number =  424
+10  -> ab ave factor =  3.95192307692
+11  -> ab minimax node number =  4186 hit number = 3356
+11  -> ab minimax heuristics node number =  3234 hit number =  542
+11  -> ab ave factor =  4.29621848739
+12  -> ab minimax node number =  4909 hit number = 3940
+12  -> ab minimax heuristics node number =  3801 hit number =  618
+12  -> ab ave factor =  4.33303249097
+13  -> ab minimax node number =  5393 hit number = 4321
+13  -> ab minimax heuristics node number =  4168 hit number =  682
+13  -> ab ave factor =  4.30693877551
+14  -> ab minimax node number =  5612 hit number = 4467
+14  -> ab minimax heuristics node number =  4302 hit number =  712
+14  -> ab ave factor =  4.19083969466
+15  -> ab minimax node number =  5887 hit number = 4659
+15  -> ab minimax heuristics node number =  4481 hit number =  742
+15  -> ab ave factor =  4.0960170697
+16  -> ab minimax node number =  6245 hit number = 4911
+16  -> ab minimax heuristics node number =  4720 hit number =  772
+16  -> ab ave factor =  4.00655737705
+17  -> ab minimax node number =  6467 hit number = 5056
+17  -> ab minimax heuristics node number =  4858 hit number =  793
+17  -> ab ave factor =  3.93163455562
+18  -> ab minimax node number =  6730 hit number = 5253
+18  -> ab minimax heuristics node number =  5043 hit number =  827
+18  -> ab ave factor =  3.90219324244
+19  -> ab minimax node number =  7056 hit number = 5502
+19  -> ab minimax heuristics node number =  5273 hit number =  886
+19  -> ab ave factor =  3.87044307347
+20  -> ab minimax node number =  7295 hit number = 5670
+20  -> ab minimax heuristics node number =  5424 hit number =  917
+20  -> ab ave factor =  3.81186531267
+21  -> ab minimax node number =  7397 hit number = 5735
+21  -> ab minimax heuristics node number =  5482 hit number =  930
+21  -> ab ave factor =  3.77545691906
+22  -> ab minimax node number =  7461 hit number = 5776
+22  -> ab minimax heuristics node number =  5522 hit number =  932
+22  -> ab ave factor =  3.76018566271
+23  -> ab minimax node number =  7666 hit number = 5916
+23  -> ab minimax heuristics node number =  5655 hit number =  938
+23  -> ab ave factor =  3.72451516658
+24  -> ab minimax node number =  7785 hit number = 5993
+24  -> ab minimax heuristics node number =  5730 hit number =  943
+24  -> ab ave factor =  3.70072992701
+25  -> ab minimax node number =  7864 hit number = 6042
+25  -> ab minimax heuristics node number =  5776 hit number =  947
+25  -> ab ave factor =  3.67863984674
+26  -> ab minimax node number =  7894 hit number = 6057
+26  -> ab minimax heuristics node number =  5790 hit number =  949
+26  -> ab ave factor =  3.66397338403
+27  -> ab minimax node number =  7935 hit number = 6080
+27  -> ab minimax heuristics node number =  5813 hit number =  949
+27  -> ab ave factor =  3.65080113101
+29  -> ab minimax node number =  7941 hit number = 6081
+29  -> ab minimax heuristics node number =  5815 hit number =  950
+29  -> ab ave factor =  3.64705882353
+FINAL BOARD
+--
+
+***31
+    A B C D E F G H
+    ---------------
+8 | B W B B B B B B | 8
+7 | W W W W W W W W | 7
+6 | B B B W B W B W | 6
+5 | B B W B W W B W | 5
+4 | B B B W B W B W | 4
+3 | B B B W W B B W | 3
+2 | B B B B B B B W | 2
+1 | B W B B B B B B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 40 / 22.2
+White: 24 / 30.0
+
+- studentAndNumber (black) wins the game! (40-24)
+studentAndNumber (black) vs. random1 (white)
+
+0  -> ab minimax node number =  52 hit number = 39
+0  -> ab minimax heuristics node number =  32 hit number =  10
+0  -> ab ave factor =  2.4
+1  -> ab minimax node number =  149 hit number = 115
+1  -> ab minimax heuristics node number =  99 hit number =  24
+1  -> ab ave factor =  2.8
+2  -> ab minimax node number =  292 hit number = 231
+2  -> ab minimax heuristics node number =  202 hit number =  53
+2  -> ab ave factor =  3.08888888889
+3  -> ab minimax node number =  446 hit number = 356
+3  -> ab minimax heuristics node number =  314 hit number =  74
+3  -> ab ave factor =  3.22727272727
+4  -> ab minimax node number =  656 hit number = 526
+4  -> ab minimax heuristics node number =  470 hit number =  127
+4  -> ab ave factor =  3.38709677419
+5  -> ab minimax node number =  1207 hit number = 990
+5  -> ab minimax heuristics node number =  921 hit number =  185
+5  -> ab ave factor =  4.09440559441
+6  -> ab minimax node number =  1769 hit number = 1462
+6  -> ab minimax heuristics node number =  1384 hit number =  273
+6  -> ab ave factor =  4.47792207792
+7  -> ab minimax node number =  2320 hit number = 1928
+7  -> ab minimax heuristics node number =  1836 hit number =  367
+7  -> ab ave factor =  4.67768595041
+8  -> ab minimax node number =  2799 hit number = 2336
+8  -> ab minimax heuristics node number =  2234 hit number =  437
+8  -> ab ave factor =  4.8389380531
+9  -> ab minimax node number =  3253 hit number = 2702
+9  -> ab minimax heuristics node number =  2589 hit number =  507
+9  -> ab ave factor =  4.78765060241
+10  -> ab minimax node number =  3727 hit number = 3102
+10  -> ab minimax heuristics node number =  2983 hit number =  565
+10  -> ab ave factor =  4.89919354839
+11  -> ab minimax node number =  4100 hit number = 3406
+11  -> ab minimax heuristics node number =  3279 hit number =  613
+11  -> ab ave factor =  4.88550548112
+12  -> ab minimax node number =  4827 hit number = 4031
+12  -> ab minimax heuristics node number =  3896 hit number =  712
+12  -> ab ave factor =  5.07733619764
+13  -> ab minimax node number =  5467 hit number = 4584
+13  -> ab minimax heuristics node number =  4437 hit number =  796
+13  -> ab ave factor =  5.20194174757
+14  -> ab minimax node number =  6191 hit number = 5193
+14  -> ab minimax heuristics node number =  5041 hit number =  868
+14  -> ab ave factor =  5.28
+15  -> ab minimax node number =  6705 hit number = 5621
+15  -> ab minimax heuristics node number =  5465 hit number =  922
+15  -> ab ave factor =  5.30403225806
+16  -> ab minimax node number =  7261 hit number = 6095
+16  -> ab minimax heuristics node number =  5933 hit number =  988
+16  -> ab ave factor =  5.36295180723
+17  -> ab minimax node number =  7632 hit number = 6401
+17  -> ab minimax heuristics node number =  6234 hit number =  1015
+17  -> ab ave factor =  5.35264663805
+18  -> ab minimax node number =  7834 hit number = 6557
+18  -> ab minimax heuristics node number =  6386 hit number =  1022
+18  -> ab ave factor =  5.30386740331
+19  -> ab minimax node number =  8037 hit number = 6699
+19  -> ab minimax heuristics node number =  6524 hit number =  1046
+19  -> ab ave factor =  5.20687376074
+20  -> ab minimax node number =  8165 hit number = 6782
+20  -> ab minimax heuristics node number =  6604 hit number =  1059
+20  -> ab ave factor =  5.12620115311
+21  -> ab minimax node number =  8643 hit number = 7170
+21  -> ab minimax heuristics node number =  6992 hit number =  1130
+21  -> ab ave factor =  5.13082980012
+22  -> ab minimax node number =  9166 hit number = 7594
+22  -> ab minimax heuristics node number =  7415 hit number =  1175
+22  -> ab ave factor =  5.13078241005
+23  -> ab minimax node number =  9582 hit number = 7929
+23  -> ab minimax heuristics node number =  7750 hit number =  1220
+23  -> ab ave factor =  5.12609170306
+24  -> ab minimax node number =  9782 hit number = 8076
+24  -> ab minimax heuristics node number =  7894 hit number =  1234
+24  -> ab ave factor =  5.07574152542
+25  -> ab minimax node number =  9939 hit number = 8191
+25  -> ab minimax heuristics node number =  8009 hit number =  1255
+25  -> ab ave factor =  5.04352331606
+26  -> ab minimax node number =  10047 hit number = 8266
+26  -> ab minimax heuristics node number =  8082 hit number =  1269
+26  -> ab ave factor =  5.00610687023
+27  -> ab minimax node number =  10085 hit number = 8292
+27  -> ab minimax heuristics node number =  8108 hit number =  1271
+27  -> ab ave factor =  4.99291856348
+28  -> ab minimax node number =  10097 hit number = 8298
+28  -> ab minimax heuristics node number =  8114 hit number =  1271
+28  -> ab ave factor =  4.98234997479
+29  -> ab minimax node number =  10103 hit number = 8302
+29  -> ab minimax heuristics node number =  8116 hit number =  1272
+29  -> ab ave factor =  4.97833753149
+FINAL BOARD
+--
+
+***32
+    A B C D E F G H
+    ---------------
+8 | B B B B B B B B | 8
+7 | B B B B W B B W | 7
+6 | B B B W B W B W | 6
+5 | B W W B B B W W | 5
+4 | B W B B B B B W | 4
+3 | B B B B B B B W | 3
+2 | B B B B B B B W | 2
+1 | B B B B B B B B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 51 / 18.2
+White: 13 / 30.0
+
+- studentAndNumber (black) wins the game! (51-13)
+studentAndNumber (black) vs. random1 (white)
+
+0  -> ab minimax node number =  52 hit number = 39
+0  -> ab minimax heuristics node number =  32 hit number =  10
+0  -> ab ave factor =  2.4
+1  -> ab minimax node number =  152 hit number = 120
+1  -> ab minimax heuristics node number =  107 hit number =  20
+1  -> ab ave factor =  3.17777777778
+2  -> ab minimax node number =  257 hit number = 204
+2  -> ab minimax heuristics node number =  188 hit number =  28
+2  -> ab ave factor =  3.50724637681
+3  -> ab minimax node number =  483 hit number = 390
+3  -> ab minimax heuristics node number =  366 hit number =  55
+3  -> ab ave factor =  3.94871794872
+4  -> ab minimax node number =  903 hit number = 750
+4  -> ab minimax heuristics node number =  716 hit number =  119
+4  -> ab ave factor =  4.66310160428
+5  -> ab minimax node number =  1481 hit number = 1226
+5  -> ab minimax heuristics node number =  1184 hit number =  189
+5  -> ab ave factor =  4.84848484848
+6  -> ab minimax node number =  1804 hit number = 1497
+6  -> ab minimax heuristics node number =  1444 hit number =  240
+6  -> ab ave factor =  4.87777777778
+7  -> ab minimax node number =  2118 hit number = 1747
+7  -> ab minimax heuristics node number =  1686 hit number =  280
+7  -> ab ave factor =  4.77083333333
+8  -> ab minimax node number =  2458 hit number = 2035
+8  -> ab minimax heuristics node number =  1963 hit number =  327
+8  -> ab ave factor =  4.83636363636
+9  -> ab minimax node number =  2826 hit number = 2341
+9  -> ab minimax heuristics node number =  2261 hit number =  370
+9  -> ab ave factor =  4.87610619469
+10  -> ab minimax node number =  3258 hit number = 2688
+10  -> ab minimax heuristics node number =  2603 hit number =  396
+10  -> ab ave factor =  4.85038167939
+11  -> ab minimax node number =  3783 hit number = 3093
+11  -> ab minimax heuristics node number =  2998 hit number =  450
+11  -> ab ave factor =  4.70318471338
+12  -> ab minimax node number =  4401 hit number = 3598
+12  -> ab minimax heuristics node number =  3496 hit number =  501
+12  -> ab ave factor =  4.75138121547
+13  -> ab minimax node number =  5003 hit number = 4067
+13  -> ab minimax heuristics node number =  3958 hit number =  556
+13  -> ab ave factor =  4.68133971292
+14  -> ab minimax node number =  5371 hit number = 4354
+14  -> ab minimax heuristics node number =  4235 hit number =  602
+14  -> ab ave factor =  4.62411971831
+15  -> ab minimax node number =  5979 hit number = 4851
+15  -> ab minimax heuristics node number =  4726 hit number =  641
+15  -> ab ave factor =  4.67039106145
+16  -> ab minimax node number =  6502 hit number = 5278
+16  -> ab minimax heuristics node number =  5145 hit number =  691
+16  -> ab ave factor =  4.69196757553
+17  -> ab minimax node number =  7260 hit number = 5897
+17  -> ab minimax heuristics node number =  5759 hit number =  774
+17  -> ab ave factor =  4.74083944037
+18  -> ab minimax node number =  8022 hit number = 6511
+18  -> ab minimax heuristics node number =  6368 hit number =  877
+18  -> ab ave factor =  4.75755743652
+19  -> ab minimax node number =  8361 hit number = 6758
+19  -> ab minimax heuristics node number =  6611 hit number =  908
+19  -> ab ave factor =  4.68685714286
+20  -> ab minimax node number =  8680 hit number = 6995
+20  -> ab minimax heuristics node number =  6846 hit number =  948
+20  -> ab ave factor =  4.64231188659
+21  -> ab minimax node number =  9023 hit number = 7256
+21  -> ab minimax heuristics node number =  7105 hit number =  983
+21  -> ab ave factor =  4.614181439
+22  -> ab minimax node number =  9299 hit number = 7466
+22  -> ab minimax heuristics node number =  7309 hit number =  1002
+22  -> ab ave factor =  4.58190954774
+23  -> ab minimax node number =  9445 hit number = 7568
+23  -> ab minimax heuristics node number =  7410 hit number =  1010
+23  -> ab ave factor =  4.54987714988
+24  -> ab minimax node number =  9675 hit number = 7740
+24  -> ab minimax heuristics node number =  7580 hit number =  1032
+24  -> ab ave factor =  4.52649164678
+25  -> ab minimax node number =  9932 hit number = 7936
+25  -> ab minimax heuristics node number =  7774 hit number =  1047
+25  -> ab ave factor =  4.51019462465
+26  -> ab minimax node number =  10100 hit number = 8059
+26  -> ab minimax heuristics node number =  7894 hit number =  1063
+26  -> ab ave factor =  4.48549410698
+27  -> ab minimax node number =  10152 hit number = 8088
+27  -> ab minimax heuristics node number =  7922 hit number =  1067
+27  -> ab ave factor =  4.45874439462
+28  -> ab minimax node number =  10162 hit number = 8092
+28  -> ab minimax heuristics node number =  7926 hit number =  1067
+28  -> ab ave factor =  4.45035778175
+29  -> ab minimax node number =  10168 hit number = 8096
+29  -> ab minimax heuristics node number =  7928 hit number =  1067
+29  -> ab ave factor =  4.44881537774
+FINAL BOARD
+--
+
+***31
+    A B C D E F G H
+    ---------------
+8 | B B B B B B B B | 8
+7 | B B B W B W W W | 7
+6 | B B B B W W W W | 6
+5 | B B B B W B W W | 5
+4 | B B B B B B B W | 4
+3 | B B B W B B W W | 3
+2 | W B W B W W W W | 2
+1 | B W B B B B B B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 42 / 18.3
+White: 22 / 30.0
+
+- studentAndNumber (black) wins the game! (42-22)
+studentAndNumber (black) vs. random1 (white)
+
+0  -> ab minimax node number =  52 hit number = 39
+0  -> ab minimax heuristics node number =  32 hit number =  10
+0  -> ab ave factor =  2.4
+1  -> ab minimax node number =  121 hit number = 88
+1  -> ab minimax heuristics node number =  77 hit number =  15
+1  -> ab ave factor =  2.56818181818
+2  -> ab minimax node number =  383 hit number = 297
+2  -> ab minimax heuristics node number =  267 hit number =  65
+2  -> ab ave factor =  3.16379310345
+3  -> ab minimax node number =  558 hit number = 439
+3  -> ab minimax heuristics node number =  402 hit number =  89
+3  -> ab ave factor =  3.44230769231
+4  -> ab minimax node number =  700 hit number = 550
+4  -> ab minimax heuristics node number =  509 hit number =  96
+4  -> ab ave factor =  3.51832460733
+5  -> ab minimax node number =  771 hit number = 604
+5  -> ab minimax heuristics node number =  560 hit number =  102
+5  -> ab ave factor =  3.49763033175
+6  -> ab minimax node number =  1073 hit number = 844
+6  -> ab minimax heuristics node number =  790 hit number =  134
+6  -> ab ave factor =  3.64310954064
+7  -> ab minimax node number =  1219 hit number = 960
+7  -> ab minimax heuristics node number =  901 hit number =  146
+7  -> ab ave factor =  3.67924528302
+8  -> ab minimax node number =  1381 hit number = 1085
+8  -> ab minimax heuristics node number =  1021 hit number =  156
+8  -> ab ave factor =  3.68333333333
+9  -> ab minimax node number =  1553 hit number = 1222
+9  -> ab minimax heuristics node number =  1151 hit number =  174
+9  -> ab ave factor =  3.70895522388
+10  -> ab minimax node number =  1791 hit number = 1415
+10  -> ab minimax heuristics node number =  1333 hit number =  204
+10  -> ab ave factor =  3.75982532751
+11  -> ab minimax node number =  2164 hit number = 1722
+11  -> ab minimax heuristics node number =  1626 hit number =  257
+11  -> ab ave factor =  3.87918215613
+12  -> ab minimax node number =  2538 hit number = 2032
+12  -> ab minimax heuristics node number =  1920 hit number =  316
+12  -> ab ave factor =  3.96925566343
+13  -> ab minimax node number =  2999 hit number = 2421
+13  -> ab minimax heuristics node number =  2304 hit number =  372
+13  -> ab ave factor =  4.18273381295
+14  -> ab minimax node number =  3322 hit number = 2668
+14  -> ab minimax heuristics node number =  2547 hit number =  407
+14  -> ab ave factor =  4.15741935484
+15  -> ab minimax node number =  3940 hit number = 3158
+15  -> ab minimax heuristics node number =  3022 hit number =  485
+15  -> ab ave factor =  4.17102396514
+16  -> ab minimax node number =  4397 hit number = 3527
+16  -> ab minimax heuristics node number =  3379 hit number =  534
+16  -> ab ave factor =  4.20039292731
+17  -> ab minimax node number =  4745 hit number = 3808
+17  -> ab minimax heuristics node number =  3657 hit number =  545
+17  -> ab ave factor =  4.24356617647
+18  -> ab minimax node number =  5389 hit number = 4352
+18  -> ab minimax heuristics node number =  4191 hit number =  644
+18  -> ab ave factor =  4.38313856427
+19  -> ab minimax node number =  5888 hit number = 4776
+19  -> ab minimax heuristics node number =  4610 hit number =  688
+19  -> ab ave factor =  4.49139280125
+20  -> ab minimax node number =  6173 hit number = 5001
+20  -> ab minimax heuristics node number =  4832 hit number =  705
+20  -> ab ave factor =  4.48769574944
+21  -> ab minimax node number =  6357 hit number = 5133
+21  -> ab minimax heuristics node number =  4962 hit number =  712
+21  -> ab ave factor =  4.44157706093
+22  -> ab minimax node number =  6626 hit number = 5341
+22  -> ab minimax heuristics node number =  5168 hit number =  742
+22  -> ab ave factor =  4.42935528121
+23  -> ab minimax node number =  6937 hit number = 5583
+23  -> ab minimax heuristics node number =  5407 hit number =  767
+23  -> ab ave factor =  4.41895424837
+24  -> ab minimax node number =  7177 hit number = 5763
+24  -> ab minimax heuristics node number =  5583 hit number =  781
+24  -> ab ave factor =  4.38707653701
+25  -> ab minimax node number =  7318 hit number = 5858
+25  -> ab minimax heuristics node number =  5676 hit number =  784
+25  -> ab ave factor =  4.34104750305
+26  -> ab minimax node number =  7421 hit number = 5931
+26  -> ab minimax heuristics node number =  5749 hit number =  788
+26  -> ab ave factor =  4.3211722488
+27  -> ab minimax node number =  7490 hit number = 5981
+27  -> ab minimax heuristics node number =  5798 hit number =  796
+27  -> ab ave factor =  4.30791962175
+28  -> ab minimax node number =  7519 hit number = 5998
+28  -> ab minimax heuristics node number =  5815 hit number =  800
+28  -> ab ave factor =  4.29225352113
+29  -> ab minimax node number =  7525 hit number = 5999
+29  -> ab minimax heuristics node number =  5817 hit number =  800
+29  -> ab ave factor =  4.28454332553
+FINAL BOARD
+--
+
+***31
+    A B C D E F G H
+    ---------------
+8 | B B B B B B B B | 8
+7 | W W W W W B B B | 7
+6 | B W W W B W B B | 6
+5 | B W W B W W B B | 5
+4 | B W B B W W B B | 4
+3 | B W B W B W W W | 3
+2 | B W W W W W W W | 2
+1 | B W B B B B B B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 35 / 21.0
+White: 29 / 30.0
+
+- studentAndNumber (black) wins the game! (35-29)
+studentAndNumber (black) vs. random1 (white)
+
+0  -> ab minimax node number =  52 hit number = 39
+0  -> ab minimax heuristics node number =  32 hit number =  10
+0  -> ab ave factor =  2.4
+1  -> ab minimax node number =  152 hit number = 120
+1  -> ab minimax heuristics node number =  107 hit number =  20
+1  -> ab ave factor =  3.17777777778
+2  -> ab minimax node number =  240 hit number = 187
+2  -> ab minimax heuristics node number =  167 hit number =  29
+2  -> ab ave factor =  3.1095890411
+3  -> ab minimax node number =  363 hit number = 287
+3  -> ab minimax heuristics node number =  254 hit number =  55
+3  -> ab ave factor =  3.17431192661
+4  -> ab minimax node number =  661 hit number = 515
+4  -> ab minimax heuristics node number =  468 hit number =  80
+4  -> ab ave factor =  3.30051813472
+5  -> ab minimax node number =  1137 hit number = 919
+5  -> ab minimax heuristics node number =  863 hit number =  128
+5  -> ab ave factor =  4.02919708029
+6  -> ab minimax node number =  1580 hit number = 1289
+6  -> ab minimax heuristics node number =  1225 hit number =  161
+6  -> ab ave factor =  4.3323943662
+7  -> ab minimax node number =  2347 hit number = 1916
+7  -> ab minimax heuristics node number =  1838 hit number =  250
+7  -> ab ave factor =  4.5068762279
+8  -> ab minimax node number =  3223 hit number = 2613
+8  -> ab minimax heuristics node number =  2522 hit number =  341
+8  -> ab ave factor =  4.50499286733
+9  -> ab minimax node number =  3862 hit number = 3071
+9  -> ab minimax heuristics node number =  2972 hit number =  397
+9  -> ab ave factor =  4.25617977528
+10  -> ab minimax node number =  4456 hit number = 3501
+10  -> ab minimax heuristics node number =  3395 hit number =  438
+10  -> ab ave factor =  4.12158341188
+11  -> ab minimax node number =  4921 hit number = 3851
+11  -> ab minimax heuristics node number =  3740 hit number =  469
+11  -> ab ave factor =  4.08975444539
+12  -> ab minimax node number =  5913 hit number = 4646
+12  -> ab minimax heuristics node number =  4522 hit number =  593
+12  -> ab ave factor =  4.17541337168
+13  -> ab minimax node number =  6788 hit number = 5376
+13  -> ab minimax heuristics node number =  5241 hit number =  707
+13  -> ab ave factor =  4.31157078216
+14  -> ab minimax node number =  7232 hit number = 5697
+14  -> ab minimax heuristics node number =  5555 hit number =  746
+14  -> ab ave factor =  4.23613595707
+15  -> ab minimax node number =  7525 hit number = 5889
+15  -> ab minimax heuristics node number =  5744 hit number =  751
+15  -> ab ave factor =  4.14879281303
+16  -> ab minimax node number =  7995 hit number = 6259
+16  -> ab minimax heuristics node number =  6110 hit number =  773
+16  -> ab ave factor =  4.1649867374
+17  -> ab minimax node number =  8512 hit number = 6700
+17  -> ab minimax heuristics node number =  6547 hit number =  804
+17  -> ab ave factor =  4.2534351145
+18  -> ab minimax node number =  8833 hit number = 6942
+18  -> ab minimax heuristics node number =  6784 hit number =  816
+18  -> ab ave factor =  4.23230844314
+19  -> ab minimax node number =  9155 hit number = 7190
+19  -> ab minimax heuristics node number =  7029 hit number =  841
+19  -> ab ave factor =  4.22718720602
+20  -> ab minimax node number =  9558 hit number = 7496
+20  -> ab minimax heuristics node number =  7327 hit number =  889
+20  -> ab ave factor =  4.20573733752
+21  -> ab minimax node number =  9712 hit number = 7601
+21  -> ab minimax heuristics node number =  7429 hit number =  903
+21  -> ab ave factor =  4.17564607972
+22  -> ab minimax node number =  9933 hit number = 7759
+22  -> ab minimax heuristics node number =  7584 hit number =  921
+22  -> ab ave factor =  4.14985100043
+23  -> ab minimax node number =  10100 hit number = 7883
+23  -> ab minimax heuristics node number =  7706 hit number =  933
+23  -> ab ave factor =  4.1395154553
+24  -> ab minimax node number =  10335 hit number = 8063
+24  -> ab minimax heuristics node number =  7881 hit number =  950
+24  -> ab ave factor =  4.13162184189
+25  -> ab minimax node number =  10436 hit number = 8131
+25  -> ab minimax heuristics node number =  7946 hit number =  956
+25  -> ab ave factor =  4.11084337349
+26  -> ab minimax node number =  10458 hit number = 8142
+26  -> ab minimax heuristics node number =  7956 hit number =  957
+26  -> ab ave factor =  4.09912070344
+27  -> ab minimax node number =  10491 hit number = 8163
+27  -> ab minimax heuristics node number =  7974 hit number =  960
+27  -> ab ave factor =  4.08661104489
+28  -> ab minimax node number =  10509 hit number = 8171
+28  -> ab minimax heuristics node number =  7982 hit number =  960
+28  -> ab ave factor =  4.07677087455
+29  -> ab minimax node number =  10515 hit number = 8175
+29  -> ab minimax heuristics node number =  7984 hit number =  961
+29  -> ab ave factor =  4.07433768288
+FINAL BOARD
+--
+
+***31
+    A B C D E F G H
+    ---------------
+8 | B W W W W W W B | 8
+7 | W W W B B W W B | 7
+6 | W B W B W B B B | 6
+5 | W B W W W B B B | 5
+4 | W B W W B B W B | 4
+3 | W W B B B B B B | 3
+2 | W B B B B B B B | 2
+1 | B B W B B B B B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 38 / 18.5
+White: 26 / 30.0
+
+- studentAndNumber (black) wins the game! (38-26)
+studentAndNumber (black) vs. random1 (white)
+
+0  -> ab minimax node number =  52 hit number = 39
+0  -> ab minimax heuristics node number =  32 hit number =  10
+0  -> ab ave factor =  2.4
+1  -> ab minimax node number =  149 hit number = 115
+1  -> ab minimax heuristics node number =  99 hit number =  24
+1  -> ab ave factor =  2.8
+2  -> ab minimax node number =  262 hit number = 207
+2  -> ab minimax heuristics node number =  182 hit number =  44
+2  -> ab ave factor =  3.1
+3  -> ab minimax node number =  369 hit number = 292
+3  -> ab minimax heuristics node number =  259 hit number =  57
+3  -> ab ave factor =  3.17272727273
+4  -> ab minimax node number =  590 hit number = 469
+4  -> ab minimax heuristics node number =  426 hit number =  83
+4  -> ab ave factor =  3.43902439024
+5  -> ab minimax node number =  968 hit number = 779
+5  -> ab minimax heuristics node number =  723 hit number =  120
+5  -> ab ave factor =  3.80816326531
+6  -> ab minimax node number =  1407 hit number = 1131
+6  -> ab minimax heuristics node number =  1066 hit number =  162
+6  -> ab ave factor =  4.0
+7  -> ab minimax node number =  1779 hit number = 1448
+7  -> ab minimax heuristics node number =  1372 hit number =  207
+7  -> ab ave factor =  4.25061425061
+8  -> ab minimax node number =  2561 hit number = 2097
+8  -> ab minimax heuristics node number =  2000 hit number =  326
+8  -> ab ave factor =  4.45811051693
+9  -> ab minimax node number =  3522 hit number = 2918
+9  -> ab minimax heuristics node number =  2807 hit number =  442
+9  -> ab ave factor =  4.82657342657
+10  -> ab minimax node number =  4502 hit number = 3770
+10  -> ab minimax heuristics node number =  3644 hit number =  584
+10  -> ab ave factor =  5.15151515152
+11  -> ab minimax node number =  5579 hit number = 4703
+11  -> ab minimax heuristics node number =  4556 hit number =  711
+11  -> ab ave factor =  5.36265884653
+12  -> ab minimax node number =  6354 hit number = 5360
+12  -> ab minimax heuristics node number =  5201 hit number =  809
+12  -> ab ave factor =  5.42150910668
+13  -> ab minimax node number =  6885 hit number = 5808
+13  -> ab minimax heuristics node number =  5644 hit number =  889
+13  -> ab ave factor =  5.45608380338
+14  -> ab minimax node number =  7810 hit number = 6600
+14  -> ab minimax heuristics node number =  6426 hit number =  1000
+14  -> ab ave factor =  5.55130057803
+15  -> ab minimax node number =  8292 hit number = 6979
+15  -> ab minimax heuristics node number =  6800 hit number =  1066
+15  -> ab ave factor =  5.46648793566
+16  -> ab minimax node number =  8839 hit number = 7411
+16  -> ab minimax heuristics node number =  7230 hit number =  1140
+16  -> ab ave factor =  5.40335612181
+17  -> ab minimax node number =  9398 hit number = 7874
+17  -> ab minimax heuristics node number =  7690 hit number =  1205
+17  -> ab ave factor =  5.41217798595
+18  -> ab minimax node number =  9800 hit number = 8192
+18  -> ab minimax heuristics node number =  8004 hit number =  1243
+18  -> ab ave factor =  5.36636971047
+19  -> ab minimax node number =  10539 hit number = 8818
+19  -> ab minimax heuristics node number =  8622 hit number =  1326
+19  -> ab ave factor =  5.40740740741
+20  -> ab minimax node number =  11054 hit number = 9246
+20  -> ab minimax heuristics node number =  9047 hit number =  1369
+20  -> ab ave factor =  5.41704035874
+21  -> ab minimax node number =  11492 hit number = 9598
+21  -> ab minimax heuristics node number =  9397 hit number =  1412
+21  -> ab ave factor =  5.39474940334
+22  -> ab minimax node number =  11871 hit number = 9904
+22  -> ab minimax heuristics node number =  9699 hit number =  1450
+22  -> ab ave factor =  5.37476979742
+23  -> ab minimax node number =  12122 hit number = 10094
+23  -> ab minimax heuristics node number =  9884 hit number =  1476
+23  -> ab ave factor =  5.32573726542
+24  -> ab minimax node number =  12336 hit number = 10254
+24  -> ab minimax heuristics node number =  10038 hit number =  1494
+24  -> ab ave factor =  5.2771975631
+25  -> ab minimax node number =  12463 hit number = 10347
+25  -> ab minimax heuristics node number =  10130 hit number =  1500
+25  -> ab ave factor =  5.2503214745
+26  -> ab minimax node number =  12564 hit number = 10414
+26  -> ab minimax heuristics node number =  10196 hit number =  1505
+26  -> ab ave factor =  5.21326013514
+27  -> ab minimax node number =  12633 hit number = 10460
+27  -> ab minimax heuristics node number =  10241 hit number =  1508
+27  -> ab ave factor =  5.1881270903
+28  -> ab minimax node number =  12679 hit number = 10491
+28  -> ab minimax heuristics node number =  10271 hit number =  1508
+28  -> ab ave factor =  5.17109634551
+29  -> ab minimax node number =  12685 hit number = 10493
+29  -> ab minimax heuristics node number =  10273 hit number =  1508
+29  -> ab ave factor =  5.16417910448
+FINAL BOARD
+--
+
+***31
+    A B C D E F G H
+    ---------------
+8 | B B B B B B B B | 8
+7 | B B B B W B B B | 7
+6 | B B B B W W B B | 6
+5 | B B B B B B W B | 5
+4 | B B B W W B W B | 4
+3 | B W W B W B B B | 3
+2 | W W W B B B B B | 2
+1 | B W W W W W W B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 45 / 15.7
+White: 19 / 30.0
+
+- studentAndNumber (black) wins the game! (45-19)
+studentAndNumber (black) vs. random1 (white)
+
+0  -> ab minimax node number =  52 hit number = 39
+0  -> ab minimax heuristics node number =  32 hit number =  10
+0  -> ab ave factor =  2.4
+1  -> ab minimax node number =  149 hit number = 115
+1  -> ab minimax heuristics node number =  99 hit number =  24
+1  -> ab ave factor =  2.8
+2  -> ab minimax node number =  292 hit number = 231
+2  -> ab minimax heuristics node number =  202 hit number =  53
+2  -> ab ave factor =  3.08888888889
+3  -> ab minimax node number =  656 hit number = 518
+3  -> ab minimax heuristics node number =  467 hit number =  124
+3  -> ab ave factor =  3.34920634921
+4  -> ab minimax node number =  828 hit number = 643
+4  -> ab minimax heuristics node number =  574 hit number =  157
+4  -> ab ave factor =  3.14960629921
+5  -> ab minimax node number =  937 hit number = 721
+5  -> ab minimax heuristics node number =  641 hit number =  179
+5  -> ab ave factor =  3.06081081081
+6  -> ab minimax node number =  1031 hit number = 787
+6  -> ab minimax heuristics node number =  699 hit number =  193
+6  -> ab ave factor =  3.00301204819
+7  -> ab minimax node number =  1153 hit number = 873
+7  -> ab minimax heuristics node number =  782 hit number =  206
+7  -> ab ave factor =  3.00808625337
+8  -> ab minimax node number =  1380 hit number = 1043
+8  -> ab minimax heuristics node number =  939 hit number =  241
+8  -> ab ave factor =  3.03401360544
+9  -> ab minimax node number =  1752 hit number = 1344
+9  -> ab minimax heuristics node number =  1231 hit number =  299
+9  -> ab ave factor =  3.26679462572
+10  -> ab minimax node number =  1849 hit number = 1415
+10  -> ab minimax heuristics node number =  1298 hit number =  302
+10  -> ab ave factor =  3.25952813067
+11  -> ab minimax node number =  2023 hit number = 1549
+11  -> ab minimax heuristics node number =  1427 hit number =  326
+11  -> ab ave factor =  3.29697986577
+12  -> ab minimax node number =  2258 hit number = 1729
+12  -> ab minimax heuristics node number =  1602 hit number =  351
+12  -> ab ave factor =  3.34451219512
+13  -> ab minimax node number =  2789 hit number = 2166
+13  -> ab minimax heuristics node number =  2033 hit number =  394
+13  -> ab ave factor =  3.59126984127
+14  -> ab minimax node number =  3645 hit number = 2879
+14  -> ab minimax heuristics node number =  2735 hit number =  490
+14  -> ab ave factor =  3.90879120879
+15  -> ab minimax node number =  4394 hit number = 3514
+15  -> ab minimax heuristics node number =  3363 hit number =  589
+15  -> ab ave factor =  4.16585838991
+16  -> ab minimax node number =  4834 hit number = 3853
+16  -> ab minimax heuristics node number =  3695 hit number =  628
+16  -> ab ave factor =  4.14925373134
+17  -> ab minimax node number =  5239 hit number = 4158
+17  -> ab minimax heuristics node number =  3996 hit number =  664
+17  -> ab ave factor =  4.12148028962
+18  -> ab minimax node number =  5689 hit number = 4502
+18  -> ab minimax heuristics node number =  4336 hit number =  736
+18  -> ab ave factor =  4.11160384331
+19  -> ab minimax node number =  6321 hit number = 5007
+19  -> ab minimax heuristics node number =  4836 hit number =  826
+19  -> ab ave factor =  4.16363636364
+20  -> ab minimax node number =  6982 hit number = 5572
+20  -> ab minimax heuristics node number =  5397 hit number =  888
+20  -> ab ave factor =  4.31167192429
+21  -> ab minimax node number =  7534 hit number = 6019
+21  -> ab minimax heuristics node number =  5839 hit number =  945
+21  -> ab ave factor =  4.35162241888
+22  -> ab minimax node number =  7902 hit number = 6299
+22  -> ab minimax heuristics node number =  6119 hit number =  983
+22  -> ab ave factor =  4.33875490746
+23  -> ab minimax node number =  8224 hit number = 6550
+23  -> ab minimax heuristics node number =  6369 hit number =  1005
+23  -> ab ave factor =  4.33962264151
+24  -> ab minimax node number =  8517 hit number = 6783
+24  -> ab minimax heuristics node number =  6599 hit number =  1025
+24  -> ab ave factor =  4.34619395203
+25  -> ab minimax node number =  9011 hit number = 7192
+25  -> ab minimax heuristics node number =  7003 hit number =  1084
+25  -> ab ave factor =  4.39243027888
+26  -> ab minimax node number =  9289 hit number = 7410
+26  -> ab minimax heuristics node number =  7217 hit number =  1108
+26  -> ab ave factor =  4.38706563707
+27  -> ab minimax node number =  9367 hit number = 7465
+27  -> ab minimax heuristics node number =  7270 hit number =  1115
+27  -> ab ave factor =  4.36957558417
+28  -> ab minimax node number =  9426 hit number = 7505
+28  -> ab minimax heuristics node number =  7309 hit number =  1121
+28  -> ab ave factor =  4.35427491734
+29  -> ab minimax node number =  9436 hit number = 7510
+29  -> ab minimax heuristics node number =  7313 hit number =  1121
+29  -> ab ave factor =  4.34573716439
+FINAL BOARD
+--
+
+***31
+    A B C D E F G H
+    ---------------
+8 | B B B B B B B B | 8
+7 | B W W B B B B W | 7
+6 | B W W W B B W W | 6
+5 | B W W W B B W W | 5
+4 | B W W W W W W W | 4
+3 | B B W B B W W W | 3
+2 | B B B W W W W W | 2
+1 | B B B B B B B B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 35 / 18.2
+White: 29 / 30.0
+
+- studentAndNumber (black) wins the game! (35-29)
+studentAndNumber (black) vs. random1 (white)
+
+0  -> ab minimax node number =  52 hit number = 39
+0  -> ab minimax heuristics node number =  32 hit number =  10
+0  -> ab ave factor =  2.4
+1  -> ab minimax node number =  149 hit number = 115
+1  -> ab minimax heuristics node number =  99 hit number =  24
+1  -> ab ave factor =  2.8
+2  -> ab minimax node number =  262 hit number = 207
+2  -> ab minimax heuristics node number =  182 hit number =  44
+2  -> ab ave factor =  3.1
+3  -> ab minimax node number =  466 hit number = 375
+3  -> ab minimax heuristics node number =  344 hit number =  73
+3  -> ab ave factor =  3.65573770492
+4  -> ab minimax node number =  889 hit number = 724
+4  -> ab minimax heuristics node number =  677 hit number =  141
+4  -> ab ave factor =  4.05188679245
+5  -> ab minimax node number =  1024 hit number = 827
+5  -> ab minimax heuristics node number =  770 hit number =  160
+5  -> ab ave factor =  3.88976377953
+6  -> ab minimax node number =  1244 hit number = 1000
+6  -> ab minimax heuristics node number =  934 hit number =  194
+6  -> ab ave factor =  3.87419354839
+7  -> ab minimax node number =  1518 hit number = 1219
+7  -> ab minimax heuristics node number =  1145 hit number =  225
+7  -> ab ave factor =  3.93565683646
+8  -> ab minimax node number =  1975 hit number = 1598
+8  -> ab minimax heuristics node number =  1514 hit number =  264
+8  -> ab ave factor =  4.15835140998
+9  -> ab minimax node number =  2735 hit number = 2257
+9  -> ab minimax heuristics node number =  2166 hit number =  343
+9  -> ab ave factor =  4.68365553603
+10  -> ab minimax node number =  4011 hit number = 3401
+10  -> ab minimax heuristics node number =  3298 hit number =  475
+10  -> ab ave factor =  5.5049088359
+11  -> ab minimax node number =  4907 hit number = 4207
+11  -> ab minimax heuristics node number =  4096 hit number =  535
+11  -> ab ave factor =  5.92725030826
+12  -> ab minimax node number =  5765 hit number = 4943
+12  -> ab minimax heuristics node number =  4824 hit number =  594
+12  -> ab ave factor =  6.00637619554
+13  -> ab minimax node number =  6617 hit number = 5660
+13  -> ab minimax heuristics node number =  5536 hit number =  659
+13  -> ab ave factor =  6.00370027752
+14  -> ab minimax node number =  7207 hit number = 6168
+14  -> ab minimax heuristics node number =  6042 hit number =  690
+14  -> ab ave factor =  6.0652360515
+15  -> ab minimax node number =  7691 hit number = 6557
+15  -> ab minimax heuristics node number =  6426 hit number =  725
+15  -> ab ave factor =  5.9604743083
+16  -> ab minimax node number =  8326 hit number = 7097
+16  -> ab minimax heuristics node number =  6965 hit number =  771
+16  -> ab ave factor =  5.99779573843
+17  -> ab minimax node number =  8795 hit number = 7484
+17  -> ab minimax heuristics node number =  7350 hit number =  803
+17  -> ab ave factor =  5.96539792388
+18  -> ab minimax node number =  9029 hit number = 7662
+18  -> ab minimax heuristics node number =  7521 hit number =  808
+18  -> ab ave factor =  5.86538461538
+19  -> ab minimax node number =  9354 hit number = 7937
+19  -> ab minimax heuristics node number =  7796 hit number =  816
+19  -> ab ave factor =  5.87933247754
+20  -> ab minimax node number =  9426 hit number = 7974
+20  -> ab minimax heuristics node number =  7832 hit number =  816
+20  -> ab ave factor =  5.78983688833
+21  -> ab minimax node number =  9645 hit number = 8135
+21  -> ab minimax heuristics node number =  7991 hit number =  835
+21  -> ab ave factor =  5.70858524788
+22  -> ab minimax node number =  9874 hit number = 8315
+22  -> ab minimax heuristics node number =  8172 hit number =  852
+22  -> ab ave factor =  5.67743830787
+23  -> ab minimax node number =  10248 hit number = 8604
+23  -> ab minimax heuristics node number =  8456 hit number =  879
+23  -> ab ave factor =  5.59542410714
+24  -> ab minimax node number =  10621 hit number = 8911
+24  -> ab minimax heuristics node number =  8759 hit number =  911
+24  -> ab ave factor =  5.58002148228
+25  -> ab minimax node number =  10901 hit number = 9129
+25  -> ab minimax heuristics node number =  8975 hit number =  932
+25  -> ab ave factor =  5.53582554517
+26  -> ab minimax node number =  11005 hit number = 9199
+26  -> ab minimax heuristics node number =  9044 hit number =  935
+26  -> ab ave factor =  5.4875063743
+27  -> ab minimax node number =  11045 hit number = 9221
+27  -> ab minimax heuristics node number =  9066 hit number =  936
+27  -> ab ave factor =  5.45629105609
+28  -> ab minimax node number =  11070 hit number = 9234
+28  -> ab minimax heuristics node number =  9079 hit number =  936
+28  -> ab ave factor =  5.43445504771
+29  -> ab minimax node number =  11076 hit number = 9238
+29  -> ab minimax heuristics node number =  9081 hit number =  937
+29  -> ab ave factor =  5.43000501756
+FINAL BOARD
+--
+
+***32
+    A B C D E F G H
+    ---------------
+8 | B B B B B B B B | 8
+7 | W W W W W W B B | 7
+6 | W W W W W B B B | 6
+5 | W B W W B W B B | 5
+4 | W B W B W B B B | 4
+3 | W W B W B B B B | 3
+2 | W W W W W B B B | 2
+1 | B W B B B B B B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 37 / 17.2
+White: 27 / 30.0
+
+- studentAndNumber (black) wins the game! (37-27)
+studentAndNumber (black) vs. random1 (white)
+
+0  -> ab minimax node number =  52 hit number = 39
+0  -> ab minimax heuristics node number =  32 hit number =  10
+0  -> ab ave factor =  2.4
+1  -> ab minimax node number =  149 hit number = 115
+1  -> ab minimax heuristics node number =  99 hit number =  24
+1  -> ab ave factor =  2.8
+2  -> ab minimax node number =  292 hit number = 231
+2  -> ab minimax heuristics node number =  202 hit number =  53
+2  -> ab ave factor =  3.08888888889
+3  -> ab minimax node number =  442 hit number = 344
+3  -> ab minimax heuristics node number =  304 hit number =  80
+3  -> ab ave factor =  3.07246376812
+4  -> ab minimax node number =  624 hit number = 480
+4  -> ab minimax heuristics node number =  426 hit number =  97
+4  -> ab ave factor =  3.0303030303
+5  -> ab minimax node number =  765 hit number = 589
+5  -> ab minimax heuristics node number =  525 hit number =  115
+5  -> ab ave factor =  3.0625
+6  -> ab minimax node number =  934 hit number = 708
+6  -> ab minimax heuristics node number =  634 hit number =  133
+6  -> ab ave factor =  2.99666666667
+7  -> ab minimax node number =  1299 hit number = 991
+7  -> ab minimax heuristics node number =  903 hit number =  188
+7  -> ab ave factor =  3.17171717172
+8  -> ab minimax node number =  1549 hit number = 1177
+8  -> ab minimax heuristics node number =  1081 hit number =  212
+8  -> ab ave factor =  3.20512820513
+9  -> ab minimax node number =  2017 hit number = 1567
+9  -> ab minimax heuristics node number =  1459 hit number =  279
+9  -> ab ave factor =  3.51075268817
+10  -> ab minimax node number =  2217 hit number = 1720
+10  -> ab minimax heuristics node number =  1605 hit number =  285
+10  -> ab ave factor =  3.51797385621
+11  -> ab minimax node number =  2686 hit number = 2078
+11  -> ab minimax heuristics node number =  1939 hit number =  335
+11  -> ab ave factor =  3.49799196787
+12  -> ab minimax node number =  3093 hit number = 2386
+12  -> ab minimax heuristics node number =  2234 hit number =  384
+12  -> ab ave factor =  3.50640279395
+13  -> ab minimax node number =  3391 hit number = 2591
+13  -> ab minimax heuristics node number =  2427 hit number =  408
+13  -> ab ave factor =  3.42634854772
+14  -> ab minimax node number =  3596 hit number = 2746
+14  -> ab minimax heuristics node number =  2567 hit number =  443
+14  -> ab ave factor =  3.40427599611
+15  -> ab minimax node number =  3845 hit number = 2914
+15  -> ab minimax heuristics node number =  2726 hit number =  460
+15  -> ab ave factor =  3.34763181412
+16  -> ab minimax node number =  4089 hit number = 3075
+16  -> ab minimax heuristics node number =  2874 hit number =  474
+16  -> ab ave factor =  3.27901234568
+17  -> ab minimax node number =  4476 hit number = 3367
+17  -> ab minimax heuristics node number =  3157 hit number =  504
+17  -> ab ave factor =  3.30780894617
+18  -> ab minimax node number =  4599 hit number = 3448
+18  -> ab minimax heuristics node number =  3230 hit number =  520
+18  -> ab ave factor =  3.27319211103
+19  -> ab minimax node number =  4925 hit number = 3700
+19  -> ab minimax heuristics node number =  3472 hit number =  556
+19  -> ab ave factor =  3.30350997935
+20  -> ab minimax node number =  5211 hit number = 3922
+20  -> ab minimax heuristics node number =  3688 hit number =  571
+20  -> ab ave factor =  3.33486539724
+21  -> ab minimax node number =  5450 hit number = 4116
+21  -> ab minimax heuristics node number =  3871 hit number =  600
+21  -> ab ave factor =  3.36352121596
+22  -> ab minimax node number =  5491 hit number = 4137
+22  -> ab minimax heuristics node number =  3892 hit number =  600
+22  -> ab ave factor =  3.34584115072
+24  -> ab minimax node number =  5556 hit number = 4171
+24  -> ab minimax heuristics node number =  3927 hit number =  611
+24  -> ab ave factor =  3.32228360958
+25  -> ab minimax node number =  5594 hit number = 4189
+25  -> ab minimax heuristics node number =  3945 hit number =  616
+25  -> ab ave factor =  3.30382049727
+26  -> ab minimax node number =  5670 hit number = 4233
+26  -> ab minimax heuristics node number =  3989 hit number =  617
+26  -> ab ave factor =  3.29330943847
+27  -> ab minimax node number =  5692 hit number = 4243
+27  -> ab minimax heuristics node number =  3999 hit number =  617
+27  -> ab ave factor =  3.28173190985
+29  -> ab minimax node number =  5702 hit number = 4246
+29  -> ab minimax heuristics node number =  4003 hit number =  617
+29  -> ab ave factor =  3.27482269504
+FINAL BOARD
+--
+
+***31
+    A B C D E F G H
+    ---------------
+8 | B B B B B B B B | 8
+7 | B B W B B B B B | 7
+6 | B B W W W W W B | 6
+5 | B W B B B B W B | 5
+4 | W W W W B B W W | 4
+3 | B B W W B B W B | 3
+2 | B B B W W W W B | 2
+1 | B B B B B B W B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 42 / 24.5
+White: 22 / 30.0
+
+- studentAndNumber (black) wins the game! (42-22)
+studentAndNumber (black) vs. random1 (white)
+
+0  -> ab minimax node number =  52 hit number = 39
+0  -> ab minimax heuristics node number =  32 hit number =  10
+0  -> ab ave factor =  2.4
+1  -> ab minimax node number =  149 hit number = 115
+1  -> ab minimax heuristics node number =  99 hit number =  24
+1  -> ab ave factor =  2.8
+2  -> ab minimax node number =  262 hit number = 207
+2  -> ab minimax heuristics node number =  182 hit number =  44
+2  -> ab ave factor =  3.1
+3  -> ab minimax node number =  369 hit number = 292
+3  -> ab minimax heuristics node number =  259 hit number =  57
+3  -> ab ave factor =  3.17272727273
+4  -> ab minimax node number =  590 hit number = 469
+4  -> ab minimax heuristics node number =  426 hit number =  83
+4  -> ab ave factor =  3.43902439024
+5  -> ab minimax node number =  940 hit number = 753
+5  -> ab minimax heuristics node number =  699 hit number =  127
+5  -> ab ave factor =  3.76348547718
+6  -> ab minimax node number =  1219 hit number = 970
+6  -> ab minimax heuristics node number =  906 hit number =  157
+6  -> ab ave factor =  3.76996805112
+7  -> ab minimax node number =  1559 hit number = 1253
+7  -> ab minimax heuristics node number =  1174 hit number =  199
+7  -> ab ave factor =  3.92467532468
+8  -> ab minimax node number =  1904 hit number = 1526
+8  -> ab minimax heuristics node number =  1439 hit number =  216
+8  -> ab ave factor =  3.97419354839
+9  -> ab minimax node number =  2195 hit number = 1762
+9  -> ab minimax heuristics node number =  1660 hit number =  242
+9  -> ab ave factor =  3.98504672897
+10  -> ab minimax node number =  2744 hit number = 2221
+10  -> ab minimax heuristics node number =  2109 hit number =  291
+10  -> ab ave factor =  4.2062992126
+11  -> ab minimax node number =  3538 hit number = 2895
+11  -> ab minimax heuristics node number =  2763 hit number =  415
+11  -> ab ave factor =  4.45806451613
+12  -> ab minimax node number =  4169 hit number = 3424
+12  -> ab minimax heuristics node number =  3274 hit number =  533
+12  -> ab ave factor =  4.55642458101
+13  -> ab minimax node number =  5055 hit number = 4187
+13  -> ab minimax heuristics node number =  4020 hit number =  699
+13  -> ab ave factor =  4.78647342995
+14  -> ab minimax node number =  5371 hit number = 4420
+14  -> ab minimax heuristics node number =  4246 hit number =  732
+14  -> ab ave factor =  4.67911111111
+15  -> ab minimax node number =  5831 hit number = 4791
+15  -> ab minimax heuristics node number =  4610 hit number =  800
+15  -> ab ave factor =  4.68304668305
+16  -> ab minimax node number =  6862 hit number = 5670
+16  -> ab minimax heuristics node number =  5481 hit number =  999
+16  -> ab ave factor =  4.87979724837
+17  -> ab minimax node number =  7559 hit number = 6253
+17  -> ab minimax heuristics node number =  6058 hit number =  1106
+17  -> ab ave factor =  4.94870086609
+18  -> ab minimax node number =  8666 hit number = 7217
+18  -> ab minimax heuristics node number =  7011 hit number =  1297
+18  -> ab ave factor =  5.15045317221
+19  -> ab minimax node number =  9788 hit number = 8196
+19  -> ab minimax heuristics node number =  7977 hit number =  1478
+19  -> ab ave factor =  5.31971286582
+20  -> ab minimax node number =  10435 hit number = 8738
+20  -> ab minimax heuristics node number =  8507 hit number =  1587
+20  -> ab ave factor =  5.32780082988
+21  -> ab minimax node number =  10929 hit number = 9151
+21  -> ab minimax heuristics node number =  8911 hit number =  1652
+21  -> ab ave factor =  5.33052527255
+22  -> ab minimax node number =  11090 hit number = 9272
+22  -> ab minimax heuristics node number =  9030 hit number =  1658
+22  -> ab ave factor =  5.29708737864
+23  -> ab minimax node number =  11188 hit number = 9342
+23  -> ab minimax heuristics node number =  9100 hit number =  1661
+23  -> ab ave factor =  5.27107279693
+24  -> ab minimax node number =  11252 hit number = 9381
+24  -> ab minimax heuristics node number =  9140 hit number =  1664
+24  -> ab ave factor =  5.24005681818
+25  -> ab minimax node number =  11419 hit number = 9502
+25  -> ab minimax heuristics node number =  9259 hit number =  1671
+25  -> ab ave factor =  5.19814814815
+26  -> ab minimax node number =  11569 hit number = 9606
+26  -> ab minimax heuristics node number =  9364 hit number =  1682
+26  -> ab ave factor =  5.15782312925
+27  -> ab minimax node number =  11595 hit number = 9618
+27  -> ab minimax heuristics node number =  9376 hit number =  1683
+27  -> ab ave factor =  5.13609734114
+FINAL BOARD
+--
+
+***32
+    A B C D E F G H
+    ---------------
+8 | B W W W W W W B | 8
+7 | B W W B B W W W | 7
+6 | B W B W B B B W | 6
+5 | B B W B W B B W | 5
+4 | B B W W B W B W | 4
+3 | B W B B B B B W | 3
+2 | W W W W W B B W | 2
+1 | B B B B W B B B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 34 / 16.9
+White: 30 / 30.0
+
+- studentAndNumber (black) wins the game! (34-30)
+studentAndNumber (black) vs. random1 (white)
+
+0  -> ab minimax node number =  52 hit number = 39
+0  -> ab minimax heuristics node number =  32 hit number =  10
+0  -> ab ave factor =  2.4
+1  -> ab minimax node number =  152 hit number = 120
+1  -> ab minimax heuristics node number =  107 hit number =  20
+1  -> ab ave factor =  3.17777777778
+2  -> ab minimax node number =  257 hit number = 199
+2  -> ab minimax heuristics node number =  182 hit number =  25
+2  -> ab ave factor =  3.24
+3  -> ab minimax node number =  438 hit number = 335
+3  -> ab minimax heuristics node number =  315 hit number =  39
+3  -> ab ave factor =  3.39837398374
+4  -> ab minimax node number =  548 hit number = 419
+4  -> ab minimax heuristics node number =  395 hit number =  44
+4  -> ab ave factor =  3.41830065359
+5  -> ab minimax node number =  702 hit number = 536
+5  -> ab minimax heuristics node number =  509 hit number =  55
+5  -> ab ave factor =  3.48186528497
+6  -> ab minimax node number =  940 hit number = 710
+6  -> ab minimax heuristics node number =  677 hit number =  82
+6  -> ab ave factor =  3.44106463878
+7  -> ab minimax node number =  1621 hit number = 1285
+7  -> ab minimax heuristics node number =  1232 hit number =  228
+7  -> ab ave factor =  4.05398457584
+8  -> ab minimax node number =  2070 hit number = 1652
+8  -> ab minimax heuristics node number =  1582 hit number =  334
+8  -> ab ave factor =  4.13319672131
+9  -> ab minimax node number =  2678 hit number = 2162
+9  -> ab minimax heuristics node number =  2073 hit number =  447
+9  -> ab ave factor =  4.32396694215
+10  -> ab minimax node number =  3280 hit number = 2668
+10  -> ab minimax heuristics node number =  2563 hit number =  574
+10  -> ab ave factor =  4.4769874477
+11  -> ab minimax node number =  4100 hit number = 3364
+11  -> ab minimax heuristics node number =  3240 hit number =  669
+11  -> ab ave factor =  4.67325581395
+12  -> ab minimax node number =  4768 hit number = 3912
+12  -> ab minimax heuristics node number =  3773 hit number =  725
+12  -> ab ave factor =  4.70150753769
+13  -> ab minimax node number =  5622 hit number = 4621
+13  -> ab minimax heuristics node number =  4471 hit number =  873
+13  -> ab ave factor =  4.79582971329
+14  -> ab minimax node number =  6892 hit number = 5748
+14  -> ab minimax heuristics node number =  5587 hit number =  1075
+14  -> ab ave factor =  5.19233716475
+15  -> ab minimax node number =  8102 hit number = 6829
+15  -> ab minimax heuristics node number =  6657 hit number =  1294
+15  -> ab ave factor =  5.51972318339
+16  -> ab minimax node number =  9692 hit number = 8265
+16  -> ab minimax heuristics node number =  8079 hit number =  1592
+16  -> ab ave factor =  5.92312461252
+17  -> ab minimax node number =  10596 hit number = 9034
+17  -> ab minimax heuristics node number =  8839 hit number =  1683
+17  -> ab ave factor =  5.9453614115
+18  -> ab minimax node number =  11135 hit number = 9448
+18  -> ab minimax heuristics node number =  9238 hit number =  1744
+18  -> ab ave factor =  5.78545071165
+19  -> ab minimax node number =  11674 hit number = 9875
+19  -> ab minimax heuristics node number =  9656 hit number =  1812
+19  -> ab ave factor =  5.70019821606
+20  -> ab minimax node number =  12164 hit number = 10262
+20  -> ab minimax heuristics node number =  10036 hit number =  1885
+20  -> ab ave factor =  5.63063909774
+21  -> ab minimax node number =  12726 hit number = 10740
+21  -> ab minimax heuristics node number =  10508 hit number =  1972
+21  -> ab ave factor =  5.65103697024
+22  -> ab minimax node number =  13124 hit number = 11078
+22  -> ab minimax heuristics node number =  10843 hit number =  2020
+22  -> ab ave factor =  5.66549758878
+23  -> ab minimax node number =  13444 hit number = 11344
+23  -> ab minimax heuristics node number =  11107 hit number =  2079
+23  -> ab ave factor =  5.66367137356
+24  -> ab minimax node number =  13652 hit number = 11510
+24  -> ab minimax heuristics node number =  11273 hit number =  2121
+24  -> ab ave factor =  5.64817150063
+25  -> ab minimax node number =  13816 hit number = 11638
+25  -> ab minimax heuristics node number =  11401 hit number =  2138
+25  -> ab ave factor =  5.62939958592
+26  -> ab minimax node number =  13905 hit number = 11702
+26  -> ab minimax heuristics node number =  11465 hit number =  2148
+26  -> ab ave factor =  5.60614754098
+27  -> ab minimax node number =  13935 hit number = 11720
+27  -> ab minimax heuristics node number =  11483 hit number =  2149
+27  -> ab ave factor =  5.58972267537
+28  -> ab minimax node number =  13953 hit number = 11728
+28  -> ab minimax heuristics node number =  11492 hit number =  2149
+28  -> ab ave factor =  5.57537586347
+FINAL BOARD
+--
+
+***31
+    A B C D E F G H
+    ---------------
+8 | B W W W W W W B | 8
+7 | W W W B B B W B | 7
+6 | W W B W B B W B | 6
+5 | W B W B W B W B | 5
+4 | W B B W B B W B | 4
+3 | W B B B W B W B | 3
+2 | W B B W B W W B | 2
+1 | B B B B B B W B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 35 / 13.8
+White: 29 / 30.0
+
+- studentAndNumber (black) wins the game! (35-29)
+studentAndNumber (black) vs. random1 (white)
+
+0  -> ab minimax node number =  52 hit number = 39
+0  -> ab minimax heuristics node number =  32 hit number =  10
+0  -> ab ave factor =  2.4
+1  -> ab minimax node number =  149 hit number = 115
+1  -> ab minimax heuristics node number =  99 hit number =  24
+1  -> ab ave factor =  2.8
+2  -> ab minimax node number =  379 hit number = 299
+2  -> ab minimax heuristics node number =  275 hit number =  59
+2  -> ab ave factor =  3.5
+3  -> ab minimax node number =  500 hit number = 389
+3  -> ab minimax heuristics node number =  352 hit number =  78
+3  -> ab ave factor =  3.25
+4  -> ab minimax node number =  726 hit number = 567
+4  -> ab minimax heuristics node number =  518 hit number =  100
+4  -> ab ave factor =  3.37019230769
+5  -> ab minimax node number =  941 hit number = 718
+5  -> ab minimax heuristics node number =  663 hit number =  122
+5  -> ab ave factor =  3.26978417266
+6  -> ab minimax node number =  1166 hit number = 894
+6  -> ab minimax heuristics node number =  828 hit number =  149
+6  -> ab ave factor =  3.33727810651
+7  -> ab minimax node number =  1664 hit number = 1310
+7  -> ab minimax heuristics node number =  1230 hit number =  225
+7  -> ab ave factor =  3.71889400922
+8  -> ab minimax node number =  2050 hit number = 1584
+8  -> ab minimax heuristics node number =  1499 hit number =  254
+8  -> ab ave factor =  3.61343012704
+9  -> ab minimax node number =  2400 hit number = 1864
+9  -> ab minimax heuristics node number =  1761 hit number =  309
+9  -> ab ave factor =  3.6510172144
+10  -> ab minimax node number =  2840 hit number = 2198
+10  -> ab minimax heuristics node number =  2081 hit number =  358
+10  -> ab ave factor =  3.64295125165
+11  -> ab minimax node number =  3433 hit number = 2685
+11  -> ab minimax heuristics node number =  2546 hit number =  449
+11  -> ab ave factor =  3.77677564825
+12  -> ab minimax node number =  3642 hit number = 2835
+12  -> ab minimax heuristics node number =  2690 hit number =  463
+12  -> ab ave factor =  3.73319327731
+13  -> ab minimax node number =  3812 hit number = 2950
+13  -> ab minimax heuristics node number =  2800 hit number =  473
+13  -> ab ave factor =  3.67490118577
+14  -> ab minimax node number =  4422 hit number = 3456
+14  -> ab minimax heuristics node number =  3293 hit number =  534
+14  -> ab ave factor =  3.82639503986
+15  -> ab minimax node number =  4626 hit number = 3615
+15  -> ab minimax heuristics node number =  3447 hit number =  550
+15  -> ab ave factor =  3.83290924512
+16  -> ab minimax node number =  5121 hit number = 4012
+16  -> ab minimax heuristics node number =  3830 hit number =  626
+16  -> ab ave factor =  3.87761425252
+17  -> ab minimax node number =  5977 hit number = 4734
+17  -> ab minimax heuristics node number =  4542 hit number =  722
+17  -> ab ave factor =  4.07665505226
+18  -> ab minimax node number =  6381 hit number = 5042
+18  -> ab minimax heuristics node number =  4842 hit number =  776
+18  -> ab ave factor =  4.05847953216
+19  -> ab minimax node number =  6632 hit number = 5224
+19  -> ab minimax heuristics node number =  5016 hit number =  806
+19  -> ab ave factor =  4.01608910891
+20  -> ab minimax node number =  6752 hit number = 5319
+20  -> ab minimax heuristics node number =  5106 hit number =  816
+20  -> ab ave factor =  4.01215066829
+21  -> ab minimax node number =  6957 hit number = 5471
+21  -> ab minimax heuristics node number =  5251 hit number =  841
+21  -> ab ave factor =  3.9876905041
+22  -> ab minimax node number =  7240 hit number = 5695
+22  -> ab minimax heuristics node number =  5470 hit number =  866
+22  -> ab ave factor =  3.9988700565
+23  -> ab minimax node number =  7458 hit number = 5858
+23  -> ab minimax heuristics node number =  5632 hit number =  873
+23  -> ab ave factor =  3.99178532311
+24  -> ab minimax node number =  7607 hit number = 5966
+24  -> ab minimax heuristics node number =  5739 hit number =  881
+24  -> ab ave factor =  3.97805139186
+25  -> ab minimax node number =  7807 hit number = 6121
+25  -> ab minimax heuristics node number =  5891 hit number =  896
+25  -> ab ave factor =  3.97860125261
+26  -> ab minimax node number =  7927 hit number = 6215
+26  -> ab minimax heuristics node number =  5983 hit number =  909
+26  -> ab ave factor =  3.97942386831
+27  -> ab minimax node number =  7985 hit number = 6256
+27  -> ab minimax heuristics node number =  6023 hit number =  911
+27  -> ab ave factor =  3.96941896024
+28  -> ab minimax node number =  8028 hit number = 6283
+28  -> ab minimax heuristics node number =  6050 hit number =  914
+28  -> ab ave factor =  3.9570273003
+29  -> ab minimax node number =  8034 hit number = 6287
+29  -> ab minimax heuristics node number =  6052 hit number =  915
+29  -> ab ave factor =  3.95404040404
+FINAL BOARD
+--
+
+***32
+    A B C D E F G H
+    ---------------
+8 | B W B B B B B B | 8
+7 | W W W B B B B B | 7
+6 | W W B B B W B B | 6
+5 | B B B B B B B B | 5
+4 | B B B B B B B B | 4
+3 | B B B B W B B B | 3
+2 | B B B W B B B B | 2
+1 | B B B B B B W B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 54 / 21.3
+White: 10 / 30.0
+
+- studentAndNumber (black) wins the game! (54-10)
+studentAndNumber (black) vs. random1 (white)
+
+0  -> ab minimax node number =  52 hit number = 39
+0  -> ab minimax heuristics node number =  32 hit number =  10
+0  -> ab ave factor =  2.4
+1  -> ab minimax node number =  149 hit number = 115
+1  -> ab minimax heuristics node number =  99 hit number =  24
+1  -> ab ave factor =  2.8
+2  -> ab minimax node number =  292 hit number = 231
+2  -> ab minimax heuristics node number =  202 hit number =  53
+2  -> ab ave factor =  3.08888888889
+3  -> ab minimax node number =  442 hit number = 344
+3  -> ab minimax heuristics node number =  304 hit number =  80
+3  -> ab ave factor =  3.07246376812
+4  -> ab minimax node number =  673 hit number = 519
+4  -> ab minimax heuristics node number =  465 hit number =  107
+4  -> ab ave factor =  3.11538461538
+5  -> ab minimax node number =  987 hit number = 772
+5  -> ab minimax heuristics node number =  702 hit number =  167
+5  -> ab ave factor =  3.35087719298
+6  -> ab minimax node number =  1179 hit number = 917
+6  -> ab minimax heuristics node number =  834 hit number =  185
+6  -> ab ave factor =  3.31014492754
+7  -> ab minimax node number =  1403 hit number = 1097
+7  -> ab minimax heuristics node number =  1004 hit number =  230
+7  -> ab ave factor =  3.40852130326
+8  -> ab minimax node number =  1579 hit number = 1239
+8  -> ab minimax heuristics node number =  1138 hit number =  257
+8  -> ab ave factor =  3.46712018141
+9  -> ab minimax node number =  1631 hit number = 1274
+9  -> ab minimax heuristics node number =  1163 hit number =  266
+9  -> ab ave factor =  3.37179487179
+10  -> ab minimax node number =  1789 hit number = 1395
+10  -> ab minimax heuristics node number =  1277 hit number =  284
+10  -> ab ave factor =  3.3828125
+11  -> ab minimax node number =  1839 hit number = 1422
+11  -> ab minimax heuristics node number =  1303 hit number =  288
+11  -> ab ave factor =  3.31902985075
+12  -> ab minimax node number =  2091 hit number = 1598
+12  -> ab minimax heuristics node number =  1478 hit number =  301
+12  -> ab ave factor =  3.30179445351
+13  -> ab minimax node number =  2316 hit number = 1755
+13  -> ab minimax heuristics node number =  1628 hit number =  319
+13  -> ab ave factor =  3.26162790698
+14  -> ab minimax node number =  2556 hit number = 1917
+14  -> ab minimax heuristics node number =  1784 hit number =  331
+14  -> ab ave factor =  3.20984455959
+15  -> ab minimax node number =  2688 hit number = 2007
+15  -> ab minimax heuristics node number =  1872 hit number =  335
+15  -> ab ave factor =  3.19362745098
+16  -> ab minimax node number =  2775 hit number = 2061
+16  -> ab minimax heuristics node number =  1926 hit number =  340
+16  -> ab ave factor =  3.16843345112
+17  -> ab minimax node number =  3110 hit number = 2308
+17  -> ab minimax heuristics node number =  2171 hit number =  396
+17  -> ab ave factor =  3.21192758253
+18  -> ab minimax node number =  3561 hit number = 2654
+18  -> ab minimax heuristics node number =  2512 hit number =  450
+18  -> ab ave factor =  3.29456625357
+19  -> ab minimax node number =  3730 hit number = 2772
+19  -> ab minimax heuristics node number =  2626 hit number =  463
+19  -> ab ave factor =  3.27898550725
+20  -> ab minimax node number =  4152 hit number = 3100
+20  -> ab minimax heuristics node number =  2948 hit number =  478
+20  -> ab ave factor =  3.3488372093
+21  -> ab minimax node number =  4372 hit number = 3256
+21  -> ab minimax heuristics node number =  3096 hit number =  516
+21  -> ab ave factor =  3.3275862069
+22  -> ab minimax node number =  4548 hit number = 3377
+22  -> ab minimax heuristics node number =  3212 hit number =  532
+22  -> ab ave factor =  3.30538922156
+23  -> ab minimax node number =  4784 hit number = 3558
+23  -> ab minimax heuristics node number =  3392 hit number =  562
+23  -> ab ave factor =  3.33692528736
+24  -> ab minimax node number =  5063 hit number = 3773
+24  -> ab minimax heuristics node number =  3607 hit number =  602
+24  -> ab ave factor =  3.37637362637
+25  -> ab minimax node number =  5318 hit number = 3967
+25  -> ab minimax heuristics node number =  3799 hit number =  631
+25  -> ab ave factor =  3.39960500329
+26  -> ab minimax node number =  5485 hit number = 4093
+26  -> ab minimax heuristics node number =  3924 hit number =  658
+26  -> ab ave factor =  3.41127482383
+27  -> ab minimax node number =  5583 hit number = 4156
+27  -> ab minimax heuristics node number =  3987 hit number =  666
+27  -> ab ave factor =  3.39473684211
+28  -> ab minimax node number =  5609 hit number = 4170
+28  -> ab minimax heuristics node number =  4001 hit number =  667
+28  -> ab ave factor =  3.38370646766
+FINAL BOARD
+--
+
+***31
+    A B C D E F G H
+    ---------------
+8 | B W W W W W W B | 8
+7 | B W W B B B B B | 7
+6 | B W B W W B B B | 6
+5 | B W B W W B W B | 5
+4 | B W W W B W W B | 4
+3 | B W W W W B W B | 3
+2 | W W W W W W W B | 2
+1 | B W W W W W W B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 26 / 23.8
+White: 38 / 30.0
+
+- random1 (white) wins the game! (38-26)
+studentAndNumber (black) vs. random1 (white)
+
+0  -> ab minimax node number =  52 hit number = 39
+0  -> ab minimax heuristics node number =  32 hit number =  10
+0  -> ab ave factor =  2.4
+1  -> ab minimax node number =  152 hit number = 120
+1  -> ab minimax heuristics node number =  107 hit number =  20
+1  -> ab ave factor =  3.17777777778
+2  -> ab minimax node number =  257 hit number = 204
+2  -> ab minimax heuristics node number =  188 hit number =  28
+2  -> ab ave factor =  3.50724637681
+3  -> ab minimax node number =  438 hit number = 357
+3  -> ab minimax heuristics node number =  327 hit number =  70
+3  -> ab ave factor =  3.75675675676
+4  -> ab minimax node number =  784 hit number = 656
+4  -> ab minimax heuristics node number =  613 hit number =  126
+4  -> ab ave factor =  4.4269005848
+5  -> ab minimax node number =  1255 hit number = 1045
+5  -> ab minimax heuristics node number =  988 hit number =  199
+5  -> ab ave factor =  4.56928838951
+6  -> ab minimax node number =  1716 hit number = 1428
+6  -> ab minimax heuristics node number =  1359 hit number =  260
+6  -> ab ave factor =  4.68347338936
+7  -> ab minimax node number =  2065 hit number = 1719
+7  -> ab minimax heuristics node number =  1644 hit number =  303
+7  -> ab ave factor =  4.78147268409
+8  -> ab minimax node number =  2525 hit number = 2101
+8  -> ab minimax heuristics node number =  2016 hit number =  352
+8  -> ab ave factor =  4.84282907662
+9  -> ab minimax node number =  2855 hit number = 2371
+9  -> ab minimax heuristics node number =  2276 hit number =  384
+9  -> ab ave factor =  4.81519861831
+10  -> ab minimax node number =  3391 hit number = 2820
+10  -> ab minimax heuristics node number =  2722 hit number =  446
+10  -> ab ave factor =  4.95515695067
+11  -> ab minimax node number =  3988 hit number = 3324
+11  -> ab minimax heuristics node number =  3219 hit number =  509
+11  -> ab ave factor =  5.07412223667
+12  -> ab minimax node number =  4563 hit number = 3815
+12  -> ab minimax heuristics node number =  3706 hit number =  557
+12  -> ab ave factor =  5.21120186698
+13  -> ab minimax node number =  5256 hit number = 4364
+13  -> ab minimax heuristics node number =  4245 hit number =  636
+13  -> ab ave factor =  5.09198813056
+14  -> ab minimax node number =  5934 hit number = 4900
+14  -> ab minimax heuristics node number =  4769 hit number =  698
+14  -> ab ave factor =  4.99141630901
+15  -> ab minimax node number =  6520 hit number = 5386
+15  -> ab minimax heuristics node number =  5251 hit number =  781
+15  -> ab ave factor =  5.0378250591
+16  -> ab minimax node number =  7157 hit number = 5912
+16  -> ab minimax heuristics node number =  5771 hit number =  835
+16  -> ab ave factor =  5.06565656566
+17  -> ab minimax node number =  7894 hit number = 6527
+17  -> ab minimax heuristics node number =  6382 hit number =  937
+17  -> ab ave factor =  5.125
+18  -> ab minimax node number =  8451 hit number = 6963
+18  -> ab minimax heuristics node number =  6813 hit number =  982
+18  -> ab ave factor =  5.06532356532
+19  -> ab minimax node number =  8630 hit number = 7093
+19  -> ab minimax heuristics node number =  6940 hit number =  990
+19  -> ab ave factor =  5.01301775148
+20  -> ab minimax node number =  8952 hit number = 7348
+20  -> ab minimax heuristics node number =  7190 hit number =  1008
+20  -> ab ave factor =  4.98751418842
+21  -> ab minimax node number =  9280 hit number = 7601
+21  -> ab minimax heuristics node number =  7440 hit number =  1025
+21  -> ab ave factor =  4.95108695652
+22  -> ab minimax node number =  9678 hit number = 7911
+22  -> ab minimax heuristics node number =  7747 hit number =  1046
+22  -> ab ave factor =  4.92024857587
+23  -> ab minimax node number =  10212 hit number = 8348
+23  -> ab minimax heuristics node number =  8182 hit number =  1095
+23  -> ab ave factor =  4.93891625616
+24  -> ab minimax node number =  10547 hit number = 8616
+24  -> ab minimax heuristics node number =  8447 hit number =  1139
+24  -> ab ave factor =  4.93047619048
+25  -> ab minimax node number =  10809 hit number = 8829
+25  -> ab minimax heuristics node number =  8660 hit number =  1153
+25  -> ab ave factor =  4.93671475105
+26  -> ab minimax node number =  10941 hit number = 8937
+26  -> ab minimax heuristics node number =  8768 hit number =  1166
+26  -> ab ave factor =  4.93925448688
+27  -> ab minimax node number =  11043 hit number = 9015
+27  -> ab minimax heuristics node number =  8846 hit number =  1168
+27  -> ab ave factor =  4.92899408284
+28  -> ab minimax node number =  11055 hit number = 9021
+28  -> ab minimax heuristics node number =  8852 hit number =  1169
+28  -> ab ave factor =  4.91965501589
+29  -> ab minimax node number =  11061 hit number = 9025
+29  -> ab minimax heuristics node number =  8854 hit number =  1169
+29  -> ab ave factor =  4.91609977324
+FINAL BOARD
+--
+
+***31
+    A B C D E F G H
+    ---------------
+8 | B B B B B B B B | 8
+7 | W B B B W B B B | 7
+6 | W B B B B B B B | 6
+5 | W B B B B W B B | 5
+4 | W B W B W W B B | 4
+3 | W W B W B W W W | 3
+2 | W W W B W W W W | 2
+1 | B B B B B B B B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 42 / 17.1
+White: 22 / 30.0
+
+- studentAndNumber (black) wins the game! (42-22)
+studentAndNumber (black) vs. random1 (white)
+
+0  -> ab minimax node number =  52 hit number = 39
+0  -> ab minimax heuristics node number =  32 hit number =  10
+0  -> ab ave factor =  2.4
+1  -> ab minimax node number =  152 hit number = 120
+1  -> ab minimax heuristics node number =  107 hit number =  20
+1  -> ab ave factor =  3.17777777778
+2  -> ab minimax node number =  257 hit number = 204
+2  -> ab minimax heuristics node number =  188 hit number =  28
+2  -> ab ave factor =  3.50724637681
+3  -> ab minimax node number =  438 hit number = 357
+3  -> ab minimax heuristics node number =  327 hit number =  70
+3  -> ab ave factor =  3.75675675676
+4  -> ab minimax node number =  797 hit number = 656
+4  -> ab minimax heuristics node number =  609 hit number =  153
+4  -> ab ave factor =  4.09042553191
+5  -> ab minimax node number =  1314 hit number = 1089
+5  -> ab minimax heuristics node number =  1027 hit number =  228
+5  -> ab ave factor =  4.44947735192
+6  -> ab minimax node number =  1618 hit number = 1321
+6  -> ab minimax heuristics node number =  1247 hit number =  271
+6  -> ab ave factor =  4.24258760108
+7  -> ab minimax node number =  1972 hit number = 1606
+7  -> ab minimax heuristics node number =  1517 hit number =  333
+7  -> ab ave factor =  4.22197802198
+8  -> ab minimax node number =  2328 hit number = 1897
+8  -> ab minimax heuristics node number =  1801 hit number =  382
+8  -> ab ave factor =  4.3055028463
+9  -> ab minimax node number =  2843 hit number = 2334
+9  -> ab minimax heuristics node number =  2226 hit number =  467
+9  -> ab ave factor =  4.49756888169
+10  -> ab minimax node number =  3320 hit number = 2737
+10  -> ab minimax heuristics node number =  2623 hit number =  529
+10  -> ab ave factor =  4.65136298422
+11  -> ab minimax node number =  3633 hit number = 2994
+11  -> ab minimax heuristics node number =  2872 hit number =  576
+11  -> ab ave factor =  4.66097240473
+12  -> ab minimax node number =  4080 hit number = 3366
+12  -> ab minimax heuristics node number =  3239 hit number =  660
+12  -> ab ave factor =  4.7372175981
+13  -> ab minimax node number =  4791 hit number = 3977
+13  -> ab minimax heuristics node number =  3840 hit number =  794
+13  -> ab ave factor =  4.92534174553
+14  -> ab minimax node number =  5394 hit number = 4474
+14  -> ab minimax heuristics node number =  4333 hit number =  890
+14  -> ab ave factor =  4.972667295
+15  -> ab minimax node number =  5828 hit number = 4833
+15  -> ab minimax heuristics node number =  4686 hit number =  966
+15  -> ab ave factor =  4.99211908932
+16  -> ab minimax node number =  6138 hit number = 5081
+16  -> ab minimax heuristics node number =  4926 hit number =  1018
+16  -> ab ave factor =  4.95379537954
+17  -> ab minimax node number =  6765 hit number = 5604
+17  -> ab minimax heuristics node number =  5443 hit number =  1080
+17  -> ab ave factor =  5.00756429652
+18  -> ab minimax node number =  7675 hit number = 6365
+18  -> ab minimax heuristics node number =  6197 hit number =  1226
+18  -> ab ave factor =  5.08592692828
+19  -> ab minimax node number =  8352 hit number = 6905
+19  -> ab minimax heuristics node number =  6731 hit number =  1321
+19  -> ab ave factor =  5.0481184454
+20  -> ab minimax node number =  8773 hit number = 7240
+20  -> ab minimax heuristics node number =  7056 hit number =  1377
+20  -> ab ave factor =  5.00640652301
+21  -> ab minimax node number =  8999 hit number = 7413
+21  -> ab minimax heuristics node number =  7226 hit number =  1393
+21  -> ab ave factor =  4.97179921038
+22  -> ab minimax node number =  9363 hit number = 7712
+22  -> ab minimax heuristics node number =  7520 hit number =  1425
+22  -> ab ave factor =  4.97666847531
+23  -> ab minimax node number =  9831 hit number = 8101
+23  -> ab minimax heuristics node number =  7907 hit number =  1464
+23  -> ab ave factor =  5.00571725572
+24  -> ab minimax node number =  10091 hit number = 8305
+24  -> ab minimax heuristics node number =  8111 hit number =  1482
+24  -> ab ave factor =  4.99141414141
+25  -> ab minimax node number =  10156 hit number = 8356
+25  -> ab minimax heuristics node number =  8162 hit number =  1484
+25  -> ab ave factor =  4.98545636911
+26  -> ab minimax node number =  10271 hit number = 8443
+26  -> ab minimax heuristics node number =  8249 hit number =  1493
+26  -> ab ave factor =  4.96983184965
+27  -> ab minimax node number =  10303 hit number = 8466
+27  -> ab minimax heuristics node number =  8271 hit number =  1494
+27  -> ab ave factor =  4.95866141732
+28  -> ab minimax node number =  10322 hit number = 8480
+28  -> ab minimax heuristics node number =  8282 hit number =  1498
+28  -> ab ave factor =  4.95432220039
+29  -> ab minimax node number =  10328 hit number = 8483
+29  -> ab minimax heuristics node number =  8284 hit number =  1499
+29  -> ab ave factor =  4.95044160942
+FINAL BOARD
+--
+
+***32
+    A B C D E F G H
+    ---------------
+8 | B B B B B B B B | 8
+7 | B W W B B B B B | 7
+6 | B W W B B W B B | 6
+5 | B W B W W B W B | 5
+4 | B W B B W B B B | 4
+3 | B W W B B W B B | 3
+2 | B W B B B B B B | 2
+1 | B B B B B B B B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 49 / 18.8
+White: 15 / 30.0
+
+- studentAndNumber (black) wins the game! (49-15)
+studentAndNumber (black) vs. random1 (white)
+
+0  -> ab minimax node number =  52 hit number = 39
+0  -> ab minimax heuristics node number =  32 hit number =  10
+0  -> ab ave factor =  2.4
+1  -> ab minimax node number =  152 hit number = 120
+1  -> ab minimax heuristics node number =  107 hit number =  20
+1  -> ab ave factor =  3.17777777778
+2  -> ab minimax node number =  257 hit number = 199
+2  -> ab minimax heuristics node number =  182 hit number =  25
+2  -> ab ave factor =  3.24
+3  -> ab minimax node number =  438 hit number = 335
+3  -> ab minimax heuristics node number =  315 hit number =  39
+3  -> ab ave factor =  3.39837398374
+4  -> ab minimax node number =  604 hit number = 463
+4  -> ab minimax heuristics node number =  433 hit number =  58
+4  -> ab ave factor =  3.38011695906
+5  -> ab minimax node number =  1186 hit number = 946
+5  -> ab minimax heuristics node number =  905 hit number =  125
+5  -> ab ave factor =  4.08896797153
+6  -> ab minimax node number =  1731 hit number = 1402
+6  -> ab minimax heuristics node number =  1351 hit number =  172
+6  -> ab ave factor =  4.42894736842
+7  -> ab minimax node number =  2185 hit number = 1784
+7  -> ab minimax heuristics node number =  1724 hit number =  199
+7  -> ab ave factor =  4.61605206074
+8  -> ab minimax node number =  3133 hit number = 2603
+8  -> ab minimax heuristics node number =  2529 hit number =  320
+8  -> ab ave factor =  5.07119205298
+9  -> ab minimax node number =  3900 hit number = 3280
+9  -> ab minimax heuristics node number =  3197 hit number =  410
+9  -> ab ave factor =  5.43243243243
+10  -> ab minimax node number =  4452 hit number = 3752
+10  -> ab minimax heuristics node number =  3659 hit number =  476
+10  -> ab ave factor =  5.50063051702
+11  -> ab minimax node number =  5643 hit number = 4817
+11  -> ab minimax heuristics node number =  4710 hit number =  706
+11  -> ab ave factor =  5.93676312969
+12  -> ab minimax node number =  6536 hit number = 5601
+12  -> ab minimax heuristics node number =  5482 hit number =  852
+12  -> ab ave factor =  6.09203036053
+13  -> ab minimax node number =  7922 hit number = 6795
+13  -> ab minimax heuristics node number =  6660 hit number =  1080
+13  -> ab ave factor =  6.17591125198
+14  -> ab minimax node number =  8885 hit number = 7622
+14  -> ab minimax heuristics node number =  7479 hit number =  1211
+14  -> ab ave factor =  6.21977240398
+15  -> ab minimax node number =  9543 hit number = 8170
+15  -> ab minimax heuristics node number =  8017 hit number =  1296
+15  -> ab ave factor =  6.15530799476
+16  -> ab minimax node number =  10127 hit number = 8635
+16  -> ab minimax heuristics node number =  8475 hit number =  1357
+16  -> ab ave factor =  6.03389830508
+17  -> ab minimax node number =  10546 hit number = 8976
+17  -> ab minimax heuristics node number =  8813 hit number =  1389
+17  -> ab ave factor =  5.9884593191
+18  -> ab minimax node number =  11100 hit number = 9438
+18  -> ab minimax heuristics node number =  9268 hit number =  1463
+18  -> ab ave factor =  5.96124454148
+19  -> ab minimax node number =  11506 hit number = 9784
+19  -> ab minimax heuristics node number =  9608 hit number =  1495
+19  -> ab ave factor =  5.96206533193
+20  -> ab minimax node number =  11810 hit number = 10018
+20  -> ab minimax heuristics node number =  9840 hit number =  1504
+20  -> ab ave factor =  5.89390862944
+21  -> ab minimax node number =  12165 hit number = 10295
+21  -> ab minimax heuristics node number =  10115 hit number =  1530
+21  -> ab ave factor =  5.83317073171
+22  -> ab minimax node number =  12512 hit number = 10560
+22  -> ab minimax heuristics node number =  10374 hit number =  1562
+22  -> ab ave factor =  5.75163704397
+23  -> ab minimax node number =  12803 hit number = 10793
+23  -> ab minimax heuristics node number =  10602 hit number =  1594
+23  -> ab ave factor =  5.71603816447
+24  -> ab minimax node number =  12836 hit number = 10810
+24  -> ab minimax heuristics node number =  10619 hit number =  1594
+24  -> ab ave factor =  5.68876860622
+26  -> ab minimax node number =  12919 hit number = 10862
+26  -> ab minimax heuristics node number =  10672 hit number =  1597
+26  -> ab ave factor =  5.64753004005
+27  -> ab minimax node number =  12953 hit number = 10881
+27  -> ab minimax heuristics node number =  10691 hit number =  1601
+27  -> ab ave factor =  5.62378426172
+28  -> ab minimax node number =  12967 hit number = 10887
+28  -> ab minimax heuristics node number =  10697 hit number =  1601
+28  -> ab ave factor =  5.61535068372
+FINAL BOARD
+--
+
+***32
+    A B C D E F G H
+    ---------------
+8 | B B B B B B B B | 8
+7 | W W B W W W W W | 7
+6 | B B W W B B W W | 6
+5 | B B W W W B B W | 5
+4 | B B B W W B B W | 4
+3 | B B B B W W W W | 3
+2 | W B B W W W W W | 2
+1 | B B B B B B B B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 36 / 16.1
+White: 28 / 30.0
+
+- studentAndNumber (black) wins the game! (36-28)
+studentAndNumber (black) vs. random1 (white)
+
+0  -> ab minimax node number =  52 hit number = 39
+0  -> ab minimax heuristics node number =  32 hit number =  10
+0  -> ab ave factor =  2.4
+1  -> ab minimax node number =  121 hit number = 88
+1  -> ab minimax heuristics node number =  77 hit number =  15
+1  -> ab ave factor =  2.56818181818
+2  -> ab minimax node number =  191 hit number = 143
+2  -> ab minimax heuristics node number =  123 hit number =  25
+2  -> ab ave factor =  2.64705882353
+3  -> ab minimax node number =  367 hit number = 288
+3  -> ab minimax heuristics node number =  257 hit number =  55
+3  -> ab ave factor =  3.18181818182
+4  -> ab minimax node number =  541 hit number = 419
+4  -> ab minimax heuristics node number =  377 hit number =  86
+4  -> ab ave factor =  3.15853658537
+5  -> ab minimax node number =  1054 hit number = 827
+5  -> ab minimax heuristics node number =  764 hit number =  196
+5  -> ab ave factor =  3.52413793103
+6  -> ab minimax node number =  1529 hit number = 1203
+6  -> ab minimax heuristics node number =  1119 hit number =  280
+6  -> ab ave factor =  3.62682926829
+7  -> ab minimax node number =  1775 hit number = 1394
+7  -> ab minimax heuristics node number =  1300 hit number =  313
+7  -> ab ave factor =  3.63789473684
+8  -> ab minimax node number =  2546 hit number = 2022
+8  -> ab minimax heuristics node number =  1911 hit number =  412
+8  -> ab ave factor =  3.91968503937
+9  -> ab minimax node number =  3250 hit number = 2600
+9  -> ab minimax heuristics node number =  2471 hit number =  528
+9  -> ab ave factor =  4.08344030809
+10  -> ab minimax node number =  3499 hit number = 2801
+10  -> ab minimax heuristics node number =  2656 hit number =  573
+10  -> ab ave factor =  4.05931198102
+11  -> ab minimax node number =  3724 hit number = 2967
+11  -> ab minimax heuristics node number =  2804 hit number =  601
+11  -> ab ave factor =  3.95652173913
+12  -> ab minimax node number =  3986 hit number = 3193
+12  -> ab minimax heuristics node number =  3010 hit number =  668
+12  -> ab ave factor =  3.99180327869
+FINAL BOARD
+--
+
+***14
+    A B C D E F G H
+    ---------------
+8 | . . B . . . . B | 8
+7 | . . B . . . B . | 7
+6 | . . B B B B . . | 6
+5 | . . B B B B . . | 5
+4 | . . B B B B . . | 4
+3 | B B B B B B B . | 3
+2 | . B . . . B B . | 2
+1 | B . . . . B . B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 29 / 27.2
+White: 0 / 30.0
+
+- studentAndNumber (black) wins the game! (64-0)
+studentAndNumber (black) vs. random1 (white)
+
+0  -> ab minimax node number =  52 hit number = 39
+0  -> ab minimax heuristics node number =  32 hit number =  10
+0  -> ab ave factor =  2.4
+1  -> ab minimax node number =  152 hit number = 120
+1  -> ab minimax heuristics node number =  107 hit number =  20
+1  -> ab ave factor =  3.17777777778
+2  -> ab minimax node number =  240 hit number = 187
+2  -> ab minimax heuristics node number =  167 hit number =  29
+2  -> ab ave factor =  3.1095890411
+3  -> ab minimax node number =  421 hit number = 321
+3  -> ab minimax heuristics node number =  293 hit number =  48
+3  -> ab ave factor =  3.1484375
+4  -> ab minimax node number =  598 hit number = 463
+4  -> ab minimax heuristics node number =  428 hit number =  62
+4  -> ab ave factor =  3.37647058824
+5  -> ab minimax node number =  867 hit number = 680
+5  -> ab minimax heuristics node number =  634 hit number =  106
+5  -> ab ave factor =  3.58798283262
+6  -> ab minimax node number =  1344 hit number = 1059
+6  -> ab minimax heuristics node number =  1007 hit number =  165
+6  -> ab ave factor =  3.87240356083
+7  -> ab minimax node number =  1903 hit number = 1513
+7  -> ab minimax heuristics node number =  1446 hit number =  253
+7  -> ab ave factor =  4.05689277899
+8  -> ab minimax node number =  2402 hit number = 1919
+8  -> ab minimax heuristics node number =  1837 hit number =  305
+8  -> ab ave factor =  4.14867256637
+9  -> ab minimax node number =  2976 hit number = 2402
+9  -> ab minimax heuristics node number =  2301 hit number =  369
+9  -> ab ave factor =  4.30814814815
+10  -> ab minimax node number =  3678 hit number = 2979
+10  -> ab minimax heuristics node number =  2863 hit number =  493
+10  -> ab ave factor =  4.41717791411
+11  -> ab minimax node number =  4448 hit number = 3632
+11  -> ab minimax heuristics node number =  3498 hit number =  620
+11  -> ab ave factor =  4.59052631579
+12  -> ab minimax node number =  5410 hit number = 4471
+12  -> ab minimax heuristics node number =  4325 hit number =  744
+12  -> ab ave factor =  4.89769585253
+13  -> ab minimax node number =  6247 hit number = 5166
+13  -> ab minimax heuristics node number =  5009 hit number =  811
+13  -> ab ave factor =  4.96122778675
+
+
+- You quit the game!
+studentAndNumber (black) vs. random1 (white)
+
+0  -> ab minimax node number =  52 hit number = 39
+0  -> ab minimax heuristics node number =  32 hit number =  10
+0  -> ab ave factor =  2.4
+1  -> ab minimax node number =  149 hit number = 115
+1  -> ab minimax heuristics node number =  99 hit number =  24
+1  -> ab ave factor =  2.8
+
+
+- You quit the game!
+studentAndNumber (black) vs. random1 (white)
+
+0  -> ab minimax node number =  52 hit number = 39
+0  -> ab minimax heuristics node number =  32 hit number =  10
+0  -> ab ave factor =  2.4
+1  -> ab minimax node number =  149 hit number = 115
+1  -> ab minimax heuristics node number =  99 hit number =  24
+1  -> ab ave factor =  2.8
+2  -> ab minimax node number =  379 hit number = 299
+2  -> ab minimax heuristics node number =  275 hit number =  59
+2  -> ab ave factor =  3.5
+3  -> ab minimax node number =  662 hit number = 525
+3  -> ab minimax heuristics node number =  486 hit number =  97
+3  -> ab ave factor =  3.63068181818
+4  -> ab minimax node number =  955 hit number = 762
+4  -> ab minimax heuristics node number =  715 hit number =  129
+4  -> ab ave factor =  3.85
+5  -> ab minimax node number =  1171 hit number = 929
+5  -> ab minimax heuristics node number =  875 hit number =  146
+5  -> ab ave factor =  3.8277027027
+6  -> ab minimax node number =  1381 hit number = 1094
+6  -> ab minimax heuristics node number =  1031 hit number =  167
+6  -> ab ave factor =  3.82
+7  -> ab minimax node number =  1822 hit number = 1449
+7  -> ab minimax heuristics node number =  1373 hit number =  231
+7  -> ab ave factor =  3.93986636971
+8  -> ab minimax node number =  2195 hit number = 1724
+8  -> ab minimax heuristics node number =  1638 hit number =  257
+8  -> ab ave factor =  3.82944344704
+9  -> ab minimax node number =  2701 hit number = 2147
+9  -> ab minimax heuristics node number =  2048 hit number =  322
+9  -> ab ave factor =  4.02297090352
+10  -> ab minimax node number =  3314 hit number = 2686
+10  -> ab minimax heuristics node number =  2577 hit number =  393
+10  -> ab ave factor =  4.37991858887
+11  -> ab minimax node number =  3607 hit number = 2923
+11  -> ab minimax heuristics node number =  2807 hit number =  412
+11  -> ab ave factor =  4.39
+12  -> ab minimax node number =  4195 hit number = 3439
+12  -> ab minimax heuristics node number =  3317 hit number =  512
+12  -> ab ave factor =  4.65489749431
+13  -> ab minimax node number =  5447 hit number = 4576
+13  -> ab minimax heuristics node number =  4441 hit number =  739
+13  -> ab ave factor =  5.29125248509
+14  -> ab minimax node number =  5908 hit number = 4952
+14  -> ab minimax heuristics node number =  4811 hit number =  813
+14  -> ab ave factor =  5.26071103008
+15  -> ab minimax node number =  6171 hit number = 5128
+15  -> ab minimax heuristics node number =  4978 hit number =  843
+15  -> ab ave factor =  5.05113160101
+16  -> ab minimax node number =  6522 hit number = 5403
+16  -> ab minimax heuristics node number =  5245 hit number =  874
+16  -> ab ave factor =  4.98825371966
+17  -> ab minimax node number =  6705 hit number = 5539
+17  -> ab minimax heuristics node number =  5373 hit number =  894
+17  -> ab ave factor =  4.91591591592
+18  -> ab minimax node number =  7301 hit number = 6024
+18  -> ab minimax heuristics node number =  5852 hit number =  956
+18  -> ab ave factor =  4.92408557626
+19  -> ab minimax node number =  7631 hit number = 6260
+19  -> ab minimax heuristics node number =  6086 hit number =  974
+19  -> ab ave factor =  4.82653721683
+20  -> ab minimax node number =  8172 hit number = 6699
+20  -> ab minimax heuristics node number =  6517 hit number =  1023
+20  -> ab ave factor =  4.82658610272
+21  -> ab minimax node number =  8347 hit number = 6815
+21  -> ab minimax heuristics node number =  6632 hit number =  1031
+21  -> ab ave factor =  4.75685131195
+22  -> ab minimax node number =  8574 hit number = 6972
+22  -> ab minimax heuristics node number =  6787 hit number =  1050
+22  -> ab ave factor =  4.68774482373
+23  -> ab minimax node number =  8769 hit number = 7108
+23  -> ab minimax heuristics node number =  6922 hit number =  1066
+23  -> ab ave factor =  4.63779101245
+24  -> ab minimax node number =  8922 hit number = 7212
+24  -> ab minimax heuristics node number =  7025 hit number =  1069
+24  -> ab ave factor =  4.59356879283
+25  -> ab minimax node number =  9116 hit number = 7355
+25  -> ab minimax heuristics node number =  7165 hit number =  1079
+25  -> ab ave factor =  4.56278831369
+26  -> ab minimax node number =  9185 hit number = 7397
+26  -> ab minimax heuristics node number =  7207 hit number =  1080
+26  -> ab ave factor =  4.53387259858
+27  -> ab minimax node number =  9207 hit number = 7407
+27  -> ab minimax heuristics node number =  7217 hit number =  1080
+27  -> ab ave factor =  4.51658291457
+FINAL BOARD
+--
+
+***31
+    A B C D E F G H
+    ---------------
+8 | B W B B B B B B | 8
+7 | W W W W W B B B | 7
+6 | W W B B B W B B | 6
+5 | W B W B W W W W | 5
+4 | W B B W B B W W | 4
+3 | W B B B W W B W | 3
+2 | W W W W W B B W | 2
+1 | B B B B B B B B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 35 / 20.5
+White: 29 / 30.0
+
+- studentAndNumber (black) wins the game! (35-29)
+studentAndNumber (black) vs. random1 (white)
+
+0  -> ab minimax node number =  52 hit number = 39
+0  -> ab minimax heuristics node number =  32 hit number =  10
+0  -> ab ave factor =  2.4
+1  -> ab minimax node number =  121 hit number = 88
+1  -> ab minimax heuristics node number =  77 hit number =  15
+1  -> ab ave factor =  2.56818181818
+2  -> ab minimax node number =  234 hit number = 179
+2  -> ab minimax heuristics node number =  160 hit number =  29
+2  -> ab ave factor =  2.98648648649
+3  -> ab minimax node number =  363 hit number = 277
+3  -> ab minimax heuristics node number =  249 hit number =  48
+3  -> ab ave factor =  3.02631578947
+4  -> ab minimax node number =  761 hit number = 602
+4  -> ab minimax heuristics node number =  559 hit number =  114
+4  -> ab ave factor =  3.63861386139
+5  -> ab minimax node number =  1239 hit number = 994
+5  -> ab minimax heuristics node number =  927 hit number =  216
+5  -> ab ave factor =  3.85576923077
+6  -> ab minimax node number =  1833 hit number = 1521
+6  -> ab minimax heuristics node number =  1431 hit number =  362
+6  -> ab ave factor =  4.44527363184
+7  -> ab minimax node number =  2199 hit number = 1830
+7  -> ab minimax heuristics node number =  1733 hit number =  402
+7  -> ab ave factor =  4.60300429185
+8  -> ab minimax node number =  2705 hit number = 2275
+8  -> ab minimax heuristics node number =  2173 hit number =  482
+8  -> ab ave factor =  4.96240601504
+9  -> ab minimax node number =  3472 hit number = 2922
+9  -> ab minimax heuristics node number =  2808 hit number =  584
+9  -> ab ave factor =  5.11295180723
+10  -> ab minimax node number =  4172 hit number = 3533
+10  -> ab minimax heuristics node number =  3412 hit number =  705
+10  -> ab ave factor =  5.37236842105
+11  -> ab minimax node number =  5154 hit number = 4396
+11  -> ab minimax heuristics node number =  4268 hit number =  847
+11  -> ab ave factor =  5.70090293454
+12  -> ab minimax node number =  5520 hit number = 4677
+12  -> ab minimax heuristics node number =  4543 hit number =  873
+12  -> ab ave factor =  5.53735926305
+13  -> ab minimax node number =  5783 hit number = 4859
+13  -> ab minimax heuristics node number =  4722 hit number =  881
+13  -> ab ave factor =  5.34118755891
+14  -> ab minimax node number =  6106 hit number = 5090
+14  -> ab minimax heuristics node number =  4949 hit number =  905
+14  -> ab ave factor =  5.17026793431
+15  -> ab minimax node number =  6551 hit number = 5414
+15  -> ab minimax heuristics node number =  5264 hit number =  939
+15  -> ab ave factor =  4.98601398601
+16  -> ab minimax node number =  6718 hit number = 5517
+16  -> ab minimax heuristics node number =  5361 hit number =  950
+16  -> ab ave factor =  4.88541666667
+17  -> ab minimax node number =  6843 hit number = 5592
+17  -> ab minimax heuristics node number =  5431 hit number =  963
+17  -> ab ave factor =  4.80633549316
+18  -> ab minimax node number =  7124 hit number = 5808
+18  -> ab minimax heuristics node number =  5640 hit number =  989
+18  -> ab ave factor =  4.78620689655
+19  -> ab minimax node number =  7281 hit number = 5920
+19  -> ab minimax heuristics node number =  5745 hit number =  1011
+19  -> ab ave factor =  4.7223701731
+20  -> ab minimax node number =  7387 hit number = 5988
+20  -> ab minimax heuristics node number =  5809 hit number =  1029
+20  -> ab ave factor =  4.66062176166
+21  -> ab minimax node number =  7517 hit number = 6069
+21  -> ab minimax heuristics node number =  5887 hit number =  1033
+21  -> ab ave factor =  4.58771929825
+22  -> ab minimax node number =  7732 hit number = 6227
+22  -> ab minimax heuristics node number =  6042 hit number =  1055
+22  -> ab ave factor =  4.54830917874
+23  -> ab minimax node number =  8022 hit number = 6455
+23  -> ab minimax heuristics node number =  6266 hit number =  1077
+23  -> ab ave factor =  4.53890824623
+24  -> ab minimax node number =  8404 hit number = 6776
+24  -> ab minimax heuristics node number =  6585 hit number =  1122
+24  -> ab ave factor =  4.58879551821
+25  -> ab minimax node number =  8759 hit number = 7068
+25  -> ab minimax heuristics node number =  6876 hit number =  1155
+25  -> ab ave factor =  4.61763115197
+26  -> ab minimax node number =  9007 hit number = 7267
+26  -> ab minimax heuristics node number =  7075 hit number =  1178
+26  -> ab ave factor =  4.62539515279
+27  -> ab minimax node number =  9147 hit number = 7370
+27  -> ab minimax heuristics node number =  7179 hit number =  1183
+27  -> ab ave factor =  4.60858324716
+28  -> ab minimax node number =  9198 hit number = 7401
+28  -> ab minimax heuristics node number =  7210 hit number =  1184
+28  -> ab ave factor =  4.58546571136
+29  -> ab minimax node number =  9208 hit number = 7405
+29  -> ab minimax heuristics node number =  7214 hit number =  1184
+29  -> ab ave factor =  4.58282208589
+FINAL BOARD
+--
+
+***31
+    A B C D E F G H
+    ---------------
+8 | B W W W W W W B | 8
+7 | B W W W W W W W | 7
+6 | B W B W W W W W | 6
+5 | B W B W W W W W | 5
+4 | B W B W W W W W | 4
+3 | B W W B B B W W | 3
+2 | W W W W W W W W | 2
+1 | B B B B B B W B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 20 / 20.1
+White: 44 / 30.0
+
+- random1 (white) wins the game! (44-20)
+studentAndNumber (black) vs. random1 (white)
+
+0  -> ab minimax node number =  52 hit number = 39
+0  -> ab minimax heuristics node number =  32 hit number =  10
+0  -> ab ave factor =  2.4
+1  -> ab minimax node number =  152 hit number = 120
+1  -> ab minimax heuristics node number =  107 hit number =  20
+1  -> ab ave factor =  3.17777777778
+2  -> ab minimax node number =  257 hit number = 199
+2  -> ab minimax heuristics node number =  182 hit number =  25
+2  -> ab ave factor =  3.24
+3  -> ab minimax node number =  501 hit number = 393
+3  -> ab minimax heuristics node number =  363 hit number =  50
+3  -> ab ave factor =  3.47826086957
+4  -> ab minimax node number =  747 hit number = 576
+4  -> ab minimax heuristics node number =  532 hit number =  82
+4  -> ab ave factor =  3.34418604651
+5  -> ab minimax node number =  1034 hit number = 805
+5  -> ab minimax heuristics node number =  749 hit number =  115
+5  -> ab ave factor =  3.50526315789
+6  -> ab minimax node number =  1376 hit number = 1078
+6  -> ab minimax heuristics node number =  1010 hit number =  148
+6  -> ab ave factor =  3.6393442623
+7  -> ab minimax node number =  1668 hit number = 1315
+7  -> ab minimax heuristics node number =  1238 hit number =  169
+7  -> ab ave factor =  3.75813953488
+8  -> ab minimax node number =  2109 hit number = 1674
+8  -> ab minimax heuristics node number =  1580 hit number =  228
+8  -> ab ave factor =  3.87145557656
+9  -> ab minimax node number =  2488 hit number = 1994
+9  -> ab minimax heuristics node number =  1887 hit number =  286
+9  -> ab ave factor =  4.02329450915
+10  -> ab minimax node number =  2767 hit number = 2221
+10  -> ab minimax heuristics node number =  2106 hit number =  306
+10  -> ab ave factor =  4.06505295008
+11  -> ab minimax node number =  3202 hit number = 2592
+11  -> ab minimax heuristics node number =  2471 hit number =  357
+11  -> ab ave factor =  4.25718194254
+12  -> ab minimax node number =  3674 hit number = 2986
+12  -> ab minimax heuristics node number =  2853 hit number =  403
+12  -> ab ave factor =  4.35322777101
+13  -> ab minimax node number =  4362 hit number = 3551
+13  -> ab minimax heuristics node number =  3411 hit number =  481
+13  -> ab ave factor =  4.47108307045
+14  -> ab minimax node number =  4605 hit number = 3719
+14  -> ab minimax heuristics node number =  3579 hit number =  510
+14  -> ab ave factor =  4.37621832359
+15  -> ab minimax node number =  4760 hit number = 3828
+15  -> ab minimax heuristics node number =  3686 hit number =  525
+15  -> ab ave factor =  4.32216014898
+16  -> ab minimax node number =  4924 hit number = 3935
+16  -> ab minimax heuristics node number =  3790 hit number =  532
+16  -> ab ave factor =  4.23456790123
+17  -> ab minimax node number =  5132 hit number = 4071
+17  -> ab minimax heuristics node number =  3923 hit number =  543
+17  -> ab ave factor =  4.13978494624
+18  -> ab minimax node number =  5467 hit number = 4313
+18  -> ab minimax heuristics node number =  4160 hit number =  565
+18  -> ab ave factor =  4.08033664881
+19  -> ab minimax node number =  5625 hit number = 4412
+19  -> ab minimax heuristics node number =  4258 hit number =  571
+19  -> ab ave factor =  4.01316752012
+20  -> ab minimax node number =  5977 hit number = 4694
+20  -> ab minimax heuristics node number =  4538 hit number =  598
+20  -> ab ave factor =  4.05142460042
+21  -> ab minimax node number =  6289 hit number = 4946
+21  -> ab minimax heuristics node number =  4786 hit number =  632
+21  -> ab ave factor =  4.08117099135
+22  -> ab minimax node number =  6736 hit number = 5322
+22  -> ab minimax heuristics node number =  5152 hit number =  666
+22  -> ab ave factor =  4.14898989899
+23  -> ab minimax node number =  6917 hit number = 5463
+23  -> ab minimax heuristics node number =  5291 hit number =  681
+23  -> ab ave factor =  4.14883148831
+24  -> ab minimax node number =  7152 hit number = 5640
+24  -> ab minimax heuristics node number =  5462 hit number =  708
+24  -> ab ave factor =  4.12603550296
+25  -> ab minimax node number =  7446 hit number = 5881
+25  -> ab minimax heuristics node number =  5700 hit number =  729
+25  -> ab ave factor =  4.15750286369
+26  -> ab minimax node number =  7618 hit number = 6021
+26  -> ab minimax heuristics node number =  5837 hit number =  738
+26  -> ab ave factor =  4.16844469399
+27  -> ab minimax node number =  7711 hit number = 6091
+27  -> ab minimax heuristics node number =  5906 hit number =  742
+27  -> ab ave factor =  4.16121883657
+28  -> ab minimax node number =  7740 hit number = 6109
+28  -> ab minimax heuristics node number =  5923 hit number =  742
+28  -> ab ave factor =  4.14749587232
+29  -> ab minimax node number =  7746 hit number = 6113
+29  -> ab minimax heuristics node number =  5925 hit number =  743
+29  -> ab ave factor =  4.14403518417
+FINAL BOARD
+--
+
+***32
+    A B C D E F G H
+    ---------------
+8 | W B B B B B B B | 8
+7 | W W W W W W W B | 7
+6 | W W B B B B W B | 6
+5 | W B W B B W B B | 5
+4 | W B B W B B B B | 4
+3 | W B B W W B B B | 3
+2 | B B B B B B B B | 2
+1 | B W W W W W W B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 39 / 21.4
+White: 25 / 30.0
+
+- studentAndNumber (black) wins the game! (39-25)
+studentAndNumber (black) vs. random1 (white)
+
+0  -> ab minimax node number =  52 hit number = 39
+0  -> ab minimax heuristics node number =  32 hit number =  10
+0  -> ab ave factor =  2.4
+1  -> ab minimax node number =  121 hit number = 88
+1  -> ab minimax heuristics node number =  77 hit number =  15
+1  -> ab ave factor =  2.56818181818
+2  -> ab minimax node number =  234 hit number = 179
+2  -> ab minimax heuristics node number =  160 hit number =  29
+2  -> ab ave factor =  2.98648648649
+3  -> ab minimax node number =  424 hit number = 341
+3  -> ab minimax heuristics node number =  308 hit number =  87
+3  -> ab ave factor =  3.49137931034
+4  -> ab minimax node number =  685 hit number = 563
+4  -> ab minimax heuristics node number =  515 hit number =  153
+4  -> ab ave factor =  3.88235294118
+5  -> ab minimax node number =  898 hit number = 736
+5  -> ab minimax heuristics node number =  676 hit number =  193
+5  -> ab ave factor =  3.91441441441
+6  -> ab minimax node number =  983 hit number = 794
+6  -> ab minimax heuristics node number =  733 hit number =  199
+6  -> ab ave factor =  3.8
+7  -> ab minimax node number =  1118 hit number = 906
+7  -> ab minimax heuristics node number =  836 hit number =  233
+7  -> ab ave factor =  3.83333333333
+8  -> ab minimax node number =  1424 hit number = 1171
+8  -> ab minimax heuristics node number =  1097 hit number =  280
+8  -> ab ave factor =  4.21406727829
+9  -> ab minimax node number =  2407 hit number = 2034
+9  -> ab minimax heuristics node number =  1950 hit number =  473
+9  -> ab ave factor =  5.13785557987
+10  -> ab minimax node number =  2803 hit number = 2370
+10  -> ab minimax heuristics node number =  2274 hit number =  552
+10  -> ab ave factor =  5.17013232514
+11  -> ab minimax node number =  3434 hit number = 2914
+11  -> ab minimax heuristics node number =  2806 hit number =  668
+11  -> ab ave factor =  5.34554140127
+12  -> ab minimax node number =  3856 hit number = 3277
+12  -> ab minimax heuristics node number =  3156 hit number =  741
+12  -> ab ave factor =  5.38571428571
+13  -> ab minimax node number =  4823 hit number = 4117
+13  -> ab minimax heuristics node number =  3991 hit number =  868
+13  -> ab ave factor =  5.67908653846
+14  -> ab minimax node number =  5607 hit number = 4798
+14  -> ab minimax heuristics node number =  4665 hit number =  974
+14  -> ab ave factor =  5.83651804671
+15  -> ab minimax node number =  6379 hit number = 5427
+15  -> ab minimax heuristics node number =  5287 hit number =  1046
+15  -> ab ave factor =  5.7326007326
+16  -> ab minimax node number =  7063 hit number = 6000
+16  -> ab minimax heuristics node number =  5854 hit number =  1115
+16  -> ab ave factor =  5.73614557486
+17  -> ab minimax node number =  8052 hit number = 6865
+17  -> ab minimax heuristics node number =  6713 hit number =  1233
+17  -> ab ave factor =  5.90814040329
+18  -> ab minimax node number =  8836 hit number = 7512
+18  -> ab minimax heuristics node number =  7354 hit number =  1310
+18  -> ab ave factor =  5.85829959514
+19  -> ab minimax node number =  9513 hit number = 8075
+19  -> ab minimax heuristics node number =  7911 hit number =  1364
+19  -> ab ave factor =  5.83583021223
+20  -> ab minimax node number =  9962 hit number = 8437
+20  -> ab minimax heuristics node number =  8272 hit number =  1405
+20  -> ab ave factor =  5.79289940828
+21  -> ab minimax node number =  10745 hit number = 9097
+21  -> ab minimax heuristics node number =  8929 hit number =  1523
+21  -> ab ave factor =  5.81718061674
+22  -> ab minimax node number =  11221 hit number = 9486
+22  -> ab minimax heuristics node number =  9314 hit number =  1586
+22  -> ab ave factor =  5.78552700577
+23  -> ab minimax node number =  11604 hit number = 9796
+23  -> ab minimax heuristics node number =  9620 hit number =  1636
+23  -> ab ave factor =  5.75050403226
+24  -> ab minimax node number =  11905 hit number = 10035
+24  -> ab minimax heuristics node number =  9857 hit number =  1661
+24  -> ab ave factor =  5.7138671875
+25  -> ab minimax node number =  12175 hit number = 10243
+25  -> ab minimax heuristics node number =  10064 hit number =  1678
+25  -> ab ave factor =  5.66792989105
+26  -> ab minimax node number =  12312 hit number = 10345
+26  -> ab minimax heuristics node number =  10166 hit number =  1693
+26  -> ab ave factor =  5.63699906803
+27  -> ab minimax node number =  12359 hit number = 10374
+27  -> ab minimax heuristics node number =  10195 hit number =  1693
+27  -> ab ave factor =  5.61044362292
+28  -> ab minimax node number =  12383 hit number = 10388
+28  -> ab minimax heuristics node number =  10209 hit number =  1693
+28  -> ab ave factor =  5.59475620975
+29  -> ab minimax node number =  12389 hit number = 10390
+29  -> ab minimax heuristics node number =  10211 hit number =  1693
+29  -> ab ave factor =  5.58631772268
+FINAL BOARD
+--
+
+***31
+    A B C D E F G H
+    ---------------
+8 | B B B B B B B B | 8
+7 | B B B B B W W W | 7
+6 | B B W B B W W W | 6
+5 | B W B B W B W W | 5
+4 | W W B W B W B W | 4
+3 | B B W B B B W W | 3
+2 | B B B B B B W W | 2
+1 | B B B B B B B B | 1
+    ---------------
+    A B C D E F G H
+
+STATISTICS (score / remaining time):
+Black: 43 / 15.8
+White: 21 / 30.0
+
+- studentAndNumber (black) wins the game! (43-21)
